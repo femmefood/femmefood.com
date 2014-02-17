@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Banan cookies 
 date: 2014-02-17
 tags: 
   - Mandler
