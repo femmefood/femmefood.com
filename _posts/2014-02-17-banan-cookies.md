@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 date: 2014-02-17
 tags: 
