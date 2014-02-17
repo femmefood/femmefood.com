@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-date: {}
+date: 2014-02-17
 tags: 
   - Mandler
   - Stevia
@@ -11,7 +11,7 @@ categories:
 ---
 
 
-![Quinoa tærte](/https://lh6.googleusercontent.com/-O5yndZPbUyI/UW7zAJlLCMI/AAAAAAAAA4I/2fUL3o8Wwjo/s600-no/Quinoa_01.jpg)
+![Quinoa tærte](https://lh6.googleusercontent.com/-O5yndZPbUyI/UW7zAJlLCMI/AAAAAAAAA4I/2fUL3o8Wwjo/s600-no/Quinoa_01.jpg)
 
 ## A New Post
 
