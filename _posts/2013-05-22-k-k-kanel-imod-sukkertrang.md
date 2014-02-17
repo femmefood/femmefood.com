@@ -5,7 +5,7 @@ date: 2013-05-22
 tags:
  - Kanel
 categories:
- - Blogsukker
+ - Blodsukker
 ---
 
 Har du tit lyst til søde sager, når du kommer hjem fra arbejdet, skolen eller
