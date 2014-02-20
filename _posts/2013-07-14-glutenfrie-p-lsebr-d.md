@@ -3,6 +3,8 @@ layout: post
 title: Glutenfrie pølsebrød
 date: 2013-07-14
 tags:
+ - Rapsolie
+ - FiberHUSK
 categories:
  - Laktosefri
  - Glutenfri
