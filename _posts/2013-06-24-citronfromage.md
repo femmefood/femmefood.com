@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citronfromage
+image: http://farm8.staticflickr.com/7445/12658497275_bba728715c_n.jpg
 date: 2013-06-24
 tags:
 categories:

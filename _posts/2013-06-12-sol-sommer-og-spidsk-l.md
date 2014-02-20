@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sol, sommer og spidskål
+image: http://farm8.staticflickr.com/7328/12658967744_82895627eb_n.jpg
 date: 2013-06-12
 ---
 

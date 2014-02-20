@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ny madblog til kvinder
+image: http://farm3.staticflickr.com/2867/12658627513_a246e790be_n.jpg
 date: 2013-04-16
 
 ---

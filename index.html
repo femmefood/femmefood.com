@@ -4,10 +4,20 @@ title: Femme Food
 ---
 
 <div id="home">
-  <h2>Blog Posts</h2>
+  <!--<h2>Blog Posts</h2>-->
+  {% for post in site.posts %}
+  <a href="{{ post.url }}" title="{{ post.title }}">
+    <img src="{{ post.image }}" alt="{{ post.title }}"/>
+  </a>
+  {% endfor %}
+<!--
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+-->
 </div>
+<script>
+$("#home").justifiedGallery({'rowHeight':320});
+</script>

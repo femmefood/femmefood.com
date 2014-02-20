@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Banan cookies 
+title: Banan cookies
 date: 2014-02-17
-tags: 
+image: http://farm3.staticflickr.com/2812/12658493775_423779e607_n.jpg
+tags:
   - Mandler
   - Stevia
-categories: 
+categories:
   - Laktosefri
   - Glutenfri
 ---

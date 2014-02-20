@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Burger med gedeost og advokadomajo
+image: http://farm4.staticflickr.com/3779/12658497405_f7339f31a0_n.jpg
 date: 2013-07-21
 tags:
 categories:

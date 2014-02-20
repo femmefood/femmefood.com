@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Glutenfrie kerneknækbrød
+image: http://farm4.staticflickr.com/3777/12658969424_2532f0b029_n.jpg
 date: 2013-06-02
 tags:
 categories:

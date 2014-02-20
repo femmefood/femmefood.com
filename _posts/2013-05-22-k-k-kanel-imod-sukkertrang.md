@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kæk kanel imod sukkertrang
+image: http://farm4.staticflickr.com/3833/12658969444_f63e3a7f30_n.jpg
 date: 2013-05-22
 tags:
  - Kanel

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hjemmelavet ketchup med og uden sennep
+image: http://farm8.staticflickr.com/7450/12658496785_c165e2b161_n.jpg
 date: 2013-07-08
 tags:
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Super sprøde pandekager med jordbæris
+image: http://farm8.staticflickr.com/7295/12658491435_0093970950_n.jpg
 date: 2013-08-26
 tags:
 categories:

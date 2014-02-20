@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fiskedeller med blomkål
+image: http://farm8.staticflickr.com/7324/12658625043_5c631be591_n.jpg
 date: 2013-08-21
 tags:
 categories:

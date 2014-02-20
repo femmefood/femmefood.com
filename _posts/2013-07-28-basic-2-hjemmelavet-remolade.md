@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hjemmelavet remolade
+image: http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9_n.jpg
 date: 2013-07-28
 tags:
 categories:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Glutenfrie boghvedeboller
+image: http://farm6.staticflickr.com/5503/12658969944_7e3de3fdcd_n.jpg
 date: 2013-05-23
 tags:
  - Majsmel

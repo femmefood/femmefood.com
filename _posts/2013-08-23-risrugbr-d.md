@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Risrugbrød
+image: http://farm8.staticflickr.com/7328/12658492025_9ede360deb_n.jpg
 date: 2013-08-23
 tags:
 categories:

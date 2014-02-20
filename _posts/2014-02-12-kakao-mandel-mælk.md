@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kakao-mandel-mælk
+image: http://farm3.staticflickr.com/2849/12658967024_948303c286_n.jpg
 date: 2014-02-12
 tags:
  - Mandler

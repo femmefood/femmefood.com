@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rålækre rugbrødsmuffins
+image: http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f_n.jpg
 date: 2013-06-09
 tags:
  - Chiafrø

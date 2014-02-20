@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ovnbagt laks med smækker lækker spidskåls-kartoffelsalat
+image: http://farm4.staticflickr.com/3689/12658495645_7618c9ef2e_n.jpg
 date: 2013-06-10
 tags:
  - Spidskål

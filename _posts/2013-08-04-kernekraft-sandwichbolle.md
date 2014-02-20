@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kernekraft sandwichbolle
+image: http://farm8.staticflickr.com/7292/12658626313_216d023bea_n.jpg
 date: 2013-08-04
 tags:
 categories:
