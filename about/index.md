@@ -7,6 +7,16 @@ tags:
  - Glutenfri
  - Sukkerfri
 ---
+[ ![](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png) ](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png)
+Vi er to søstre, som har startet Femme Food. Bloggen skal være med til at inspirere til nemme og lækre opskrifter og tager udgangspunkt i laktose-, gluten- og/eller sukkerfri madlavning.
+Vi elsker livsglad mad, der for os betyder mad, som både er en gevinst for kroppen og mentalt velvære. Det handler ikke om madfanatisme eller madreligion. Vi prikker blot lidt til den danske madkultur og giver madklassiskerne et alternativt touch.
+Skribenten, vidensindsamleren og kogekonen, Annika:
+Lillesøster Annika studerer til dagligt bioprocesteknologi på Ingeniørhøjskolen i Aarhus. Hun har i perioder af sit liv været plaget af eksem. I 2010 fandt hun ud af, at hun havde mælkeallergi dvs. hun ikke kan tåle proteinet kasein i mælkeprodukter. Lige siden har hun ændret sine kostvaner, og det har givet gevinst! For det første er eksemen forsvundet, men samtidig har hun fået øjnene op for en helt ny verden.
+Fotografen, idémageren og layouteren, Winnie:
+Storesøster Winnie er i gang med fotografuddannelsen. Hun arbejder til dagligt hos Moment Fotografi, som hovedsagligt beskæftiger sig med mad-fotografering. Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen. Hun er ikke til at styre i et køkken, da hun elsker at eksperimentere med nye sammensætninger og afprøve nye opskrifter.
+Vi har mærket og opdaget glæden ved vores ændrede spisevaner. Vi ønsker derfor at dele ud af vores egne erfaringer og håber, at vi kan være en inspiration i dit køkken.
+Ha' en dejlig dag :)
+De allerbedste hilsner Winnie og Annika
 
 Bloggen skal inspirere dig til lækkert og simpelt hverdagsmad, som er nemt at
 lave og ikke kræver komplicerede indkøb. Ligeså ønsker jeg at inspirere til at
