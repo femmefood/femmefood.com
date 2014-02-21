@@ -2,3 +2,11 @@ permalink: /:year/:month/:day/:title/
 name: Femme Food
 markdown: redcarpet
 pygments: true
+
+# Custom
+author:
+  name: Femme Food
+  email: femmefood@gmail.com
+
+url: http://www.femmefood.com
+description: en blog om lækker og moderne mad
