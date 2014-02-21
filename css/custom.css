@@ -19,6 +19,19 @@
 .navbar .nav {
   float: right; }
 
+.navbar-header, .navbar-collapse {
+  font-family: 'Exo 2', sans-serif;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #efefef;
+  font-size: 1em;
+}
+.navbar-inverse .navbar-brand {
+  color: #efefef;
+  font-size: 1.5em;
+}
+
 .post {
   text-align:justify;
   line-height: 1.5;
