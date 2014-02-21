@@ -1,4 +1,4 @@
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 name: Femme Food
 markdown: redcarpet
 pygments: true
@@ -9,4 +9,5 @@ author:
   email: femmefood@gmail.com
 
 url: http://www.femmefood.com
+disqus: femmefood
 description: en blog om lækker og moderne mad
