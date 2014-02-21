@@ -26,6 +26,7 @@ categories:
  - Sukkerfri
  - Fiskefrikadeller
  - Mos
+ - Aftensmad
 ---
 
 Her til aften stod menuen på disse lækre fiskefrikadeller med rodfrugtemos.

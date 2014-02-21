@@ -10,10 +10,14 @@ tags:
  - Havregryn
  - Pærer
  - Kanel
+ - Soja-flager
+ - Sojayoghurt 
+ - Müsli
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Morgenmad
 ---
 
 Jeg har i laaaang tid spist boghvedegrød med blåbær og et drys kanel (se 

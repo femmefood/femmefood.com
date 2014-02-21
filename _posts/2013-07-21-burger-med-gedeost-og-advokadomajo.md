@@ -4,22 +4,38 @@ title: Burger med gedeost og advokadomajo
 image: http://farm4.staticflickr.com/3779/12658497405_f7339f31a0_n.jpg
 date: 2013-07-21
 tags:
+- Gedeost
+- Hvidløgsmajo
+- Majo
+- Avokado
+- Avokadomajo
+- Chili
+- Citron
+- Rucola
+- Rødløg
+- Agurk
+- Ketchup
+- Hakket oksekø
 categories:
  - Glutenfri
  - Sukkerfri
+ - Aftensmad
+ - Burgerboller
+
+ 
 ---
 
 Der har været lidt stille på bloggen... Min kære søster har lagt syg med en
 alvorlig halsbetændelse, men nu er hun på banen igen til at skyde lækre billeder
 og stå med forklædet ude i køkkenet. :)
 
-Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, friske grøntsager og advokadomajo. Namme nam! Vi synes selv, at det blev et lækkert resultat, og jeg er især forelsket i advokadomajo'en!
+Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, friske grøntsager og avokadomajo. Namme nam! Vi synes selv, at det blev et lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 
 [ ![](http://3.bp.blogspot.com/-YfroxKsMM_8/UevFosZ7XlI/AAAAAAAABBM/zkGyeL1A4yQ/s1600/Burger_med_gedeost.jpg) ](http://3.bp.blogspot.com/-YfroxKsMM_8/UevFosZ7XlI/AAAAAAAABBM/zkGyeL1A4yQ/s1600/Burger_med_gedeost.jpg)
 
 
-## Advokadomajo
-- 2 advokadoer
+## Avokadomajo
+- 2 avokadoer
 - 4 spsk. hjemmerørt hvidløgsmajo ( [Femme Foods hjemmerørte hvidløgsmajo](http://www.femmefood.com/2013/06/hjemmerrt-hvidlgsmajo-med-ovenbagte.html))
 - 3 fed hvidløg (kan undlades, da der er hvidløg i majo'en, men bliver lidt ekstra stærk)
 - 1 chili (vi brugte en 1/4 chili)
@@ -27,9 +43,9 @@ Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, fri
 - salt og peber
 
 ### Tilberedning
-1. Skær advokadoerne op og udhul dem med en ske. Kom advokadoen ned i en skål.
+1. Skær avokadoerne op og udhul dem med en ske. Kom avokadoen ned i en skål.
 2. Kom majo, hvidløg, chili i skålen og mos blandingen med en stavblender.
-3. Smag den nymoste advokadomajo til med citron, salt og peber.
+3. Smag den nymoste avokadomajo til med citron, salt og peber.
 
 
 ## Burger med gedeost
@@ -37,7 +53,7 @@ Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, fri
 - 500 g. hakket oksekød 
 - 3 skoleagurker
 - 1 rødløg
-- rocula
+- rucola
 - gedeost
 - ketchup [Hjemmelavet ketchup](TODO)
 

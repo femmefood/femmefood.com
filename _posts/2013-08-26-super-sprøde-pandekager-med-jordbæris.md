@@ -4,10 +4,25 @@ title: Super sprøde pandekager med jordbæris
 image: http://farm8.staticflickr.com/7295/12658491435_0093970950_n.jpg
 date: 2013-08-26
 tags:
+- Sojamælk
+- Øl
+- Æg
+- Majsmel
+- HUSK
+- Majsmel
+- Stevia
+- Vaniljepulver
+- Kardemomme
+- Citronskal
+- Havregryn
+- Sojayougurt
+- Jordbær
+- Citron
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Sødt
 ---
 
 Min ynglingsdessert er pandekager! Jeg fik serveret denne lækre sag på sengen i

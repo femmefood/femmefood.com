@@ -11,11 +11,15 @@ tags:
  - Boghvede
  - Græskarkerner
  - Hørfrø
- - fiberHUSK
+ - FiberHUSK
+ - Oliven
+ - Nigellafrø
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Brød 
+ - Boller
 ---
 
 Jeg har netop lavet en ny version af "Glutenfrie boghvedeboller". Bollerne er

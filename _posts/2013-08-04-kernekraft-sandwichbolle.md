@@ -4,10 +4,22 @@ title: Kernekraft sandwichbolle
 image: http://farm8.staticflickr.com/7292/12658626313_216d023bea_n.jpg
 date: 2013-08-04
 tags:
+- FiberHUSK
+- Hørfrø
+- Græskarkerner
+- Boghvedegryn
+- Gulerødder
+- Sesamfrø
+- Majsmel
+
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Brød
+ - Boller
+ - Burgerboller
+ - Sandwichbolle
 ---
 
 Vi har i mad-laboratoriet længe prøvet på at finde opskriften på en perfekt

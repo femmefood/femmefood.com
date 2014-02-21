@@ -11,12 +11,13 @@ tags:
  - Mandler
  - Hindbær
  - Kanel
- - Sojafløde
- - Bananer
+ - Soja-madlavningsfløde
+ - Banan
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Sødt
 ---
 
 Vi starter lille fredag ud med en lille, lækker fristelse - en hindbær/banan
@@ -31,7 +32,7 @@ skal og frysetørrede hindbær.
 - 3 æg
 - 2 spsk.  [Husk](http://www.husk.dk/) [®](http://www.husk.dk/)
 - 1 dl. stevia
-- 250 ml. [Cuisine](http://www.naturli-foods.dk/) sojafløde
+- 250 ml. [Cuisine](http://www.naturli-foods.dk/) soja-madlavningsfløde
 - 1 dl. [rapsolie](http://www.roedbakkegaard.dk/)
 - 2 bananer
 - 2 dl. kokosmel

@@ -4,10 +4,20 @@ title: Risrugbrød
 image: http://farm8.staticflickr.com/7328/12658492025_9ede360deb_n.jpg
 date: 2013-08-23
 tags:
+- Ris
+- Sorte ris
+- Æg
+- HUSK
+- Rapsolie
+- Sesamfrø
+- Solsikkekerner
+- Græskarkerner
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Rugbrød
+ - Brød
 ---
 
 Vi har netop udviklet opskriften på et smækker-lækkert risrugbrød! Vi har bagt

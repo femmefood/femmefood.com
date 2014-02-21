@@ -4,9 +4,13 @@ title: Jordbær med chokoladetop
 image: http://farm3.staticflickr.com/2881/12658496425_d9f4d90408_n.jpg
 date: 2013-06-15
 tags:
+- Jordbær
+- Mørk chokolade
+
 categories:
  - Laktosefri
  - Glutenfri
+ - Snacks
 ---
 Mmmmh... En af sommerens klassikere er jordbær! Og de bliver bare ekstra
 delikate, når de bliver dyppet i mørkt chokolade.

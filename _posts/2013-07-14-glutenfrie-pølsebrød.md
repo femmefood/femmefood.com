@@ -6,10 +6,19 @@ date: 2013-07-14
 tags:
  - Rapsolie
  - FiberHUSK
+ - Boghvedegryn
+ - Sojayougurt
+ - Majsmel
+ - Boghvedemel
+ - Pølser
+ - Sesamfrø
+ - Æg
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Madpakkeidé
+ - Snacks
 ---
 
 Pølsebrød, dyner og hyggebukser! Det kalder jeg søndagshygge.
@@ -31,7 +40,7 @@ her: [Hjemmelavet ketchup med og uden sennep](TODO).
 - 3 spsk. rapsolie
 - 4 spsk. FiberHUSK
 - 2 dl. boghvedegryn
-- 1 dl. soya yougurt
+- 1 dl. sojayougurt
 - 2 dl. majsmel
 - 2 dl.boghvedemel
 - 12 pølser

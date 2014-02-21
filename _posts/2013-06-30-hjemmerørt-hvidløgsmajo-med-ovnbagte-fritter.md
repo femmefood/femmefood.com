@@ -4,10 +4,17 @@ title: Hjemmerørt hvidløgsmajo med ovnbagte fritter
 image: http://farm4.staticflickr.com/3709/12658627123_dd6217ee93_n.jpg
 date: 2013-06-30
 tags:
+- Majo
+- Kartofler
+- Hvidløg
+- Æbleeddike
+- Citron
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Aftensmad
+ - Pommes frites
 ---
 Søndag = tømmermændsmad... i hvert fald for mit vedkommende :) .. og hvad gør
 man så? Jeg havde sådan lyst til pommesfritter! Så det blev til kartofler i

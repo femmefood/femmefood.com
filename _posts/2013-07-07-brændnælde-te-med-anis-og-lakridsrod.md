@@ -4,10 +4,14 @@ title: Brændnælde-te med anis og lakridsrod
 image: http://farm6.staticflickr.com/5503/12658497535_9a9174dcda_n.jpg
 date: 2013-07-07
 tags:
+- Brændnælder
+- Anisfrø
+- Lakridsrod
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Varme drikke
 ---
 
 På med handsken og ud i det blå! Måske er det ikke tilfældigt, at den grønne,

@@ -11,11 +11,15 @@ tags:
  - Jordbær
  - Dadler
  - Hasselnødder
- - fiberHUSK
+ - Mandler
+ - HUSK
+ - Banan
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Smoothies
+ - Kolde drikke
 ---
 
 Bladene er ved at falde af træerne og kulden er begyndt at trænge ind. Vi er

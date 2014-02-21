@@ -5,11 +5,19 @@ image: http://farm4.staticflickr.com/3689/12658495645_7618c9ef2e_n.jpg
 date: 2013-06-10
 tags:
  - Spidskål
- - kartofler
+ - Kartofler
  - Laks
+ - Citron
+ - Rødløg
+ - Æbleeddike
+ - Mayo
+ - Dijonsennep
+ - Hvidløg
+ - Akacie honning
 categories:
  - Laktosefri
  - Glutenfri
+ - Aftensmad
 ---
 
 Sol, sommer og spidskål... Jeg elsker årstiden lige nu og alle de skønne

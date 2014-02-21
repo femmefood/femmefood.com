@@ -8,13 +8,19 @@ tags:
  - Solsikkekerner
  - Græskarkerner
  - Hørfrø
+ - FiberHUSK
+ - Gulerødder
+ - Hasselnødder
+ - Mørk chokolade
+ - Sesamfrø
 categories:
  - Laktosefri
  - Glutenfri
- - Nemme Snacks
- - Snack til madpakken
- - Sunde muffins
+ - Snacks
+ - Snacks til madpakken
+ - Muffins
  - Lækkersulten
+ - Sødt
 ---
 
 Mmmmh... dem her må du bare prøve! Disse fine rugbrødsmuffins er et super

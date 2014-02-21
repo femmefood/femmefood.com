@@ -4,10 +4,17 @@ title: Citronfromage
 image: http://farm8.staticflickr.com/7445/12658497275_bba728715c_n.jpg
 date: 2013-06-24
 tags:
+- Husblas
+- Citron
+- Stevia
+- Soja-madlavningsfløde
+- Æg
+- Æggehvider
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Sødt
 ---
 Imens jeg sidder og nyder solen på den skønne, spanske ø, Tenerife, har min
 søster (fotografen) været i gang med at eksperimentere i mad-laboratoriet hjemme
@@ -24,7 +31,7 @@ komme hjem og smage den, hvis der er mere tilbage, når jeg kommer hjem! :)
 - 2 usprøjtede citroner
 - 3 hele æg
 - 2 æggehvider 
-- 1/4 l. soya madlavningsfløde 
+- 1/4 l. soja-madlavningsfløde 
 
 ### Tilberedning
 1. Husblassen udblødes i en skål med koldt vand. 

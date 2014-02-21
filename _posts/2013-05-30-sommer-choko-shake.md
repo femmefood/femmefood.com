@@ -10,6 +10,8 @@ tags:
 categories:
  - Laktosefri
  - Glutenfri
+ - Smoothies
+ - Kolde drikke
 ---
 
 Jeg synes ikke, at I skal snydes for denne lækre sommer choko-shake! 

@@ -4,10 +4,19 @@ title: Fiskedeller med blomkål
 image: http://farm8.staticflickr.com/7324/12658625043_5c631be591_n.jpg
 date: 2013-08-21
 tags:
+- Laks
+- Torsk
+- HUSK
+- Dijonsennep
+- Dild
+- Gulerødder
+- Persillerod
+- Rødløg
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Aftensmad
 ---
 
 Herhjemme i hytten har vi en forkærlighed for fiskedeller! Vi har her til aften
@@ -22,7 +31,7 @@ blev godt.
 - 2 gode håndfulde blomkål
 - 1 æg
 - 1 spsk. [HUSK](http://www.husk.dk/)
-- 2 spsk. sennep
+- 2 spsk. dijonsennep
 - 1,5 dl vand
 - 1 tsk. salt
 - 1/2 tsk. peber

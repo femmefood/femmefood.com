@@ -4,9 +4,26 @@ title: Pulled pork burger med Femme Food touch
 image: http://farm3.staticflickr.com/2863/12658625843_bc8340a60d_n.jpg
 date: 2013-06-29
 tags:
+- Nakkefilet
+- Dadler
+- Stevia
+- Dijonsennep
+- Æbleeddike
+- Tomattapanade
+- Ketchup
+- Chilisauce
+- Hvidløg
+- Sojasauce
+- Gulerødder
+- Spidskål
+- Majo
+
 categories:
  - Laktosefri
  - Glutenfri
+ - Aftensmad
+ - Burgerboller
+ - Brød
 ---
 Så er vi klar med Femme Food-udgaven af pulled pork burgeren! Den er boostet med
 tæskelækre råvarer. Den brune farin er skiftet ud med dadler og stevia, og i
@@ -34,7 +51,7 @@ de kan stå og trække smag.
 - 1 dl. olie
 - 1 spsk. stevia
 - 2 spsk. paprika
-- 1 spsk. sennep
+- 1 spsk. dijonsennep
 - 2 spsk. æbleeddike
 - 1 spsk. tomattapanade eller ketchup
 - 2 spsk. chilisauce eks. Sabal Oelek
@@ -59,8 +76,8 @@ de kan stå og trække smag.
 - 10 gulerødder
 - 1 lille spidskål (bonusinfo: der skal være halv/halv af gulerødder og
   spidskål)
-- 2 dl. mayo
-- 1 spsk. sennep
+- 2 dl. majo
+- 1 spsk. dijonsennep
 - 1 spsk. æbleeddike
 - 1 spsk. stevia
 
@@ -78,7 +95,7 @@ de kan stå og trække smag.
 - 1 spsk. paprika
 - 2 spsk. ketchup
 - 1 tsk. chilisauce eks. Sabal Oelek
-- 1 spsk. soya 
+- 1 spsk. sojasauce 
 - 3 fed hvidløg
 
 ### Tilberedning

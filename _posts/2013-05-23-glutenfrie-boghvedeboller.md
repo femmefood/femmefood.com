@@ -9,12 +9,14 @@ tags:
  - Boghvede
  - Græskarkerner
  - Hørfrø
- - fiberHUSK
+ - FiberHUSK
  - Rapsolie
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Boller
+ - Brød
 ---
 
 Forleden dag da min mor var på besøg, lavede jeg disse lækre, svampede

@@ -4,10 +4,20 @@ title: Kernekraft rugbrød
 image: http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b_n.jpg
 date: 2013-06-13
 tags:
+- Boghvedekerner
+- FiberHUSK
+- Solsikkekerner
+- Græskarkerner
+- Hørfrø
+- Sesam
+- Blå birkes
+- Hasselnødder
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Rugbrød
+ - Brød
 ---
 
 I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ

@@ -8,14 +8,19 @@ tags:
  - Chili
  - Kokosmælk
  - Laks
- - Laksfilet
  - Koriander
  - Citron
  - Rapsolie
+ - Ris
+ - Brune ris
+ - Karrypasta
+ - Karry
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Aftensmad
+ - Gryderetter
 ---
 
 Efterår = tid til varme retter. Uuuh, hvor er det blevet koldt udenfor. Så nu er

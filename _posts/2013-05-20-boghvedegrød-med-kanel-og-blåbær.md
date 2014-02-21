@@ -4,7 +4,7 @@ title: Boghvedegrød med kanel og blåbær
 image: http://farm3.staticflickr.com/2892/12658497815_6d11547d2d_n.jpg
 date: 2013-05-20
 tags:
- - Boghvede
+ - Boghvedegryn
  - Blåbær
  - Kanel
 categories:
@@ -25,7 +25,7 @@ kommes grøden i en skål og pyntes med blåbær og kanel.
 
 ## Boghvedegrød
 
-- 1/2 dl. boghvede
+- 1/2 dl. boghvedegryn
 - 1 dl. vand
 - lidt blåbær og kanel til pynt
 
