@@ -11,6 +11,7 @@ categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Tilbehør
 ---
 
 [ ![](http://1.bp.blogspot.com/-6AB1gREG6Uw/UZjlvfKKDgI/AAAAAAAAA5M/ZS4ZhyOKETA/s1600/pillerejer.jpg) ](http://1.bp.blogspot.com/-6AB1gREG6Uw/UZjlvfKKDgI/AAAAAAAAA5M/ZS4ZhyOKETA/s1600/pillerejer.jpg)
