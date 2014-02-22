@@ -21,7 +21,7 @@
 }
 .navbar-inverse .navbar-brand {
   color: #efefef;
-  font-size: 2.5em;
+  font-size: 3.5em;
 }
 
 .navbar-brand  {
@@ -64,8 +64,8 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 20px;
-  font-family: 'Exo 2', sans-serif;
-  font-weight: normal;
+  /*font-family: 'Exo 2', sans-serif;*/
+  font-weight: bold;
   color: #333;
 }
 
