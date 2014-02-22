@@ -7,6 +7,7 @@ date: 2013-05-27
 Vi er to søstre, som har startet Femme Food. Bloggen skal være med til at
 inspirere til nemme og lækre opskrifter og tager udgangspunkt i laktose-, gluten- og/eller sukkerfri madlavning.
 [ ![](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png) ](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png)
+
 Vi elsker livsglad mad, der for os betyder mad, som både er en gevinst for
 kroppen og mentalt velvære. Vi bor sammen, men spiser vidt forskelligt. Annika spiser efter Femme Food's principper, mens Winnie spiser som en gennemsnits dansker.
 
@@ -41,27 +42,29 @@ Vi har i toppen af hver opskrift skrevet, om den er laktosefri, glutenfri
 og/eller sukkerfri, da det skal gøre det let og overskueligt for læseren at vælge
 eller fravælge de opskrifter, som passer til ens behov.
 
-Vi har valgt at skrive `Laktosefri`, da de fleste mennesker bedst kender til
+Vi har valgt at skrive laktosefri, da de fleste mennesker bedst kender til
 laktoseintolerance og er den mest udbredte form for mælkeallergi (70% af jordensbefolkning og 4% af  den
 danske befolkning). Laktose er mælkesukkkeret i mælkeprodukter. Selvom jeg (Annika) selv
 er allergisk overfor kasein findes både laktose og kasein i højere eller mindre
 grad i alle mælkeprodukter.
 
-Desuden har jeg valgt at angive, hvis opskrifterne er `Glutenfri`, da nogle
+Desuden har jeg valgt at angive, hvis opskrifterne er glutenfri, da nogle
 mennesker lider af cøliaki, som er en tilstand, hvor man har allergi overfor
 kornbestanddelen, gluten, som findes i rug, spelt, hvede, havre (kan også fås
 uden gluten) osv.
 
 Desuden kan jeg selv mærke markant forskel, om jeg spiser mad med gluten eller ej. Jeg får en meget oppustet mave af glutenholdigt mad. Så jeg har skåret ned på mit indtag af mad indeholdende gluten.
 
-Til sidst har vi tilføjet kategorien `Sukkerfri`, og med dette mener vi tilsat,
+Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
 raffineret sukker. Der er i dag mange produkter, som har tilsat sukker, og det
-medfører et kæmpe forbrug af sukker. Jeg (Annika) prøver at begrænse indtaget af sukker,
+medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545 diabetikere, hvilket svarer til 5,7% af befolkning. [Diabetes foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx)
+
+Jeg (Annika) prøver at begrænse indtaget af sukker,
 men ikke sagt på denne måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
 
-Hvis der er spørgsmål eller kommentarer er du/I meget velkomne til at kontakte os på femmefood@femmefood.com.
+Hvis der er spørgsmål eller kommentarer er du meget velkommen til at kontakte os på femmefood@femmefood.com.
 
-Og til sidst vil vi gerne sige vi synes, at du skal finde den madstil og spisevaner, som passer til lige netop din krop og dine behov!
+Og til sidst vil vi gerne sige: Vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov!
 
 God læselyst! :-)
