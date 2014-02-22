@@ -12,7 +12,7 @@
   float: right; }
 
 .navbar-header, .navbar-collapse {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -21,13 +21,24 @@
 }
 .navbar-inverse .navbar-brand {
   color: #efefef;
-  font-size: 1.5em;
+  font-size: 2.5em;
+}
+
+.navbar-brand  {
+  height: 45px;
+  margin-top: 30px;
 }
 
 .post {
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 19px;
+  margin-bottom: 20px;
 }
+
+#disqus_thread {
+  margin-top: 30px;
+}
+
 
 .post img {
   max-width: 550px;
@@ -42,8 +53,8 @@
 }
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: #555;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
 }
 
 h1, .h1,
