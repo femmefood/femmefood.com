@@ -30,7 +30,7 @@ Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen. H
 ## Motivation til bloggen
 Hele grundlaget for bloggen er at give idéer og inspiration til mælke- og glutenallergikere. Det hele startede med, at jeg (Annika) i 2010 ændrede mine spisevaner radikalt, efter jeg fandt ud af, at jeg ikke kunne tåle mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirende opskrifter til mælkeallergikere og allergikere generelt. Her dukkede idéen til Femme Food op. Vi vil gerne gennem bloggen dele ud af vores viden og opskrifter. 
 
-Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover Femme Food's madpricipper.  Med det vil vi gerne sige, at vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov. Femme Food er et koncept rettet mod allergikere, men andre som finder vores blog spændende er selvfølgelig meget velkomne til at lade sig inspirere! 
+Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover Femme Food's madpricipper.  Med det vil vi gerne sige, at vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov. Femme Food er et koncept rettet mod allergikere, men andre, som finder vores blog spændende, er selvfølgelig meget velkomne til at lade sig inspirere! 
 
 
 
@@ -58,12 +58,12 @@ Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
 raffineret sukker. Der er i dag mange produkter, som har tilsat sukker såsom pålæg, yoghurt, müsli, cornflakes, rejer i lage osv. og det
 medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545 diabetikere, hvilket svarer til 5,7% af befolkning, kilde: [Diabetes foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx).
 Jeg (Annika) prøver at begrænse indtaget af sukker,
-men ikke sagt på denne måde, at der ikke er plads til lørdagsslik en gang i
+men ikke sagt på den måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
 
-Hvis der er spørgsmål eller kommentarer er du meget velkommen til at kontakte os på femmefood@femmefood.com.
+Hvis du har spørgsmål eller kommentarer er du meget velkommen til at kontakte os på femmefood@femmefood.com.
 
-Og til sidst vil vi gerne sige: Vi går ind for bæredygtigt mad, selvom det kan være svært, at se på agurken nede i supermarkedet, hvordan den er blevet behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor forskel på det lange løb for naturen og din krop at vælge agurken med det røde ø fremfor den med ukendt edikette.
+Og til sidst vil vi gerne sige: Vi går ind for bæredygtigt mad! Selvom det kan være svært, at se på agurken nede i supermarkedet, hvordan den er blevet behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor forskel på det lange løb både for naturen og din krop at vælge agurken med det røde ø fremfor den med ukendt edikette.
 
 
 
