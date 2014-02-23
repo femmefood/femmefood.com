@@ -23,7 +23,7 @@ Storesøster Winnie er i gang med fotografuddannelsen. Hun arbejder til dagligt
 hos [Moment Fotografi](http://momentfotografi.dk/), som hovedsagligt beskæftiger
 sig med mad-fotografering. I fritiden driver hun [Winnie
 Methmann](http://www.winniemethmann.com/), hvor hun primært skyder mode-billeder.
-Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen.
+Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen. Hun elsker, at eksperimentere og udvikle nye opskrifter.
 
 
 
@@ -48,17 +48,15 @@ danske befolkning). Laktose er mælkesukkkeret i mælkeprodukter. Selvom jeg 
 er allergisk overfor kasein findes både laktose og kasein i højere eller mindre
 grad i alle mælkeprodukter.
 
-Desuden har jeg valgt at angive, hvis opskrifterne er glutenfri, da nogle
+Desuden har vi valgt at angive, hvis opskrifterne er glutenfri, da nogle
 mennesker lider af cøliaki, som er en tilstand, hvor man har allergi overfor
-kornbestanddelen, gluten, som findes i rug, spelt, hvede, havre (kan også fås
-uden gluten) osv.
-
+kornbestanddelen, gluten, som findes i rug, spelt, hvede, havre osv. 
+Flere og flere får diagnostiseret cøliaki, og der menes, at omkring 1% af befolkningen i Danmark har cøliaki. Dog har nogle en mildere grad af cøliki eller ikke har fundet frem til at de har cøliaki, at de ikke er blevet diagnostisere. Så derfor menes antallet af gultenallergikere at være højere, kilde: [Dansk Cøliaki forening](http://www.coeliaki.dk/dk/).
 Desuden kan jeg selv mærke markant forskel, om jeg spiser mad med gluten eller ej. Jeg får en meget oppustet mave af glutenholdigt mad. Så jeg har skåret ned på mit indtag af mad indeholdende gluten.
 
 Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
 raffineret sukker. Der er i dag mange produkter, som har tilsat sukker, og det
-medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545 diabetikere, hvilket svarer til 5,7% af befolkning. [Diabetes foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx)
-
+medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545 diabetikere, hvilket svarer til 5,7% af befolkning, kilde: [Diabetes foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx).
 Jeg (Annika) prøver at begrænse indtaget af sukker,
 men ikke sagt på denne måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
