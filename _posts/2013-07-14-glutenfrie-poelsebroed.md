@@ -27,7 +27,7 @@ I dag er vi gået i søndags-mode, hvor det meste af dagen har stået på afslap
 og hygge. Til hyggen lavede vi disse lækre pølsebrød! Mmmh, hvor smager de bare
 godt.
 
-[ ![](http://3.bp.blogspot.com/-q93YgStJQlo/UeMMafmSVEI/AAAAAAAABAc/PqIdL00Yx3E/s1600/P%C3%B8lsebr%C3%B8d.jpg) ](http://3.bp.blogspot.com/-q93YgStJQlo/UeMMafmSVEI/AAAAAAAABAc/PqIdL00Yx3E/s1600/P%C3%B8lsebr%C3%B8d.jpg)
+![](http://farm4.staticflickr.com/3665/12658495385_a5edef2ddc.jpg)
 
 
 Vi spiste pølsebrødene med hjemmelavet ketchup, som vi har lavet lige

@@ -22,7 +22,7 @@ nipper til den, og jeg må sige, at den smager meget som en ganske almindelig ko
 kakao meeen med et twist af marcipansmag. Vi synes, at det blev et meget godt
 resultat til sådan en hygge-onsdag.
 
-[ ![](http://2.bp.blogspot.com/-q9fnFd0puUE/UvvYpNC9SEI/AAAAAAAABJw/DNmZLqj8otQ/s1600/Kakao_mandelm%C3%A6lk.png) ](http://2.bp.blogspot.com/-q9fnFd0puUE/UvvYpNC9SEI/AAAAAAAABJw/DNmZLqj8otQ/s1600/Kakao_mandelm%C3%A6lk.png)
+![](http://farm3.staticflickr.com/2849/12658967024_948303c286.jpg)
 
 ## Kakao-mandel-mælk (2 kopper)
 - 1,5 dl. mandler 

@@ -25,7 +25,7 @@ sukker! Derfor har vi i mad-laboratoriet på Trøjborg lavet en hjemmelavet
 udgave, hvor vi har udskiftet den hvide raffinerede sukker med stevia og dadler.
 
  
-[ ![](http://2.bp.blogspot.com/-pyiqi9JmO-I/UdnCGMl3x8I/AAAAAAAABAM/9eii6NbkBeA/s1600/Hjemmelavet_ketchup.jpg) ](http://2.bp.blogspot.com/-pyiqi9JmO-I/UdnCGMl3x8I/AAAAAAAABAM/9eii6NbkBeA/s1600/Hjemmelavet_ketchup.jpg)
+![](http://farm8.staticflickr.com/7450/12658496785_c165e2b161.jpg)
 
 ## Hjemmelavet ketchup uden sennep
 - 1 rødløg

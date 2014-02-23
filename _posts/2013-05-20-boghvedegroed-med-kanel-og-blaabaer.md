@@ -29,7 +29,7 @@ kommes grøden i en skål og pyntes med blåbær og kanel.
 - 1 dl. vand
 - lidt blåbær og kanel til pynt
 
-[ ![](http://3.bp.blogspot.com/-DL4_nRYBagM/UZoMliul97I/AAAAAAAAA5c/I2eQTP75qwo/s1600/Boghvedegr%C3%B8d.jpg) ](http://3.bp.blogspot.com/-DL4_nRYBagM/UZoMliul97I/AAAAAAAAA5c/I2eQTP75qwo/s1600/Boghvedegr%C3%B8d.jpg)
+![](http://farm3.staticflickr.com/2892/12658497815_6d11547d2d.jpg)
 
 ## Frække facts
 

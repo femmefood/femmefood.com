@@ -24,7 +24,7 @@ i og det må siges at være en total lækker cocktail.
 Den her lille lækre sag, har allerede sneget sig ind, som en af mine
 favorit-desserter her til sommer. Den er et godt alternativ til is!
 
-[ ![](http://3.bp.blogspot.com/-DxHyA9bO74M/UafF9pgb8lI/AAAAAAAAA8A/cWIa2Bv8gBw/s1600/Sommer_choko_shake.jpg) ](http://3.bp.blogspot.com/-DxHyA9bO74M/UafF9pgb8lI/AAAAAAAAA8A/cWIa2Bv8gBw/s1600/Sommer_choko_shake.jpg)
+![](http://farm6.staticflickr.com/5474/12658967994_08a6798a86.jpg)
 
 ## Sommer choko-shake
 - 1 banan

@@ -20,7 +20,7 @@ Vi har netop lavet en lækker, hjemmerørt remolade! Den består traditionelvis 
 majo, cornichoner, kapers, løg, karry og gurkemeje, men vi har skiftet sukkeret
 ud med stevia og kommet sprødt spidskål i fremfor hvidkål :)
 
-[ ![](http://3.bp.blogspot.com/-tPxZomByVDY/UfVdLTEYxJI/AAAAAAAABBo/K42kqH3hc_c/s1600/Hjemmelavet_remolade.jpg) ](http://3.bp.blogspot.com/-tPxZomByVDY/UfVdLTEYxJI/AAAAAAAABBo/K42kqH3hc_c/s1600/Hjemmelavet_remolade.jpg)
+![](http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9.jpg)
 
 ## Hjemmelavet remolade
 - 1 dl. majo ( se vores tidligere opskrift på [hvidløgsmajo](TODO)

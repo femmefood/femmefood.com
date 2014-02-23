@@ -24,7 +24,7 @@ den søde smag, mens røllikerne gør den lidt mere bitter. Vi synes, at det er
 blevet en dejlig drik og tilmed er den sprængfyldt med gode egenskaber for
 kroppen.
 
-[ ![](http://4.bp.blogspot.com/-lpfuSIgeuc0/UfD14mhTVBI/AAAAAAAABBY/U7g7kVdKt38/s1600/R%C3%B8llike_hyldeblomstsaft.jpg) ](http://4.bp.blogspot.com/-lpfuSIgeuc0/UfD14mhTVBI/AAAAAAAABBY/U7g7kVdKt38/s1600/R%C3%B8llike_hyldeblomstsaft.jpg)
+![](http://farm4.staticflickr.com/3824/12658495295_e2bc384cd8.jpg)
 
 ## Røllike- og hyldeblomstsaft med stevia
 - 20 skærme hyldeblomster

@@ -21,11 +21,11 @@ Denne lækre tærte er med porrer, gulerødder og laks. Den kan varieres i
 uanede muligheder, så den passer til, hvad der er i dit køleskab eller dine
 ynglings grøntsager og kød.
 
-[ ![](http://4.bp.blogspot.com/-O5yndZPbUyI/UW7zAJlLCMI/AAAAAAAAA4E/g0mxvAA2C2g/s1600/Quinoa_01.jpg) ](http://4.bp.blogspot.com/-O5yndZPbUyI/UW7zAJlLCMI/AAAAAAAAA4E/g0mxvAA2C2g/s1600/Quinoa_01.jpg)
+![Cool quinoatærte med laks](http://farm3.staticflickr.com/2812/12658493775_423779e607.jpg)
 
-[ ![](http://3.bp.blogspot.com/-0FReMvDjKVA/UW7zEr4cdbI/AAAAAAAAA4M/zB4FcbwOEGc/s1600/Quinoa_02.jpg) ](http://3.bp.blogspot.com/-0FReMvDjKVA/UW7zEr4cdbI/AAAAAAAAA4M/zB4FcbwOEGc/s1600/Quinoa_02.jpg)
+![Cool quinoatærte med laks](http://farm4.staticflickr.com/3763/12658624223_e300268dcf.jpg)
 
-[ ![](http://2.bp.blogspot.com/-XIemM_09MWo/UW7zaLO8sEI/AAAAAAAAA4U/WZf2PGSrN3w/s1600/Quinoa_03.jpg) ](http://2.bp.blogspot.com/-XIemM_09MWo/UW7zaLO8sEI/AAAAAAAAA4U/WZf2PGSrN3w/s1600/Quinoa_03.jpg)
+![Cool quinoatærte med laks](http://farm8.staticflickr.com/7434/12658493635_3d0847d19c.jpg)
 
 ## Quinoatærte
 

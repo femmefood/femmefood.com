@@ -25,7 +25,7 @@ grøntsager! Er der noget bedre end nye kartofler og sprødt spidskål? Nej vel.
 Måske er det ikke helt tilfældigt, at kartoffelsalat, som vi kender den, er fast
 inventar på de danske haveborde. 
 
-[ ![](http://4.bp.blogspot.com/-e8UYBDKZMu8/UbYuoiDOkAI/AAAAAAAAA9A/m57fyf_I3XU/s1600/Ovnbagt_laks.jpg) ](http://4.bp.blogspot.com/-e8UYBDKZMu8/UbYuoiDOkAI/AAAAAAAAA9A/m57fyf_I3XU/s1600/Ovnbagt_laks.jpg)
+![](http://farm4.staticflickr.com/3689/12658495645_7618c9ef2e.jpg)
 
 Planen var, at vi skulle have kartoffelsalat og laks her til aften, men nede i
 Føtex sneg, der sig et spidskål med ned i kurven.
@@ -47,7 +47,7 @@ det blev en smækker lækker spidskåls-kartoffelsalat :)
 4. Kom laksen i et fad og stil det ind i ovnen og bag den i 25 min.
 5. Skær citronen i skiver eller både og pynt med dem på laksen.
 
-[ ![](http://3.bp.blogspot.com/-6a0aLfOkphs/UbYurJULfFI/AAAAAAAAA9I/NPymmlV0bcs/s1600/Spidska%CC%8Als_kartoffelsalat_01.jpg) ](http://3.bp.blogspot.com/-6a0aLfOkphs/UbYurJULfFI/AAAAAAAAA9I/NPymmlV0bcs/s1600/Spidska%CC%8Als_kartoffelsalat_01.jpg)
+![](http://farm4.staticflickr.com/3689/12658495645_7618c9ef2e.jpg)
 
 ## Smækker lækker spidskåls-kartoffelsalat
 - 10-15 små kartofler

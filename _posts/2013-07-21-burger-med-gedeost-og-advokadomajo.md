@@ -31,7 +31,7 @@ og stå med forklædet ude i køkkenet. :)
 
 Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, friske grøntsager og avokadomajo. Namme nam! Vi synes selv, at det blev et lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 
-[ ![](http://3.bp.blogspot.com/-YfroxKsMM_8/UevFosZ7XlI/AAAAAAAABBM/zkGyeL1A4yQ/s1600/Burger_med_gedeost.jpg) ](http://3.bp.blogspot.com/-YfroxKsMM_8/UevFosZ7XlI/AAAAAAAABBM/zkGyeL1A4yQ/s1600/Burger_med_gedeost.jpg)
+![](http://farm4.staticflickr.com/3779/12658497405_f7339f31a0.jpg)
 
 
 ## Avokadomajo

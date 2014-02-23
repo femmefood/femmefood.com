@@ -23,7 +23,7 @@ Forleden dag da min mor var på besøg, lavede jeg disse lækre, svampede
 glutenfrie boller til os. Vi spiste dem med salat og pålæg til. De var også
 rigtig gode til madpakken dagen efter.
 
-[ ![](http://1.bp.blogspot.com/-rqwWSiU1EWA/UZ6DTZG24jI/AAAAAAAAA7I/qmkCIzvodiA/s1600/Glutenfri_boghvedeboller+copy.jpg) ](http://1.bp.blogspot.com/-rqwWSiU1EWA/UZ6DTZG24jI/AAAAAAAAA7I/qmkCIzvodiA/s1600/Glutenfri_boghvedeboller+copy.jpg)
+![](http://farm6.staticflickr.com/5503/12658969944_7e3de3fdcd.jpg)
 
 ## Glutenfrie boghvedeboller (8 stk.)
 - 50 g. gær

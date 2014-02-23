@@ -31,7 +31,7 @@ categories:
 
 Her til aften stod menuen på disse lækre fiskefrikadeller med rodfrugtemos.
 
-[ ![](http://4.bp.blogspot.com/-ys5nAs1rljk/UZvaEch461I/AAAAAAAAA5s/OR_n9-Jfjkk/s1600/Asiatiske_fiskedeller.jpg) ](http://4.bp.blogspot.com/-ys5nAs1rljk/UZvaEch461I/AAAAAAAAA5s/OR_n9-Jfjkk/s1600/Asiatiske_fiskedeller.jpg)
+![](http://farm6.staticflickr.com/5508/12658497975_c111056bf9.jpg)
 
 Fiskefrikadellerne var ikke helt, som vi kender dem. Jeg gav dem et lille
 asiatisk twist ved at tilsætte koriander og limeblade. Det er især limebladene,

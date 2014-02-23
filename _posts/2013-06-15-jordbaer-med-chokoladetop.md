@@ -18,7 +18,7 @@ Jeg bliver aldrig træt af den dejlige smag, så de er igen i år en af mine
 favorit sommerdesserter. Mine favorit jordbær er helt klart danske, da de er små
 og spækket med en masse smag.
 
-[ ![](http://4.bp.blogspot.com/-GYkqCps1vsY/UbziMZaR95I/AAAAAAAAA-Y/_F--kZsUG_M/s1600/Jordb%C3%A6r_med_chokoladetop.jpg) ](http://4.bp.blogspot.com/-GYkqCps1vsY/UbziMZaR95I/AAAAAAAAA-Y/_F--kZsUG_M/s1600/Jordb%C3%A6r_med_chokoladetop.jpg)
+![](http://farm3.staticflickr.com/2881/12658496425_d9f4d90408.jpg)
 
 Ikke nok med at jordbær har en fantastisk smag, er de sprængfyldte med gode
 vitaminer og næringsstoffer. Jordbær er rige på C-vitamin, faktisk indeholder de

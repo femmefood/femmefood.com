@@ -27,7 +27,7 @@ trukket i de lune sweatere. Nu er det tid til at tage kampen op mod
 efterårets/vinterens snue, og hvad der ellers følger med i den dur.
 Vi har fundet vores favorit våben - en rålækker rødbede-smoothie.
 
-[ ![](http://3.bp.blogspot.com/-nRl-uOslklc/UmWDMoGQe7I/AAAAAAAABE4/5u8xLCGMXLg/s1600/Ra%25CC%258Al%25C3%25A6kker_r%25C3%25B8dbede_smoothie.png) ](http://3.bp.blogspot.com/-nRl-uOslklc/UmWDMoGQe7I/AAAAAAAABE4/5u8xLCGMXLg/s1600/Ra%25CC%258Al%25C3%25A6kker_r%25C3%25B8dbede_smoothie.png)
+![](http://farm8.staticflickr.com/7442/12658493055_887e73df17.jpg)
 
 Et af vores absolut ynglingssteder er Råbar, som er en lille hyggelig café gemt
 bag Aros i Aarhus. Her har vi tilbragt meget søster-kvali-tid. En af de faste

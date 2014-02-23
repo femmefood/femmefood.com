@@ -14,7 +14,7 @@ categories:
  - Tilbehør
 ---
 
-[ ![](http://1.bp.blogspot.com/-6AB1gREG6Uw/UZjlvfKKDgI/AAAAAAAAA5M/ZS4ZhyOKETA/s1600/pillerejer.jpg) ](http://1.bp.blogspot.com/-6AB1gREG6Uw/UZjlvfKKDgI/AAAAAAAAA5M/ZS4ZhyOKETA/s1600/pillerejer.jpg)
+![](http://farm4.staticflickr.com/3682/12658495625_428c86832f.jpg)
 
 ## Lækre pillerejer
 - Fjordrejer

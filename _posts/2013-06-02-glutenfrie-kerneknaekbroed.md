@@ -28,9 +28,9 @@ forskellige kerner i og det må siges, at det blev en rigtig sprød, lille snack
 Jeg glæder mig til at have dem med i madpakken i morgen, når jeg bliver lidt
 lækkersulten :)
 
-[ ![](http://2.bp.blogspot.com/-l-dvmiFZaIg/Uau6onpsFWI/AAAAAAAAA8Q/LNt8MSaaBcI/s1600/Kerne_kn%C3%A6kbr%C3%B8d.jpg) ](http://2.bp.blogspot.com/-l-dvmiFZaIg/Uau6onpsFWI/AAAAAAAAA8Q/LNt8MSaaBcI/s1600/Kerne_kn%C3%A6kbr%C3%B8d.jpg)
+![](http://farm4.staticflickr.com/3777/12658969424_2532f0b029.jpg)
 
-[ ![](http://2.bp.blogspot.com/-aVN8utJA3nE/Uay2tQEn2-I/AAAAAAAAA8g/CIPPzsAdLDs/s1600/Kerne_kn%C3%A6kbr%C3%B8d_02.jpg) ](http://2.bp.blogspot.com/-aVN8utJA3nE/Uay2tQEn2-I/AAAAAAAAA8g/CIPPzsAdLDs/s1600/Kerne_kn%C3%A6kbr%C3%B8d_02.jpg)
+![](http://farm4.staticflickr.com/3777/12658969424_2532f0b029.jpg)
 
 ##Glutenfrie kerneknækbrød
 - 5 dl. vand

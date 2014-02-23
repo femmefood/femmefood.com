@@ -33,7 +33,7 @@ surt og sødt.
 
 Vi er dybt forelsket i denne lille sag, mon du også er det? :)
 
-[ ![](http://4.bp.blogspot.com/-zlaqCipeuHI/Uc7lo-gYdhI/AAAAAAAAA_U/WVP3MR4Hg5A/s600/Pulled_pork_burger.jpg) ](http://4.bp.blogspot.com/-zlaqCipeuHI/Uc7lo-gYdhI/AAAAAAAAA_U/WVP3MR4Hg5A/s600/Pulled_pork_burger.jpg)
+![](http://farm3.staticflickr.com/2863/12658625843_bc8340a60d.jpg)
 
 Nakkefilet (den senere pulled pork) og coleslawen skal tilberedes dagen før, så
 de kan stå og trække smag.

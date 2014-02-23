@@ -12,7 +12,7 @@ categories:
 Har du tit lyst til søde sager, når du kommer hjem fra arbejdet, skolen eller
 studiet?
 
-[ ![](http://3.bp.blogspot.com/-lx7_8RgpGz8/UZ0xugbotLI/AAAAAAAAA58/aO8eybdxJN4/s1600/k%C3%A6kkanel.jpg) ](http://3.bp.blogspot.com/-lx7_8RgpGz8/UZ0xugbotLI/AAAAAAAAA58/aO8eybdxJN4/s1600/k%C3%A6kkanel.jpg)
+![](http://farm4.staticflickr.com/3833/12658969444_f63e3a7f30.jpg)
 
 Det har vist sig, at det ældgamle, brune krydderi, kanel, har en stabiliserende
 virkning på blodsukkeret. Undersøgelser foretaget af Richard Anderson på Human

@@ -28,7 +28,7 @@ Resultatet er denne lækre, robuste sag, som er fyldt med en masse gode fibre.
 Det er en "all-rounder", da den er god til pålæg, marmelade eller som
 burgerbolle. 
 
-[ ![](http://2.bp.blogspot.com/-fh8dcHRNhU8/Uf6uyejEepI/AAAAAAAABB8/xKySJNBX9QA/s1600/Kernekraft_sandwichbolle.jpg) ](http://2.bp.blogspot.com/-fh8dcHRNhU8/Uf6uyejEepI/AAAAAAAABB8/xKySJNBX9QA/s1600/Kernekraft_sandwichbolle.jpg)
+![](http://farm8.staticflickr.com/7292/12658626313_216d023bea.jpg)
 
 ## Kernekraft sandwichbolle
 - 50 g. gær 
