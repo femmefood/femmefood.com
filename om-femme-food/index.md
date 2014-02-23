@@ -28,9 +28,9 @@ Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen. H
 
 
 ## Motivation til bloggen
-Hele grundlaget for bloggen er at give idéer og inspiration til mælke- og glutenallergikere. Det hele startede med at jeg (Annika) i 2010 ændrede mine spisevaner radikalt efter jeg fandt ud af, at jeg ikke kunne tåle mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirende opskrifter til mælkeallergikere og allergikere generelt. Her dukkede idéen til Femme Food op. Vi vil gerne gennem bloggen dele ud af vores viden og opskrifter. 
+Hele grundlaget for bloggen er at give idéer og inspiration til mælke- og glutenallergikere. Det hele startede med, at jeg (Annika) i 2010 ændrede mine spisevaner radikalt, efter jeg fandt ud af, at jeg ikke kunne tåle mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirende opskrifter til mælkeallergikere og allergikere generelt. Her dukkede idéen til Femme Food op. Vi vil gerne gennem bloggen dele ud af vores viden og opskrifter. 
 
-Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover disse madpricipper. Hun drikker både mælk og spiser rugbrødder. Med det vil vi gerne sige at Femme Food er et koncept rettet mod allergikere, men andre som finder vores blog spændende er selvfølgelig meget velkomne til at lade sig inspirere! 
+Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover disse madpricipper.  Med det vil vi gerne sige, vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov. Femme Food er et koncept rettet mod allergikere, men andre som finder vores blog spændende er selvfølgelig meget velkomne til at lade sig inspirere! 
 
 
 
@@ -63,6 +63,8 @@ mellem.
 
 Hvis der er spørgsmål eller kommentarer er du meget velkommen til at kontakte os på femmefood@femmefood.com.
 
-Og til sidst vil vi gerne sige: Vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov!
+Og til sidst vil vi gerne sige: Vi går ind for bæredygtigt mad, selvom det kan være svært, at se på agurken nede i supermarkedet, hvordan den er blevet behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor forskel på det lange løb for naturen og din krop at vælge agurken med det røde ø fremfor den med ukendt edikette.
+
+
 
 God læselyst! :-)
