@@ -61,7 +61,7 @@ Jeg (Annika) prøver at begrænse indtaget af sukker,
 men ikke sagt på den måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
 
-Hvis du har spørgsmål eller kommentarer er du meget velkommen til at kontakte os på femmefood@femmefood.com.
+Hvis du har spørgsmål eller kommentarer er du meget velkommen til at kontakte os på hello@femmefood.com.
 
 Og til sidst vil vi gerne sige: Vi går ind for bæredygtigt mad! Selvom det kan være svært at se på agurken nede i supermarkedet, hvordan den er blevet behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor forskel på det lange løb både for naturen og din krop at vælge agurken med det røde ø fremfor den med ukendt edikette.
 
