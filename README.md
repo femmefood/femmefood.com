@@ -1,6 +1,6 @@
-# femme food
+# Femme Food
 
-This repo contains the source for [femme food](http://www.femmefood.com/)
+This repository contains the source for [Femme Food](http://www.femmefood.com/)
 
 ## Dependencies
 
@@ -14,8 +14,8 @@ jekyll serve -w
 
 ## Notes
 
-* Post filenames may contain æ and ø UTF-8 letters, but not å (for some reason it doesn't
-  workout well on a Mac).
+* Post filenames may not contain æ, ø or å UTF-8 letters, since Disqus etc. got
+  problems with UTF-8 letters.
 
 
 ## Credits
