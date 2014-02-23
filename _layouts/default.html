@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="{{ site.url }}{{ page.url | replace: '/index.html', '/' }}" rel="canonical"/>
     <link href="{{ site.feed }}" rel="alternate" title="{{ site.name }}" type="application/atom+xml"/>
+    {% if page.image %}<link rel="image_src" href="{{ page.image }}"/>{% endif %}
     <!-- Customs Fonts -->
     <link href='//fonts.googleapis.com/css?family=Quicksand|Josefin+Sans' rel='stylesheet' type='text/css'>
     <!-- Bootstrap & FA -->
