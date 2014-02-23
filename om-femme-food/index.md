@@ -30,7 +30,7 @@ Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen. H
 ## Motivation til bloggen
 Hele grundlaget for bloggen er at give idéer og inspiration til mælke- og glutenallergikere. Det hele startede med, at jeg (Annika) i 2010 ændrede mine spisevaner radikalt, efter jeg fandt ud af, at jeg ikke kunne tåle mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirende opskrifter til mælkeallergikere og allergikere generelt. Her dukkede idéen til Femme Food op. Vi vil gerne gennem bloggen dele ud af vores viden og opskrifter. 
 
-Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover disse madpricipper.  Med det vil vi gerne sige, vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov. Femme Food er et koncept rettet mod allergikere, men andre som finder vores blog spændende er selvfølgelig meget velkomne til at lade sig inspirere! 
+Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover Femme Food's madpricipper.  Med det vil vi gerne sige, at vi synes, at du skal finde den madstil og de spisevaner, som passer til lige netop din krop og dine behov. Femme Food er et koncept rettet mod allergikere, men andre som finder vores blog spændende er selvfølgelig meget velkomne til at lade sig inspirere! 
 
 
 
@@ -44,18 +44,18 @@ eller fravælge de opskrifter, som passer til ens behov.
 
 Vi har valgt at skrive laktosefri, da de fleste mennesker bedst kender til
 laktoseintolerance og er den mest udbredte form for mælkeallergi (70% af jordensbefolkning og 4% af  den
-danske befolkning). Laktose er mælkesukkkeret i mælkeprodukter. Selvom jeg (Annika) selv
-er allergisk overfor kasein findes både laktose og kasein i højere eller mindre
+danske befolkning har laktoseintolerance). Laktose er mælkesukkkeret i mælkeprodukter. Selvom jeg (Annika) selv
+er allergisk overfor kasein findes både laktose og kasein i større eller mindre
 grad i alle mælkeprodukter.
 
 Desuden har vi valgt at angive, hvis opskrifterne er glutenfri, da nogle
 mennesker lider af cøliaki, som er en tilstand, hvor man har allergi overfor
 kornbestanddelen, gluten, som findes i rug, spelt, hvede, havre osv. 
-Flere og flere får diagnostiseret cøliaki, og der menes, at omkring 1% af befolkningen i Danmark har cøliaki. Dog har nogle en mildere grad af cøliki eller ikke har fundet frem til at de har cøliaki, at de ikke er blevet diagnostisere. Så derfor menes antallet af gultenallergikere at være højere, kilde: [Dansk Cøliaki forening](http://www.coeliaki.dk/dk/).
-Desuden kan jeg selv mærke markant forskel, om jeg spiser mad med gluten eller ej. Jeg får en meget oppustet mave af glutenholdigt mad. Så jeg har skåret ned på mit indtag af mad indeholdende gluten.
+Flere og flere får diagnostiseret cøliaki, og der menes, at omkring 1% af befolkningen i Danmark har cøliaki. Dog har nogle en mildere grad af cøliaki eller ikke har fundet frem til, at de har cøliaki. Disse er ikke blevet diagnostiseret. Så derfor menes antallet af gultenallergikere at være højere, kilde: [Dansk Cøliaki forening](http://www.coeliaki.dk/dk/).
+Desuden kan jeg selv mærke markant forskel, om jeg spiser mad med eller uden gluten. Jeg får en meget oppustet mave af glutenholdigt mad. Så jeg har skåret ned på mit indtag af mad indeholdende gluten.
 
 Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
-raffineret sukker. Der er i dag mange produkter, som har tilsat sukker, og det
+raffineret sukker. Der er i dag mange produkter, som har tilsat sukker såsom pålæg, yoghurt, müsli, cornflakes, rejer i lage osv. og det
 medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545 diabetikere, hvilket svarer til 5,7% af befolkning, kilde: [Diabetes foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx).
 Jeg (Annika) prøver at begrænse indtaget af sukker,
 men ikke sagt på denne måde, at der ikke er plads til lørdagsslik en gang i
