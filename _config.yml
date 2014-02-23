@@ -6,8 +6,9 @@ pygments: true
 # Custom
 author:
   name: Femme Food
-  email: femmefood@gmail.com
+  email: hello@femmefood.com
 
 url: http://www.femmefood.com
+feed: http://www.femmefood.com/atom.xml
 disqus: femmefood
 description: en blog om lækker og moderne mad
