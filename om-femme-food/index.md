@@ -5,8 +5,9 @@ date: 2013-05-27
 ---
 
 Vi er to søstre, som har startet Femme Food. Bloggen skal være med til at
-inspirere til nemme og lækre opskrifter og tager udgangspunkt i laktose-, gluten- og/eller sukkerfri madlavning.
-[ ![](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png) ](http://1.bp.blogspot.com/-pGFdQL0cPtw/UgNgLC1WU7I/AAAAAAAABCM/aS32fZkhv8c/s1600/s%C3%B8strene_femmefood.png)
+inspirere til nemme og lækre opskrifter og tager udgangspunkt i laktosefri, glutenfri og/eller sukkerfri madlavning.
+
+![Femme Food-søstrene](http://farm6.staticflickr.com/5530/12658491565_300624bcdb.jpg)
 
 Vi elsker livsglad mad, der for os betyder mad, som både er en gevinst for
 kroppen og mentalt velvære. Vi bor sammen, men spiser vidt forskelligt. Annika spiser efter Femme Food's principper, mens Winnie spiser som en gennemsnits dansker.
