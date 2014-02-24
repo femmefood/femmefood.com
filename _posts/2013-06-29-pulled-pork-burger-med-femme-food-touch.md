@@ -33,7 +33,7 @@ surt og sødt.
 
 Vi er dybt forelsket i denne lille sag, mon du også er det? :)
 
-![](http://farm3.staticflickr.com/2863/12658625843_bc8340a60d.jpg)
+![Pulled pork burger med Femme Food touch](http://farm3.staticflickr.com/2863/12658625843_bc8340a60d.jpg)
 
 Nakkefilet (den senere pulled pork) og coleslawen skal tilberedes dagen før, så
 de kan stå og trække smag.

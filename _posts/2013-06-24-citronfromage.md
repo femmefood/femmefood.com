@@ -23,7 +23,7 @@ Hun har lavet en ny og lækker udgave af citronfromage! Jeg glæder mig til at
 komme hjem og smage den, hvis der er mere tilbage, når jeg kommer hjem! :)
 
 
-![](http://farm8.staticflickr.com/7445/12658497275_bba728715c.jpg)
+![Citronfromage](http://farm8.staticflickr.com/7445/12658497275_bba728715c.jpg)
 
 ## Citronfromage
 - 4 blade husblas

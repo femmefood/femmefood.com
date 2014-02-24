@@ -28,7 +28,7 @@ alternativ til den traditionelle muffin. Her får du stillet lækkersulten med e
 fantastisk smag af nødder og mørk chokolade, men samtidig får du masser af
 kerner og frø. Alt sammen helt uden laktose og gluten :)
 
-![](http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f.jpg)
+![Rålækre rugbrødsmuffins](http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f.jpg)
 
 
 ## Rålækre rugbrødsmuffins

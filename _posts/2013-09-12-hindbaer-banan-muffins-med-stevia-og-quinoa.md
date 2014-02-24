@@ -25,7 +25,7 @@ muffin! :) Sojafløden gør dem dejligt svampede, mens hindbærerne og bananerne
 gør dem sur/søde - en lækker kombi! Toppen er pyntet med hakkede mandler uden
 skal og frysetørrede hindbær.
 
-![](http://farm8.staticflickr.com/7322/12658624843_3a156b9daf.jpg)
+![Hindbær/banan muffins med stevia og quinoa](http://farm8.staticflickr.com/7322/12658624843_3a156b9daf.jpg)
 
 ## Hindbær/banan muffins med stevia og quinoa: (16 stk.)
 - 2 dl. quinoa

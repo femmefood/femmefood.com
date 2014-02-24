@@ -20,7 +20,7 @@ Søndag = tømmermændsmad... i hvert fald for mit vedkommende :) .. og hvad gø
 man så? Jeg havde sådan lyst til pommesfritter! Så det blev til kartofler i
 ovnen med lækker hjemmerørt hvidløgsmajo.
 
-![](http://farm4.staticflickr.com/3709/12658627123_dd6217ee93.jpg)
+![Hjemmerørt hvidløgsmajo med ovnbagte fritter](http://farm4.staticflickr.com/3709/12658627123_dd6217ee93.jpg)
 
 Den lækre rapsolie er foræret af [Rødbakkegård](http://www.roedbakkegaard.dk/)
 og er en 100% økologisk koldpresset rapsolie.

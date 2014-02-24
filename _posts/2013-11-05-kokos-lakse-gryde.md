@@ -28,7 +28,7 @@ vi begyndt at slubre os i varme, smækre sager! En af favoritterne er
 kokos-lakse-gryden. Den har en dejlig, cremet smag af kokos blandet med en spicy
 smag af chili og karry. Hos os går den all-in, måske den også gør det hos jer.
 
-![](http://farm8.staticflickr.com/7453/12658966794_3c185d3c62.jpg)
+![Kokos-lakse-gryde](http://farm8.staticflickr.com/7453/12658966794_3c185d3c62.jpg)
 
 
 ## Kokos-lakse-gryde (2 personer)

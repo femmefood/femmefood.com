@@ -25,7 +25,7 @@ det et par gange efterhånden og det ender altid med efter kort tid, at der bare
 er et par krummer tilbage i rugbrødsformen. Jeg er vild med dets svampede
 konsistens til et lækkert stykke pålæg.
 
-![](http://farm8.staticflickr.com/7328/12658492025_9ede360deb.jpg)
+![Risrugbrød](http://farm8.staticflickr.com/7328/12658492025_9ede360deb.jpg)
 
 ## Risrugbrød
 - 2 dl. sorte ris

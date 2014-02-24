@@ -23,7 +23,7 @@ Herhjemme i hytten har vi en forkærlighed for fiskedeller! Vi har her til aften
 lavet fiskedeller med blomkål, gulerødder, persillerod og dild - nammenam det
 blev godt.
 
-![](http://farm8.staticflickr.com/7324/12658625043_5c631be591.jpg)
+![Fiskedeller med blomkål](http://farm8.staticflickr.com/7324/12658625043_5c631be591.jpg)
 
 ## Fiskedeller med blomkål:
 - 2 laksefileter (225g)

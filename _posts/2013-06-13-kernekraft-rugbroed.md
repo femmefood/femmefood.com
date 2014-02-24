@@ -24,7 +24,7 @@ I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ
 til rugbrød. Vi har endelig fundet en lækker løsning, hvor rugbrødet både er
 svampet og har den dejlige smag af rugbrød. Her er resultatet.
 
-![](http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b.jpg)
+![Kernekraft rugbrød](http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b.jpg)
 
 ## Kernekraft rugbrød
 - 2 dl. boghvedekerner

@@ -31,7 +31,7 @@ Jeg er en meget kritisk pandekagedommer, men disse her har smeltet mit
 pandekagehjerte - og ikke at forglemme jordbærisen! Den satte lige prikken over
 i'et.
 
-![](http://farm8.staticflickr.com/7295/12658491435_0093970950.jpg)
+![Super sprøde pandekager med jordbæris](http://farm8.staticflickr.com/7295/12658491435_0093970950.jpg)
 
 
 ## Super sprøde pandekager:

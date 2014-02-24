@@ -19,7 +19,7 @@ categories:
  - Madpakkeinspiration
  - God fordøjelse
  - Snacks
- - Snacks til madpakken 
+ - Snacks til madpakken
  - Fiberigt
 ---
 
@@ -28,9 +28,7 @@ forskellige kerner i og det må siges, at det blev en rigtig sprød, lille snack
 Jeg glæder mig til at have dem med i madpakken i morgen, når jeg bliver lidt
 lækkersulten :)
 
-![](http://farm4.staticflickr.com/3777/12658969424_2532f0b029.jpg)
-
-![](http://farm4.staticflickr.com/3777/12658969424_2532f0b029.jpg)
+![Glutenfrie kerneknækbrød](http://farm4.staticflickr.com/3777/12658969424_2532f0b029.jpg)
 
 ##Glutenfrie kerneknækbrød
 - 5 dl. vand

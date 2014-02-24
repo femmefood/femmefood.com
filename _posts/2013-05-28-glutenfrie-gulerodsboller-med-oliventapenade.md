@@ -28,7 +28,7 @@ bollerne endnu mere svampede og nigellafrøene giver dem en eksotisk smag. 
 Til bollerne lavede jeg oliventapenade, og det må siges at være en ret god
 kombination!
 
-![](http://farm3.staticflickr.com/2805/12658968894_b9af801ec3.jpg)
+![Glutenfrie gulerodsboller med oliventapenade](http://farm3.staticflickr.com/2805/12658968894_b9af801ec3.jpg)
 
 ## Oliventapenade
 - 1 glas sorte oliven (15-20 stk)
@@ -43,7 +43,7 @@ kombination!
 Kom alle ingredienserne i en skål og blend dem med en stavblender til det bliver
 en ensartet masse.
 
-![](http://farm3.staticflickr.com/2805/12658968894_b9af801ec3.jpg)
+![Glutenfrie gulerodsboller med oliventapenade](http://farm3.staticflickr.com/2805/12658968894_b9af801ec3.jpg)
 
 
 ## Glutenfrie gulerodsboller (8-10 stk.)

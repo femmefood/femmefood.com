@@ -21,7 +21,7 @@ kendt for sit rige indhold af mineralerne; calcium, kalium, silicium og jern.
 Derfor er den bl.a. blevet brugt til at kurere anæmi (blodmangel). Derudover har
 den en rensende og afgiftende effekt på kroppen.
 
-![](http://farm6.staticflickr.com/5503/12658497535_9a9174dcda.jpg)
+![Brændnælde-te med anis og lakridsrod](http://farm6.staticflickr.com/5503/12658497535_9a9174dcda.jpg)
 
 
 ## Brændenældete med anis og lakridsrod

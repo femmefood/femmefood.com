@@ -51,7 +51,7 @@ over næste gang i sætter tænderne i noget, hvordan det smager, lugter og føl
 inde i munden. I kunne lægge ud med den lækre opskrift, som vi har fået tryllet
 frem nemlig en quinoa-tærte med rosenkål og laks. :)
 
-![](http://farm3.staticflickr.com/2819/12658966344_191a6ff1e2.jpg)
+![Quinoa-tærte med rosenkål og laks](http://farm3.staticflickr.com/2819/12658966344_191a6ff1e2.jpg)
 
 
 ## Quinoa-tærte med laks og rosenkål (2 personer):
