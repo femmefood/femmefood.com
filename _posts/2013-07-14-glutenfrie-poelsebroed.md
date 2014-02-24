@@ -31,7 +31,8 @@ godt.
 
 
 Vi spiste pølsebrødene med hjemmelavet ketchup, som vi har lavet lige
-her: [Hjemmelavet ketchup med og uden sennep](TODO).
+her: [Hjemmelavet ketchup med og uden
+sennep](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/).
 
 ## Pølsebrød (12 stk.)
 - 50 g. gær

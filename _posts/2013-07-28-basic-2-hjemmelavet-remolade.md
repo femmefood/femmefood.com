@@ -23,7 +23,8 @@ ud med stevia og kommet sprødt spidskål i fremfor hvidkål :)
 ![](http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9.jpg)
 
 ## Hjemmelavet remolade
-- 1 dl. majo ( se vores tidligere opskrift på [hvidløgsmajo](TODO)
+- 1 dl. majo ( se vores tidligere opskrift på
+  [hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/)
 - 1 tsk. kapers
 - 1 blad spidskål uden stilk
 - 1/2 rødløg

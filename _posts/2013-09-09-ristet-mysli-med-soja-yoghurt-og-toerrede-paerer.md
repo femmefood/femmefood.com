@@ -21,7 +21,7 @@ categories:
 ---
 
 Jeg har i laaaang tid spist boghvedegrød med blåbær og et drys kanel (se 
-[her](http://www.femmefood.com/2013/05/laktose-og-glutenfri-boghvedegrd-et-af.html))
+[her](/2013/05/boghvedegroed-med-kanel-og-blaabaer/))
 til morgenmad. Nu synes jeg, at det er på tide at prøve noget nyt! Så jeg har
 kastet mig ud i en omgang soja-yoghurt med hjemmelavet müsli og tørrede pærer
 med kanel. Det vil jeg sige ikke er et dårligt bytte :) De tørrede pærer

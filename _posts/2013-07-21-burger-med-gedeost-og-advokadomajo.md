@@ -21,22 +21,22 @@ categories:
  - Sukkerfri
  - Aftensmad
  - Burgerboller
-
- 
 ---
 
 Der har været lidt stille på bloggen... Min kære søster har lagt syg med en
 alvorlig halsbetændelse, men nu er hun på banen igen til at skyde lækre billeder
 og stå med forklædet ude i køkkenet. :)
 
-Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, friske grøntsager og avokadomajo. Namme nam! Vi synes selv, at det blev et lækkert resultat, og jeg er især forelsket i advokadomajo'en!
+Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost,
+friske grøntsager og avokadomajo. Namme nam! Vi synes selv, at det blev et
+lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 
 ![](http://farm4.staticflickr.com/3779/12658497405_f7339f31a0.jpg)
 
 
 ## Avokadomajo
 - 2 avokadoer
-- 4 spsk. hjemmerørt hvidløgsmajo ( [Femme Foods hjemmerørte hvidløgsmajo](http://www.femmefood.com/2013/06/hjemmerrt-hvidlgsmajo-med-ovenbagte.html))
+- 4 spsk. hjemmerørt hvidløgsmajo ([Femme Foods hjemmerørte hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/))
 - 3 fed hvidløg (kan undlades, da der er hvidløg i majo'en, men bliver lidt ekstra stærk)
 - 1 chili (vi brugte en 1/4 chili)
 - 1 citron
@@ -55,7 +55,8 @@ Burger. En klassiker. Vi har peppet burgeren lidt sommerligt op med gedeost, fri
 - 1 rødløg
 - rucola
 - gedeost
-- ketchup [Hjemmelavet ketchup](TODO)
+- ketchup [Hjemmelavet
+ketchup](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/)
 
 ### Tilberedning
 1. Skær burgerbollen op.
@@ -71,5 +72,5 @@ derfor, at min kroppen ikke reagerer på det, da jeg jo som sagt ikke kan tåle
 proteinet kasein.
 
 Du kan læse mere i mit indlæg "om os" her:  [Om Femme
-Food](http://www.femmefood.com/about/). Jeg synes, at det kunne være interessant
+Food](http://www.femmefood.com/om-femme-food/). Jeg synes, at det kunne være interessant
 at vide, om du/I har oplevet det samme.
