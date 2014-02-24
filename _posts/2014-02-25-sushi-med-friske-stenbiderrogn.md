@@ -26,7 +26,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 
 ## Sushi med friske stenbiderrogn (2 personer)
 
-- 3 dl ris
+- 3 dl sushiris
 - 4,5 dl vand
 - 4 spsk. alm. eddike eller 
 - 2 spsk. rørsukker
