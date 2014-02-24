@@ -7,7 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="{{ site.url }}{{ page.url | replace: '/index.html', '/' }}" rel="canonical"/>
     <link href="{{ site.feed }}" rel="alternate" title="{{ site.name }}" type="application/atom+xml"/>
-    {% if page.image %}<link rel="image_src" href="{{ page.image }}"/>{% endif %}
+    {% if page.image %}
+    <link rel="image_src" href="{{ page.image }}"/>
+    {% else %}
+    <link rel="image_src" href="https://farm4.staticflickr.com/3779/12716360255_fe0bda293e.jpg"/>
+    {% endif %}
     <!-- Customs Fonts -->
     <link href='//fonts.googleapis.com/css?family=Quicksand|Josefin+Sans' rel='stylesheet' type='text/css'>
     <!-- Bootstrap & FA -->
