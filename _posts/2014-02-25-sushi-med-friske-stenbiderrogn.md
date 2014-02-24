@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sushi med friske stenbiderrogn
-image: https://farm4.staticflickr.com/3785/12757207774_7b02a4dafb_n.jpg
+image: https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_n.jpg
 date: 2014-02-25
 tags:
  - Sojasauce
