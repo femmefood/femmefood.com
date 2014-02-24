@@ -2,7 +2,7 @@
 layout: post
 title: Sushi med friske stenbiderrogn
 image: https://farm4.staticflickr.com/3785/12757207774_7b02a4dafb_n.jpg
-date: 2013-04-17
+date: 2014-02-25
 tags:
  - Sojasauce
  - Tang
