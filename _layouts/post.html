@@ -5,12 +5,14 @@ layout: default
   <div class="col-md-8">
     <div class="hentry" id="{{ page.id }}">
       <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-      <p class="meta text-muted"><abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr></p>
       <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
       <div class="post">
         {{ content }}
       </div>
-      <p class "meta text-muted"><a href="{{ page.url }}" rel="bookmark">Permalink</a></p>
+      <p class "meta text-muted">
+        Udgivet: <abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr> -
+        <a href="{{ page.url }}" rel="bookmark">Permalink</a>
+      </p>
       <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
       <div id="disqus_thread"></div>
         <script type="text/javascript">
