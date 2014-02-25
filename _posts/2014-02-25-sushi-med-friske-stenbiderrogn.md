@@ -41,6 +41,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 - Stenbiderrogn
 - Salt
 - Peber
+- Chili- eller hvidløgsmajo ([Femme Foods hjemmerørte hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/))
 - 1 rullemåtte
 - Vitavrap
 
@@ -56,12 +57,13 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 7. Pak rullemåtten helt ind i vitavrap.
 8. Placér rullemåtten med vitavrap på et skærbræt.
 9. Kom ris på rullemåtten med en ske eller hænderne. Tryk det fladt og fordel det på et areal, som svarer til 1 stykke noritang.
-10. Anbring noritang-stykket ovenpå risene og kom en skive agurk, avokado og laks på, så det ligger på 1/3 af noritang-stykket.
-11. Rul tangstykket med rullemåtten og pres rullen godt sammen.
-12. Gentag ovenstående procedure 3 gange mere.
-13. Smag de friske stenbiderrogn til med salt og peber.
-14. De friske stenbiderrogn fordeles i et jævnt lag på et stykke vitavrap og den færdig rullede insideout rulles deri.
-15.  Skær tilsidst rullerne ud i 6-8 stykker pr. rulle.
+10. Anbring noritang-stykket ovenpå risene og kom en skive agurk, gulerod, avokado og laks på, så det ligger på 1/3 af noritang-stykket.
+11. Put en stribe majo på, hvor agurken, avokadoen, guleroden og laksen ligger.
+12. Rul tangstykket med rullemåtten og pres rullen godt sammen.
+13. Gentag ovenstående procedure 3 gange mere.
+14. Smag de friske stenbiderrogn til med salt og peber.
+15. De friske stenbiderrogn fordeles i et jævnt lag på et stykke vitavrap og den færdig rullede insideout rulles deri.
+16.  Skær tilsidst rullerne ud i 6-8 stykker pr. rulle.
 
 
 
