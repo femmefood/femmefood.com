@@ -5,7 +5,7 @@ date: 2014-02-25
 ---
 
 Vores billeder må meget gerne pinnes på [Pinterest](https://www.pinterest.com/),
-men hvis billederne skal anvendes til ikke- samt kommercielt brug, skal vi
+men hvis billederne skal anvendes til ikke-kommercielt samt kommercielt brug, skal vi
 kontaktes først. Skriv til [hello@femmefood.com](hello@femmefood.com).
 
 Normalt aftaler vi, at billeder og opskrifter må anvendes kommercielt og
