@@ -18,7 +18,7 @@ categories:
  - Aftensmad
 ---
 
-I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi fiskehandleren, og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn.
+I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi [fiskehandleren](http://www.hf-aarhus.dk/), og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn.
 Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideout med laks, gulerod, agurk, forårsløg og avokado rullet i stenbidderogn, mmmh! :)
 
 ![Sushi med friske stenbiderrogn](https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_z.jpg)
@@ -41,8 +41,9 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 - Stenbiderrogn
 - Salt
 - Peber
+- Chili- eller hvidløgsmajo ([Femme Foods hjemmerørte hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/))
 - 1 rullemåtte
-- Vitavrap
+- Vita wrap
 
 
 ### Tilberedning
@@ -53,15 +54,16 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 4. Skær agurken, guleroden og avokadoen ud i tynde skiver.
 5. Skær forårsløgene, så de passer med noritangens længde og skær laksen ud i tynde skiver.
 6. Kom eddike og rørsukker i gryden med ris og rør rundt.
-7. Pak rullemåtten helt ind i vitavrap.
-8. Placér rullemåtten med vitavrap på et skærbræt.
+7. Pak rullemåtten helt ind i vita wrap.
+8. Placér rullemåtten med vita wrap på et skærbræt.
 9. Kom ris på rullemåtten med en ske eller hænderne. Tryk det fladt og fordel det på et areal, som svarer til 1 stykke noritang.
-10. Anbring noritang-stykket ovenpå risene og kom en skive agurk, avokado og laks på, så det ligger på 1/3 af noritang-stykket.
-11. Rul tangstykket med rullemåtten og pres rullen godt sammen.
-12. Gentag ovenstående procedure 3 gange mere.
-13. Smag de friske stenbiderrogn til med salt og peber.
-14. De friske stenbiderrogn fordeles i et jævnt lag på et stykke vitavrap og den færdig rullede insideout rulles deri.
-15.  Skær tilsidst rullerne ud i 6-8 stykker pr. rulle.
+10. Anbring noritang-stykket ovenpå risene og kom en skive agurk, gulerod, avokado og laks på, så det ligger på 1/3 af noritang-stykket.
+11. Put en stribe majo på, hvor agurken, avokadoen, guleroden og laksen ligger.
+12. Rul tangstykket med rullemåtten og pres rullen godt sammen.
+13. Gentag ovenstående procedure 3 gange mere.
+14. Smag de friske stenbiderrogn til med salt og peber.
+15. De friske stenbiderrogn fordeles i et jævnt lag på et stykke vita wrap og den færdig rullede insideout rulles deri.
+16.  Skær tilsidst rullerne ud i 6-8 stykker pr. rulle.
 
 
 
