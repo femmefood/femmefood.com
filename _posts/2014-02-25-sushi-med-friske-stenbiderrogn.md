@@ -8,6 +8,7 @@ tags:
  - Tang
  - Ris
  - Avokado
+ - Gulerødder
  - Agurk
  - Laks
  - Stenbiderrogn
@@ -33,6 +34,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 - 1 avokado
 - 4 forårsløg
 - 1 agurk
+- 1 gulerod
 - 4 spsk. alm. eddike eller riseddike
 - 2 spsk. rørsukker
 - 1/2 tsk. salt
@@ -50,7 +52,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 1. Kom 3 dl ris i en gryde med 4,5 dl vand.
 2. Sæt gryden på fuld blus og sluk, når vandet koger.
 3. Lad risene trække på den varme kogeplade i 20 min.
-4. Skær agurken og avokadoen ud i tynde skiver.
+4. Skær agurken, guleroden og avokadoen ud i tynde skiver.
 5. Skær forårsløgene, så de passer med noritangens længde og skær laksen ud i tynde skiver.
 6. Kom eddike og rørsukker i gryden med ris og rør rundt.
 7. Pak rullemåtten helt ind i vitavrap.
