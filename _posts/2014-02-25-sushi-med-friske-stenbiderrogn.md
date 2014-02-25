@@ -16,12 +16,10 @@ categories:
  - Laktosefri
  - Glutenfri
  - Aftensmad
-
- 
 ---
 
-I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi fiskehandleren, og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn. 
-Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideout med laks, gulerod, agurk, forårsløg og avokado rullet i stenbidderogn, mmmh! :)  
+I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi fiskehandleren, og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn.
+Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideout med laks, gulerod, agurk, forårsløg og avokado rullet i stenbidderogn, mmmh! :)
 
 ![Sushi med friske stenbiderrogn](https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_z.jpg)
 
@@ -29,7 +27,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 
 - 3 dl sushiris
 - 4,5 dl vand
-- 4 spsk. alm. eddike eller 
+- 4 spsk. alm. eddike eller
 - 2 spsk. rørsukker
 - 1 avokado
 - 4 forårsløg
@@ -39,7 +37,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 - 2 spsk. rørsukker
 - 1/2 tsk. salt
 - 1 stykke laks
-- 4 stykker noritang 
+- 4 stykker noritang
 - Stenbiderrogn
 - Salt
 - Peber
@@ -69,4 +67,4 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 
 ## Frække Facts
 
-Der er nu sæson for friske stenbiderrogn, som strækker sig fra december til maj. Det er første gang, at jeg har smagt friske stenbiderrogn, og hvor har de bare en flot farve! Det er slet ikke nødvendigt at farve dem mere røde eller sorte, som dem vi ser på glas i supermarkederne, og et ekstra plus ved dem her er, at de ikke indeholder konserveringsmidler. 
+Der er nu sæson for friske stenbiderrogn, som strækker sig fra december til maj. Det er første gang, at jeg har smagt friske stenbiderrogn, og hvor har de bare en flot farve! Det er slet ikke nødvendigt at farve dem mere røde eller sorte, som dem vi ser på glas i supermarkederne, og et ekstra plus ved dem her er, at de ikke indeholder konserveringsmidler.
