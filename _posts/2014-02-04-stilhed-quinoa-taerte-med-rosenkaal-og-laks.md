@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quinoa-tærte med rosenkål og laks
-image: http://farm3.staticflickr.com/2819/12658966344_191a6ff1e2_n.jpg
+image: https://farm3.staticflickr.com/2871/12658966104_c9517dca62_n.jpg
 date: 2014-02-04
 tags:
  - Laks
@@ -51,7 +51,7 @@ over næste gang i sætter tænderne i noget, hvordan det smager, lugter og føl
 inde i munden. I kunne lægge ud med den lækre opskrift, som vi har fået tryllet
 frem nemlig en quinoa-tærte med rosenkål og laks. :)
 
-![Quinoa-tærte med rosenkål og laks](http://farm3.staticflickr.com/2819/12658966344_191a6ff1e2.jpg)
+![Quinoa-tærte med rosenkål og laks](https://farm3.staticflickr.com/2871/12658966104_c9517dca62_z.jpg)
 
 
 ## Quinoa-tærte med laks og rosenkål (2 personer):
