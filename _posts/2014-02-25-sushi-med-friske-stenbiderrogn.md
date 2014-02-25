@@ -67,4 +67,4 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 
 ## Frække Facts
 
-Der er nu sæson for friske stenbiderrogn, som strækker sig fra december til maj. Det er første gang, at jeg har smagt friske stenbiderogn, og hvor har de bare en flot farve! Det er slet ikke nødvendigt at farve dem mere røde eller sorte, som dem vi ser på glas i supermarkederne, og et ekstra plus ved dem her er, at de ikke indeholder konserveringsmidler. 
+Der er nu sæson for friske stenbiderrogn, som strækker sig fra december til maj. Det er første gang, at jeg har smagt friske stenbiderrogn, og hvor har de bare en flot farve! Det er slet ikke nødvendigt at farve dem mere røde eller sorte, som dem vi ser på glas i supermarkederne, og et ekstra plus ved dem her er, at de ikke indeholder konserveringsmidler. 
