@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hjemmelavet remolade
+title: Hjemmelavet remoulade
 image: http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9_n.jpg
 date: 2013-07-28
 tags:
@@ -16,13 +16,13 @@ måde til at lave de traditionelle specialiteter. Det alt overskyggende ved
 konceptet er, at så ved vi, hvad der er kommet i, og at det ikke er fyldt med
 raffineret sukker og E-numre.
 
-Vi har netop lavet en lækker, hjemmerørt remolade! Den består traditionelvis af
+Vi har netop lavet en lækker, hjemmerørt remoulade! Den består traditionelvis af
 majo, cornichoner, kapers, løg, karry og gurkemeje, men vi har skiftet sukkeret
 ud med stevia og kommet sprødt spidskål i fremfor hvidkål :)
 
-![Hjemmelavet remolade](http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9.jpg)
+![Hjemmelavet remoulade](http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9.jpg)
 
-## Hjemmelavet remolade
+## Hjemmelavet remoulade
 - 1 dl. majo ( se vores tidligere opskrift på
   [hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/)
 - 1 tsk. kapers
