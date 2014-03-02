@@ -4,8 +4,6 @@ title: Blogroll
 date: 2014-03-02
 ---
 
-# Blogroll
-
 Her har vi samlet en liste med de blogs og sider som vi elsker læser med på.
 
 ## Danske madblogs
