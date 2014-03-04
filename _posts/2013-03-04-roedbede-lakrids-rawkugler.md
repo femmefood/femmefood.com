@@ -32,10 +32,10 @@ Lille lækker snack ud af rødebedesnuller! Vi presser tit rødbedesaft til juic
 
 ### Tilberedning
 
-1. Pres rødbederne i en frugtpresser. (Brug evt. den friskpressede rødbedesaft til denne lækre [rødbede smoothie](http://www.femmefood.com/2013/10/raalaekker-roedbede-smoothie/)
+1. Pres rødbederne i en frugtpresser. (Brug evt. den friskpressede rødbedesaft til denne lækre [rødbede-smoothie](http://www.femmefood.com/2013/10/raalaekker-roedbede-smoothie/))
 2. Hak mandlerne i en stor minihakker.
 3. Kom dadlerne i minihakkeren og hak til det bliver en ensartet masse.
-4. Kom snullert fra rødbederne ned i minihakkeren og kør rundt til rødbedesnullert er blevet fordelt
+4. Kom massen over i en skål og kom snullert fra rødbederne i og bland rundt til rødbedesnullert er blevet fordelt
 5. Tilsæt lakridspulveret og rør rundt.
 6. Form 20 mellemstore kugler.
 7. Nu en lille snack klar til når lækkersulten melder sig. :)
