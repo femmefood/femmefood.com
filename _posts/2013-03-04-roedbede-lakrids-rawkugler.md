@@ -13,6 +13,8 @@ categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Snacks til madpakken
+ - Lækkersulten
  - Snack
  - Sødt
 ---
