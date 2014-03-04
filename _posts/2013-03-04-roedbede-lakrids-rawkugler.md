@@ -12,6 +12,7 @@ tags:
 categories:
  - Laktosefri
  - Glutenfri
+ - Sukkerfri
  - Snack
  - Sødt
 ---
