@@ -46,4 +46,4 @@ De nylavede rødbede/lakrids rawkugler kan rulles i kokosmel, hakkede nødder el
 
 ## Frække Facts
 
-Lakrids udvindes fra lakridsroden og dyrkes primært i Rusland, Iran, Grækenland og Asien. Lakridsroden blev i gamle dage anset for at være et lægemiddel mod forkølelse og mavebesvær. I slutningen af 1800-tallet begyndte man at spise lakrids som slik. I dag spiser vi det ikke kun som slik, men tilsætter det også i maden.
+Lakrids udvindes fra lakridsroden og dyrkes primært i Rusland, Iran, Grækenland og Asien. Lakridsroden blev i gamle dage anset for at være et lægemiddel mod forkølelse og mavebesvær. I slutningen af 1800-tallet begyndte man at spise lakrids som slik. I dag er det blevet så trendy at spise lakrids, at nogle endda eksperimenterer med lakrids i maden. 
