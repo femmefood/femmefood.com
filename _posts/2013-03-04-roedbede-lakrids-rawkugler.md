@@ -19,7 +19,7 @@ categories:
  - Sødt
 ---
 
-Lille lækker snack ud af rødebedesnuller! Vi presser tit rødbedesaft til juice og smoothies, men vi synes, at det er synd at smide snullert ud fra de pressede grøntsager. Søs fik den geniale idé at bruge rødbedesnullert i rawkugler. Her kommer resultatet, som blev en rødbede/lakrids-kugle! Ser den ikke bare lækker ud? Jeg kan i hvert fald love jer for, at den smager godt - især hvis man er lakrids-elsker! :)
+Lille lækker snack ud af rødbedesnuller! Vi presser tit rødbedesaft til juice og smoothies, men vi synes, at det er synd at smide snullert ud fra de pressede grøntsager. Søs fik den geniale idé at bruge rødbedesnullert i rawkugler. Her kommer resultatet, som blev en rødbede/lakrids-kugle! Ser den ikke bare lækker ud? Jeg kan i hvert fald love jer for, at den smager godt - især hvis man er lakrids-elsker! :)
 
 ![Rødbede/lakrids rawkugler](https://farm8.staticflickr.com/7341/12928899353_f9bc4291f9_z.jpg)
 
