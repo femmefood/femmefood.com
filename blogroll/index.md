@@ -10,3 +10,5 @@ Her har vi samlet en liste med de blogs og sider som vi elsker læser med på.
 
 * [Det skal smage af noget](http://detskalsmageafnoget.dk/)
 * [Gastromand](http://gastromand.dk/)
+* [Chocolat](http://chocolat.dk/)
+* [Mad for livet](http://www.madforlivet.com/)
