@@ -12,3 +12,5 @@ Her har vi samlet en liste med de blogs og sider som vi elsker læser med på.
 * [Gastromand](http://gastromand.dk/)
 * [Chocolat](http://chocolat.dk/)
 * [Mad for livet](http://www.madforlivet.com/)
+* [Stinna](http://www.stinna.dk/)
+* [Sund Mums](http://www.sundmums.dk/)
