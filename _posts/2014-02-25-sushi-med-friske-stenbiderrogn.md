@@ -16,6 +16,7 @@ categories:
  - Laktosefri
  - Glutenfri
  - Aftensmad
+ - Opskrift
 ---
 
 I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi [fiskehandleren](http://www.hf-aarhus.dk/), og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn.
