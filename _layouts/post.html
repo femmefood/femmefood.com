@@ -11,7 +11,9 @@ layout: sidebar
   Udgivet af <a rel="author" href="https://plus.google.com/+Femmefoodcom">Femme Food</a> d. <abbr class="published updated" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr> -
   <a href="{{ page.url }}" rel="bookmark">Permalink</a>
   </p>
+  {% if categories contains 'opskrift' %}
   <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
+  {% endif %}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
   var disqus_shortname = '{{ site.disqus }}';
