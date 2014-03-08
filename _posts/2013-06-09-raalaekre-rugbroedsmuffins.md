@@ -33,7 +33,7 @@ kerner og frø. Alt sammen helt uden laktose og gluten :)
 
 
 ## Rålækre rugbrødsmuffins
-- 5 æg
+- 5 æg
 - 1 dl olie
 - 1,5 spsk. saltflager 
 - 2 spsk FiberHUSK
