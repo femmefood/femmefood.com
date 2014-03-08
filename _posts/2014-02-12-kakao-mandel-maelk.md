@@ -12,6 +12,7 @@ categories:
  - Laktosefri
  - Glutenfri
  - Varme drikke
+ - Opskrift
 ---
 
 

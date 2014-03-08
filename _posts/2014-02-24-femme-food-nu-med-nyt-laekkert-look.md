@@ -3,6 +3,8 @@ layout: post
 title: Femme Food nu med nyt, lækkert look
 image: https://farm4.staticflickr.com/3779/12716360255_fe0bda293e_n.jpg
 date: 2014-02-23
+categories:
+- Opskrift
 ---
 
 ![Femme Food nu med nyt lækkert look!](https://farm4.staticflickr.com/3779/12716360255_fe0bda293e_z.jpg)

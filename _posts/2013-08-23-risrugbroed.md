@@ -18,6 +18,7 @@ categories:
  - Sukkerfri
  - Rugbrød
  - Brød
+ - Opskrift
 ---
 
 Vi har netop udviklet opskriften på et smækker-lækkert risrugbrød! Vi har bagt

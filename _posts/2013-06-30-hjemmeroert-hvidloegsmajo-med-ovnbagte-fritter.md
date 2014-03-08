@@ -15,6 +15,7 @@ categories:
  - Sukkerfri
  - Aftensmad
  - Pommes frites
+ - Opskrift
 ---
 Søndag = tømmermændsmad... i hvert fald for mit vedkommende :) .. og hvad gør
 man så? Jeg havde sådan lyst til pommesfritter! Så det blev til kartofler i

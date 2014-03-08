@@ -27,6 +27,7 @@ categories:
  - Fiskefrikadeller
  - Mos
  - Aftensmad
+ - Opskrift
 ---
 
 Her til aften stod menuen på disse lækre fiskefrikadeller med rodfrugtemos.

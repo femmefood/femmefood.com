@@ -11,6 +11,7 @@ categories:
  - Laktosefri
  - Glutenfri
  - Snacks
+ - Opskrift
 ---
 Mmmmh... En af sommerens klassikere er jordbær! Og de bliver bare ekstra
 delikate, når de bliver dyppet i mørkt chokolade.

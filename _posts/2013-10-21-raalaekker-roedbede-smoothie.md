@@ -20,6 +20,7 @@ categories:
  - Sukkerfri
  - Smoothies
  - Kolde drikke
+ - Opskrift
 ---
 
 Bladene er ved at falde af træerne og kulden er begyndt at trænge ind. Vi er

@@ -21,6 +21,7 @@ categories:
  - Muffins
  - Lækkersulten
  - Sødt
+ - Opskrift
 ---
 
 Mmmmh... dem her må du bare prøve! Disse fine rugbrødsmuffins er et super

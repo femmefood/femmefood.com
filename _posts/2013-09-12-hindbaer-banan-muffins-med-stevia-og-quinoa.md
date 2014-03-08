@@ -18,6 +18,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Sødt
+ - Opskrift
 ---
 
 Vi starter lille fredag ud med en lille, lækker fristelse - en hindbær/banan

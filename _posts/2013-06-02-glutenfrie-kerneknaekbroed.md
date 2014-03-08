@@ -21,6 +21,7 @@ categories:
  - Snacks
  - Snacks til madpakken
  - Fiberigt
+ - Opskrift
 ---
 
 Her til aften lavede min søster og jeg disse lækre knækbrød. Vi puttede en masse

@@ -15,6 +15,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Tærter
+ - Opskrift
 ---
 
 Denne lækre tærte er med porrer, gulerødder og laks. Den kan varieres i

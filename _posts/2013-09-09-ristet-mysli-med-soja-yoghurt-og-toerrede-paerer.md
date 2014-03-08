@@ -18,6 +18,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Morgenmad
+ - Opskrift
 ---
 
 Jeg har i laaaang tid spist boghvedegrød med blåbær og et drys kanel (se 

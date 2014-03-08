@@ -15,6 +15,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Sødt
+ - Opskrift
 ---
 Imens jeg sidder og nyder solen på den skønne, spanske ø, Tenerife, har min
 søster (fotografen) været i gang med at eksperimentere i mad-laboratoriet hjemme
