@@ -10,6 +10,7 @@ tags:
  - Dadler
  - Mandler
 categories:
+ - Opskrift
  - Laktosefri
  - Glutenfri
  - Sukkerfri
