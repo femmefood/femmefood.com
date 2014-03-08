@@ -17,6 +17,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Aftensmad
+ - Fiskefrikadeller
  - Opskrift
 ---
 
