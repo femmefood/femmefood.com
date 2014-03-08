@@ -39,11 +39,11 @@ i'et.
 - 4 æg
 - 6 dl. Naturli' sojamælk med vanilje (den blå)
 - 2 dl. glutenfri øl
-- 1 spsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/)
-- 2 dl. glutenfrie havregryn
+- 1 spsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/)
+- 2 dl. glutenfrie havregryn
 - 4 dl. majsmel
-- 1 tsk salt
-- 4 spsk drys let stevia
+- 1 tsk salt
+-  4 spsk drys let stevia
 - 1 spsk vaniljepulver
 - 1 tsk. kardemomme
 - lidt revet citronskal 
