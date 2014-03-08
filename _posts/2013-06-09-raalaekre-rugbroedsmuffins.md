@@ -19,6 +19,8 @@ categories:
  - Snacks
  - Snacks til madpakken
  - Muffins
+ - Madpakkeidé
+ - Madpakkeinspiration
  - Lækkersulten
  - Sødt
  - Opskrift

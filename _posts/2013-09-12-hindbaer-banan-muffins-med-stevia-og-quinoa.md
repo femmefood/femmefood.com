@@ -19,6 +19,9 @@ categories:
  - Sukkerfri
  - Sødt
  - Opskrift
+ - Snack
+ - Madpakkeidé
+ - Madpakkeinspiration
 ---
 
 Vi starter lille fredag ud med en lille, lækker fristelse - en hindbær/banan

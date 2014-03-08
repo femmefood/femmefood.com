@@ -19,6 +19,8 @@ categories:
  - Aftensmad
  - Fiskefrikadeller
  - Opskrift
+ - Madpakkeidé
+ - Madpakkeinspiration
 ---
 
 Herhjemme i hytten har vi en forkærlighed for fiskedeller! Vi har her til aften

@@ -17,6 +17,7 @@ categories:
  - Sukkerfri
  - Knækbrød
  - Madpakkeinspiration
+ - Madpakkeidé
  - God fordøjelse
  - Snacks
  - Snacks til madpakken

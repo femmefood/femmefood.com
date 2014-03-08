@@ -18,6 +18,8 @@ categories:
  - Sukkerfri
  - Rugbrød
  - Brød
+ - Madpakkeidé
+ - Madpakkeinspiration
  - Opskrift
 ---
 
