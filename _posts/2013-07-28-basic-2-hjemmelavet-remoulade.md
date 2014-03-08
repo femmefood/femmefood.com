@@ -8,7 +8,7 @@ tags:
 - Karry
 - Majo
 - Rødløg
-- Dijon sennep
+- Dijonsennep
 - Cornichoner
 - Kapers
 - Gurkemeje
