@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rålækker rødbede-smoothie
-image: http://farm8.staticflickr.com/7442/12658493055_887e73df17_n.jpg
+image: https://farm3.staticflickr.com/2813/12658965174_77a8ca0c19_n.jpg
 date: 2013-10-21
 tags:
  - Rødbeder
