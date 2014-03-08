@@ -1,0 +1,17 @@
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<div class="row">
+  <div class="col-sm-6">
+    <p class="text-muted">{{ post.date | date_to_string }}</p>
+    <div class="post">
+      <p class="text-justify">
+      {{ post.content | split:"<!-- more -->" | first | strip_html | truncate:325 }}
+      {% if post.content | size > 325 %}
+      <a href="{{ post.url }}" title="{{ post.title }}"><strong>Læs mere</strong></a>
+      {% endif %}
+      </p>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <a href="{{ post.url }}"><img src="{{ post.image }}" alt="{{ post.title }}"/></a>
+  </div>
+</div>

@@ -7,10 +7,11 @@ title  : Kategorier
       <a href="#posts-tag" id="{{ forloop.index }}" class="__tag" style="margin: 5px">{{ tag[0] | capitalize }}</a>
       <ul id="list_{{ forloop.index }}" style="display:none;">
          {% for post in tag[1] %}
-         <li><a href="{{ post.url }}"><img src="{{ post.image }}"/></a></li>
+         {% include post-preview.html %}
          {% endfor %}
       </ul>
    {% endfor %}
+   <hr/>
 </div>
 
 <div id ="posts-tags" class="post-list" style="margin: 50px;"></div>
