@@ -20,6 +20,7 @@ categories:
  - Boller
  - Burgerboller
  - Sandwichbolle
+ - Opskrift
 ---
 
 Vi har i mad-laboratoriet længe prøvet på at finde opskriften på en perfekt

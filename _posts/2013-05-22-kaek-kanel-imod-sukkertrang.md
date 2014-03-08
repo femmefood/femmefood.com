@@ -7,6 +7,7 @@ tags:
  - Kanel
 categories:
  - Blodsukker
+ - Blogpost
 ---
 
 Har du tit lyst til søde sager, når du kommer hjem fra arbejdet, skolen eller

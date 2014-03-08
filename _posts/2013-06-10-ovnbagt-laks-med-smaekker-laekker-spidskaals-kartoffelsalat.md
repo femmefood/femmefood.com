@@ -18,6 +18,7 @@ categories:
  - Laktosefri
  - Glutenfri
  - Aftensmad
+ - Opskrift
 ---
 
 Sol, sommer og spidskål... Jeg elsker årstiden lige nu og alle de skønne

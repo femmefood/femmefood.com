@@ -20,6 +20,7 @@ categories:
  - Sukkerfri
  - Brød 
  - Boller
+ - Opskrift
 ---
 
 Jeg har netop lavet en ny version af "Glutenfrie boghvedeboller". Bollerne er

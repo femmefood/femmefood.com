@@ -21,6 +21,7 @@ categories:
  - Sukkerfri
  - Aftensmad
  - Burgerboller
+ - Opskrift
 ---
 
 Der har været lidt stille på bloggen... Min kære søster har lagt syg med en

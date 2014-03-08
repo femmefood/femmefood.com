@@ -23,6 +23,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Sødt
+ - Opskrift
 ---
 
 Min ynglingsdessert er pandekager! Jeg fik serveret denne lækre sag på sengen i

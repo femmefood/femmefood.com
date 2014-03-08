@@ -19,6 +19,7 @@ categories:
  - Sukkerfri
  - Madpakkeidé
  - Snacks
+ - Opskrift
 ---
 
 Pølsebrød, dyner og hyggebukser! Det kalder jeg søndagshygge.

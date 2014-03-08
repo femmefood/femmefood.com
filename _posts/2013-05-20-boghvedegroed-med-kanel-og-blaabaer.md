@@ -13,6 +13,7 @@ categories:
  - Sukkerfri
  - Grød
  - Morgenmad
+ - Opskrift
 ---
 
 Et af mine ynglings morgenmåltider er boghvedegrød med forskellige toppings.

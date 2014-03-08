@@ -12,6 +12,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Tilbehør
+ - Opskrift
 ---
 
 ![Lækre pillerejer](http://farm4.staticflickr.com/3682/12658495625_428c86832f.jpg)

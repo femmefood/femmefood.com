@@ -18,6 +18,7 @@ categories:
  - Sukkerfri
  - Rugbrød
  - Brød
+ - Opskrift
 ---
 
 I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ

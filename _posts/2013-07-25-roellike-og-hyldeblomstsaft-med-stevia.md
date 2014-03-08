@@ -14,6 +14,7 @@ categories:
  - Sukkerfri
  - Kolde drikke
  - Saft
+ - Opskrift
 ---
 
 De smukke hvide hyldeblomster står og strutter rundt om i det danske sommerland.

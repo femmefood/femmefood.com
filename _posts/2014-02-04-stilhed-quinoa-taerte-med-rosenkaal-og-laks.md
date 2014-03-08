@@ -19,6 +19,7 @@ categories:
  - Sukkerfri
  - Tærter
  - Aftensmad
+ - Opskrift
 ---
 
 Der har været stille herinde på bloggen, men hvor er det dejligt at se, at der

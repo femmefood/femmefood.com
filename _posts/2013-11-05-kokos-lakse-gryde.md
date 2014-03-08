@@ -21,6 +21,7 @@ categories:
  - Sukkerfri
  - Aftensmad
  - Gryderetter
+ - Opskrift
 ---
 
 Efterår = tid til varme retter. Uuuh, hvor er det blevet koldt udenfor. Så nu er

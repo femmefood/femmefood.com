@@ -17,6 +17,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Aftensmad
+ - Opskrift
 ---
 
 Herhjemme i hytten har vi en forkærlighed for fiskedeller! Vi har her til aften

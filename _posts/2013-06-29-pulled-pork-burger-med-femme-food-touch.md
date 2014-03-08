@@ -24,6 +24,7 @@ categories:
  - Aftensmad
  - Burgerboller
  - Brød
+ - Opskrift
 ---
 Så er vi klar med Femme Food-udgaven af pulled pork burgeren! Den er boostet med
 tæskelækre råvarer. Den brune farin er skiftet ud med dadler og stevia, og i

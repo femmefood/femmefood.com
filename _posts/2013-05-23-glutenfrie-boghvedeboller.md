@@ -17,6 +17,7 @@ categories:
  - Sukkerfri
  - Boller
  - Brød
+ - Opskrift
 ---
 
 Forleden dag da min mor var på besøg, lavede jeg disse lækre, svampede

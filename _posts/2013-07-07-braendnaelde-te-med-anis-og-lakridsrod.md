@@ -12,6 +12,7 @@ categories:
  - Glutenfri
  - Sukkerfri
  - Varme drikke
+ - Opskrift
 ---
 
 På med handsken og ud i det blå! Måske er det ikke tilfældigt, at den grønne,

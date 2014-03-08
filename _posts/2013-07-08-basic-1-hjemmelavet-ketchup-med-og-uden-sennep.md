@@ -15,6 +15,7 @@ categories:
  - Glutenfri
  - Basic-ting til køkkenet
  - Basisvarer
+ - Opskrift
 ---
 
 Det lyder måske lidt kedeligt, men her kommer en perlerække af hjemmelavede

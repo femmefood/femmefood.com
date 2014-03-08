@@ -4,10 +4,23 @@ title: Hjemmelavet remoulade
 image: http://farm6.staticflickr.com/5537/12658627133_cc8c0a0ab9_n.jpg
 date: 2013-07-28
 tags:
+- Spidskål
+- Karry
+- Majo
+- Rødløg
+- Dijon sennep
+- Cornichoner
+- Kapers
+- Gurkemeje
+- Stevia
+- Hvidløgsmajo
 categories:
  - Laktosefri
  - Glutenfri
  - Sukkerfri
+ - Basic-ting til køkkenet
+ - Basisvarer
+ - Opskrift
 ---
 
 Vi er i mad-laboratoriet på Trøjborg i gang med at lave “ting til dit
