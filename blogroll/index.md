@@ -14,3 +14,4 @@ Her har vi samlet en liste med de blogs og sider som vi elsker læser med på.
 * [Mad for livet](http://www.madforlivet.com/)
 * [Stinna](http://www.stinna.dk/)
 * [Sund Mums](http://www.sundmums.dk/)
+* [Umahro](http://www.umahro.dk/)
