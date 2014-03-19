@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hvordan påvirker sukker hjernen?
-image: https://farm8.staticflickr.com/7376/13271001795_206fc62ddf_o.png
+image: https://farm8.staticflickr.com/7376/13271001795_70c2ca83e2_n.jpg
 date: 2014-03-19 22:50
 categories:
 - Blogpost
