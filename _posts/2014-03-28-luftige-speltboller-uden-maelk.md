@@ -58,9 +58,12 @@ Vi har i dag haft besøg af vores far og til hyggen fik vi nybagte speltboller! 
 7. Indsæt pizzastenen og tænd ovnen på 250 C.
 8. Skub pizzaspaden ind under bollerne med bagepapir og læg dem på pizzastenen og bag dem i 15 min.
 
-### Tip
+### Tip 1
 
 Vi har brugt en pizzasten til at bage bollerne på. Det giver bollerne en brød skorpe og får en helt fantastisk smag.
+
+### Tip 2
+FiberHUSK har en enestående evne til at binde vand, hvilket er bindemidlet i dejen. Det gør, at bollerne bliver skærebare og holder sig friske i længere tid.
 
 
 ## Frække Facts
