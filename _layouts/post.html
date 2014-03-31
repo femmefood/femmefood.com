@@ -3,12 +3,6 @@ layout: sidebar
 ---
 <div class="hentry" id="{{ page.id }}" itemscope itemtype="http://schema.org/Recipe">
   <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-  <ul class="socialcount pull-right" data-url="{{ site.url }}{{ page.url }}" data-counts="true" data-share-text="{{ page.title }}">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="social-icon icon-facebook"></span><span class="count">Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="social-icon icon-twitter"></span><span class="count">Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="social-icon icon-googleplus"></span><span class="count">+1</span></a></li>
-    <li class="pinterest"><a title="Pin It"><span class="social-icon icon-pinterest"></span><span class="count">Pin It</span></a></li>
-  </ul>
   <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
   <div class="post">
     {{ content | replace: 'img src', 'img itemprop="image" src' }}
@@ -20,6 +14,7 @@ layout: sidebar
   {% if page.categories contains 'opskrift' %}
   <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
   {% endif %}
+  {% include social.html %}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
   var disqus_shortname = '{{ site.disqus }}';
