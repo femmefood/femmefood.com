@@ -2,7 +2,7 @@
 layout: post
 title: Ramsløgpesto
 image: https://farm8.staticflickr.com/7277/13547232904_8ba461f986_n.jpg
-date: 2014-04-02 7:00
+date: 
 tags:
  - Ramsløg
  - Rapsolie
