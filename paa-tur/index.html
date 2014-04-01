@@ -1,0 +1,20 @@
+---
+layout: default
+title: Femme Food på tur
+description: Femme Food på tur - vi rejser rundt og laver reportager.
+tags:
+- Madblog
+- Glutenfri
+- Laktosefri
+- Sukkerfri
+---
+<div id="home">
+  {% for post in site.categories.på-tur %}
+  <a href="{{ post.url }}" title="{{ post.title }}">
+    <img src="{{ post.image }}" alt="{{ post.title }}"/>
+  </a>
+  {% endfor %}
+</div>
+<script>
+$("#home").justifiedGallery({'rowHeight':320});
+</script>
