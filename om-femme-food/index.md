@@ -35,7 +35,7 @@ hos [Moment Fotografi](http://momentfotografi.dk/), som hovedsagligt beskæftige
 sig med mad-fotografering. I fritiden driver hun [Winnie
 Methmann](http://www.winniemethmann.com/), hvor hun primært skyder mode-billeder.
 Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen.
-Hun elsker, at eksperimentere og udvikle nye opskrifter.
+Hun elsker at eksperimentere og udvikle nye opskrifter.
 
 
 
@@ -64,7 +64,7 @@ og/eller sukkerfri, da det skal gøre det let og overskueligt for læseren at v�
 eller fravælge de opskrifter, som passer til ens behov.
 
 Vi har valgt at skrive laktosefri, da de fleste mennesker bedst kender til
-laktoseintolerance og er den mest udbredte form for mælkeallergi (70% af
+laktoseintolerance, og er den mest udbredte form for mælkeallergi (70% af
 jordensbefolkning og 4% af  den danske befolkning har
 laktoseintolerance). Laktose er mælkesukkkeret i
 mælkeprodukter. Selvom jeg (Annika) selv er allergisk overfor kasein findes både
@@ -72,7 +72,7 @@ laktose og kasein i større eller mindre grad i alle mælkeprodukter.
 
 Desuden har vi valgt at angive, hvis opskrifterne er glutenfri, da nogle
 mennesker lider af cøliaki, som er en tilstand, hvor man har allergi overfor
-kornbestanddelen, gluten, som findes i rug, spelt, hvede, havre osv.
+kornbestanddelen, gluten, som findes i rug, spelt, hvede osv.
 Flere og flere får diagnostiseret cøliaki, og der menes, at omkring 1% af
 befolkningen i Danmark har cøliaki. Dog har nogle en mildere grad af cøliaki
 eller ikke har fundet frem til, at de har cøliaki. Disse er ikke blevet
@@ -89,7 +89,7 @@ medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere
 fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545
 diabetikere, hvilket svarer til 5,7% af befolkning, kilde: [Diabetes
 foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx).
-Jeg (Annika) prøver at begrænse indtaget af sukker,
+Vi prøver at begrænse indtaget af sukker,
 men ikke sagt på den måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
 
