@@ -4,8 +4,7 @@ title: Femme Food elsker øko
 image: https://farm8.staticflickr.com/7221/13567908283_65f7ed206f_n.jpg
 date: 2014-04-01 23:15
 categories:
-- på-tur
-
+- Rundrejse
 ---
 
 Vi har oprettet en ny kategorie, som hedder “På tur”. Vi vil derigennem tage jer med på små oplevelser rundt om i det ganske land lige fra bondegårdsbesøg til skovtur. Vi er ikke blot passioneret omkring opskrifter, men vi er i høj grad også optaget af råvarernes tilblivelse herunder klima, natur, økologi og bæredygtighed. 
