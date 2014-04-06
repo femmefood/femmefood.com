@@ -25,7 +25,7 @@ categories:
 
 Vi var i den lokale helsekost-butik i går, hvor vi stødte på hampeproteinpulver. Jeg havde egentlig risproteinpulver i tankerne, men fik lyst til at prøve hampeproteinpulvet i stedet. Ligeledes kunne jeg se, at det både var dyrket, fremstillet og pakket i Danmark, hvilket er en ekstra bonus. Jeg har altid gerne ville lave mine egne proteinbarer, da jeg mangler en lille snack efter træning. Den her sag består udover hampeproteinpulver af dadler, kakao, kokosmel, mandler og pistacienødder. Resultatet kan i se nedenunder. Mmmh, jeg synes, at de blev mega gode! :) Indholdet af proteinpulver kan du selv justere. Jeg har fundet ud af, at 1 spiseske svarer til 9 g proteinpulver. Fordelen ved hampeproteinpulvet er, at det er smagsneutralt, og så har det derudover en flot grøn farve. Proteinbarerne er geniale til efter træning, madpakken eller, når lækkersulten melder sig, da man føler sig længere tid mæt, holder sukkertrangen i skak og giver bedre restitution efter træning. 
 
-![Hamp-proteinbar med cacao og pistacie](https://farm6.staticflickr.com/5489/13665535023_948d0c03d1_z.jpg)
+![Hamp-proteinbar med pistacie og cacao](https://farm6.staticflickr.com/5489/13665535023_948d0c03d1_z.jpg)
 
 
 
