@@ -56,6 +56,11 @@ Vi var i den lokale helsekost-butik i går, hvor vi stødte på hampeproteinpulv
 3. Form 6 ligestore barer.
 4. Hak pistacienødderne og drys dem på toppen af barerne.
 
+### Tip 
+
+Pistacienødderne kan også hakkes/blandes med i proteinbarmassen - det tror jeg, at jeg gør næste gang. :)
+
+
 
 
 ## Frække Facts
