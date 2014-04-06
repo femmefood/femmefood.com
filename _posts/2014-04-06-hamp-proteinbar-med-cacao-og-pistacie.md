@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hamp-proteinbar med cacao og pistacie
+title: Hamp-proteinbar med pistacie og cacao
 image: https://farm6.staticflickr.com/5489/13665535023_948d0c03d1_n.jpg
 date: 2014-04-06 17:15
 tags:
@@ -35,7 +35,7 @@ Vi var i den lokale helsekost-butik i går, hvor vi stødte på hampeproteinpulv
 
 
 
-## Hamp-proteinbarer med cacao og pistacie (6 styk)
+## Hamp-proteinbarer med pistacie og cacao (6 styk)
 
 - 10 dadler
 - 2 dl mandler
