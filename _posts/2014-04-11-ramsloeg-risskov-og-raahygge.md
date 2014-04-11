@@ -1,10 +1,11 @@
+
 ---
 layout: post
 title: Ramsløg, Risskov og råhygge
 image: https://farm3.staticflickr.com/2925/13784780773_2ed1fe4d80_n.jpg
 date: 2014-04-11 22:30
 categories:
-- On-tour
+- Paatur
 
 ---
 Vi har oprettet en ny kategorie, som hedder “På tur”. Vi vil ud at se lidt på verden omkring os... og vi har inviteret jer med ;) Forrig lørdag gik turen til Risskov i det pragtfulde vejr. Her blev vi mødt af en grøn og duftende skovbund. Vi gravede en god favn ramsløg op og nød det gode vejr. Ramsløgene er geniale til pesto, salater og tilbehør, da de smager af hvidløg. Det smarte er, at de både er i sæson lige nu, og så de sig på dansk grund, hvilket betyder, at de ikke skal transporteres fra Sydens sol. 
