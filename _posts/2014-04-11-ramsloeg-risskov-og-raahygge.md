@@ -12,9 +12,9 @@ Til sidst vil vi vise nogle stemningsbilleder fra turen. Ud af de plukkede ramsl
 
 ![Ramsløg i hånden](https://farm3.staticflickr.com/2925/13784780773_2ed1fe4d80_z.jpg)
 
-![Opgravning af ramsløg](https://farm8.staticflickr.com/7312/13784781283_b6f75334c7_z.jpg)
-
 ![Ramsløg](https://farm3.staticflickr.com/2863/13785106364_8d64118c3d_o.png)
+
+ ![Opgravning af ramsløg](https://farm8.staticflickr.com/7312/13784781283_b6f75334c7_z.jpg)
 
 ![Ramsløg](https://farm3.staticflickr.com/2828/13785106804_05da7c8811_o.png)
 
