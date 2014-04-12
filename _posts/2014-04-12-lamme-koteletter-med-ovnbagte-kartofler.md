@@ -4,8 +4,8 @@ title: Lammekoteletter med ovnbagte kartofler
 image: https://farm3.staticflickr.com/2834/13804675365_996eb64bb9_n.jpg
 date: 2014-04-12 23:25
 tags:
- - Lammekoteletter 
- - Kartofler
+- Lammekoteletter 
+- Kartofler
 - Olivenolie 
 - Rosmarin
 - Bredbladet persille
