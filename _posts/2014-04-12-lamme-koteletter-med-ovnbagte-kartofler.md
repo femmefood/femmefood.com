@@ -84,4 +84,4 @@ Så er påsken ved at være op over os! Vi har i den forbindelse lavet lammekote
 
 ## Frække Facts
 
-Udover dens fortræffelige smag er lam rig på b-vitaminerne niacin og folsyre. Niacin eller B3 er vigtig for hormondannelse dvs. insulin, kortison og kønshormonerne. Ligeledes sænker niacin LDL kolesterolet i blodet. Lam er derudover rig på jern, kalium og fosfor. 
+Udover lams fortræffelige smag er lam rig på b-vitaminerne niacin og folsyre. Niacin eller B3 er vigtig for hormondannelse dvs. insulin, kortison og kønshormonerne. Ligeledes sænker niacin LDL kolesterolet i blodet. Lam er derudover rig på jern, kalium og fosfor. 
