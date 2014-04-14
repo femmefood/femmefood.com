@@ -41,7 +41,8 @@ lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 - 3 fed hvidløg (kan undlades, da der er hvidløg i majo'en, men bliver lidt ekstra stærk)
 - 1 chili (vi brugte en 1/4 chili)
 - 1 citron
-- salt og peber
+- Salt 
+- Peber
 
 ### Tilberedning
 1. Skær avokadoerne op og udhul dem med en ske. Kom avokadoen ned i en skål.
@@ -54,10 +55,10 @@ lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 - 500 g. hakket oksekød 
 - 3 skoleagurker
 - 1 rødløg
-- rucola
-- gedeost
-- ketchup [Hjemmelavet
-ketchup](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/)
+- Rucola
+- Gedeost
+- Ketchup ([Femme Foods hjemmelavet
+ketchup](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/))
 
 ### Tilberedning
 1. Skær burgerbollen op.
