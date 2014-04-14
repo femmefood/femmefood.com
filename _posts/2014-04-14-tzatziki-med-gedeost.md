@@ -18,7 +18,7 @@ categories:
 ---
 
 
-Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver tzatziki’en en cremet konsistens, og så har vi valgt en gedeost fra Tebstrup, da den er i mild i smagen og ligger i olielage med krydderrier, hvilket giver den en lækker smag. Vi lavede tzatziki’en til lammekoteletter og ovnbagte kartofler forleden [(se her)](http://www.femmefood.com/2014/04/lamme-koteletter-med-ovnbagte-kartofler/). Vi er vilde med sammensætningen! Tzatziki’en får os til at tænke tilbage på varmere himmelstrøg. Vi savner lidt det varme vejr den her tid. :)
+Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver tzatziki’en en cremet konsistens, og så har vi valgt en gedeost fra Tebstrup, da den er i mild i smagen og ligger i olielage med krydderrier, hvilket giver den en lækker smag. Vi lavede tzatziki’en til lammekoteletter og ovnbagte kartofler forleden [(se her)](http://www.femmefood.com/2014/04/lamme-koteletter-med-ovnbagte-kartofler/). Vi er vilde med sammensætningen! Tzatziki’en får os til at tænke tilbage på varmere himmelstrøg. Vi savner lidt det varme vejr i den her tid. :)
 
 ![Tzatziki med gedeost](https://farm8.staticflickr.com/7253/13805845404_f0e68bd0e2_z.jpg)
 
