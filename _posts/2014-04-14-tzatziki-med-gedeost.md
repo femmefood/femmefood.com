@@ -33,7 +33,7 @@ Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver t
 ## Tzatziki med gedeost
 
 
-- 2 bøtter [Tebstrup gedeost](http://www.passionforost.dk/find-osten/oste/tebstrup-gedeost-i-olie.aspx?PID=2040)
+- 2 bøtter [Tebstrup gedeost](http://www.tebstrup.dk/)
 - 1 agurk
 - 1 citron
 - Citronpeber
@@ -56,4 +56,4 @@ Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver t
 
 ## Frække Facts
 
-Vi har skrevet tzatziki'en ikke er laktosefri, da gedeosten indeholder laktose. Derimod er sammensætningen af aminosyrerne i gedemælk anderledes i forhold til komælk. Gedeost ligner mere human mælk. Proteinerne i gedemælk fordøjes derfor hurtigere end proteinerne i komælk, især hvis indholdet af aS1-kasein er lavt. Der er en del genetisk variation mellem gederacerne, hvilket forårsager variation af kaseintyperne i gedemælk. Gedemælk har derudover der et højere indhold af A-vitamin end komælk. Jeg er så heldig, at jeg kan tåle gedeost selvom jeg er mælkeallergiker (kan ikke tåle proteinet i mælk). :)
+Vi har skrevet tzatziki'en ikke er laktosefri, da gedeosten indeholder laktose. Derimod er sammensætningen af aminosyrerne i gedemælk anderledes i forhold til komælk. Gedeost ligner mere human mælk. Proteinerne i gedemælk fordøjes derfor hurtigere end proteinerne i komælk, især hvis indholdet af aS1-kasein er lavt. Der er en del genetisk variation mellem gederacerne, hvilket forårsager variation af kaseintyperne i gedemælk. Gedemælk har derudover et højere indhold af A-vitamin end komælk. Jeg er så heldig, at jeg kan tåle gedeost selvom jeg er mælkeallergiker (kan ikke tåle proteinet i mælk). :)
