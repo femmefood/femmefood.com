@@ -38,7 +38,7 @@ I må alle have en god dag i det lækre vejr! Femme Food har opført sig ordentl
 - 6 spsk. kakaomel
 - 4 dl vand
 - 3 dl olivenolie
-- 1 tsk. FiberHUSK
+- 1 tsk. [FiberHUSK](http://husk.dk/)
 - 1 tsk. bagepulver
 
 ### Tilberedning af choko-lagekage-bunde  
