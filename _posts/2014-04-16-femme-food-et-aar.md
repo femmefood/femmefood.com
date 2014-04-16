@@ -69,5 +69,5 @@ I må alle have en god dag i det lækre vejr! Femme Food har opført sig ordentl
 Vi havde svært ved at få æggehviderne stive. Så vi fandt et gammelt fransk husmandsråd, som siger: Tilsæt lidt salt og citronsaft til æggehviderne. Det må siges at hjælpe - stive æggehvider kom der :)
 
 ## Frække facts
-Hindbær har sæson fra juni til september. De er rige på C-vitaminer, som stryker immunforsvret. Ligeledes indeholder de antocyaniner, som giver bærrene deres røde farve. Udover at give den smukke røde farve, har de vist sig at beskytte mod en lang række sygdomme såsom cancer og hjerte-kar-sygdomme, men derudover forhindre de også
+Hindbær har sæson fra juni til september. De er rige på C-vitaminer, som stryker immunforsvret. Ligeledes indeholder de antocyaniner, som giver bærrene deres røde farve. Udover at give den smukke røde farve, har de vist sig at beskytte mod en lang række sygdomme såsom cancer og hjerte-kar-sygdomme, men derudover forhindrer de også
 aldring af huden og beskytter mod solens skarpe UV-stråler. :)
