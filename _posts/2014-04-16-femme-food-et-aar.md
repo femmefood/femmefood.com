@@ -16,7 +16,6 @@ tags:
 categories:
  - Laktosefri
  - Glutenfri
- - Sukkerfri
  - Sødt
  - Dessert 
  - Opskrift
