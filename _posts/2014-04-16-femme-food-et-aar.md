@@ -39,7 +39,8 @@ I må alle have en god dag i det lækre vejr! Femme Food har opført sig ordentl
 - 3 dl olivenolie
 - 1 tsk. FiberHUSK
 - 1 tsk. bagepulver
-### Tilberedning
+
+### Tilberedning af choko-lagekage-bunde  
 1. Del først æggene i hver sin skål. 
 2. Pisk æggeblommerne med sukker og stevia.
 3. Tilsæt mandelmel, kastanjemel, kakaopulver, vand, olivenolie, FiberHUSK og bagepulver i æggesnapsen.
@@ -55,7 +56,7 @@ I må alle have en god dag i det lækre vejr! Femme Food har opført sig ordentl
 - 1/2 dl stevia (eller kun 1 dl stevia)
 - 10 blade husblas
 
-### Tilberedning
+### Tilberedning af hindbærmousse
 1. Kom husblassene i en skål med vand. Tag et blad et efter et i skålen. Lad dem trække i vandet i ca. 10 min.
 2. Kom hindbærene i en gryde og indkog dem i 10-15 min. Mos bærrene i gryden.
 3. Kom husblassen i gryden. Rør rundt til det er smeltet.
