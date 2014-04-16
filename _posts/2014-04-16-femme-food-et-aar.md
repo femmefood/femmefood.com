@@ -22,6 +22,7 @@ categories:
 ---
 
 I dag er det Femme Foods fødselsdag, hurra, hurra, hurraaaa… Vi er kommet i fødselsdagshumør og lavet en lækker fødselsdagslagkage! Vi har bygget lagkagen op af chokoladebunde med hindbærmousse imellem. Mums siger jeg bare :) Udover at fejre Femme Foods 1 års fødselsdag, vil vi gerne ved samme lejlighed sige tak for alle dem, som lægger og har lagt vejen forbi bloggen. Det gør det hele lidt mere sjovt at blogge, når man ved, at der er nogle, som følger med på den anden side af skærmen. :) Derudover vil vi gerne takke vores samarbejdspartnere! 
+Desuden skal der lyde en stor tak til søde Tine, som hjalp os godt på vej med at blive opdaget, at vi eksisterer. :) Hun skrev på hendes Instagram og hendes skønne blog [FITinspiration](http://fitinspiration.dk/) om os. Det var/er vi meget glade for! I kan se hendes indlæg [her](http://fitinspiration.dk/femme-food/#.U05kA61_vr8). :)
 
 
 I må alle have en god dag i det lækre vejr! Femme Food har opført sig ordentligt. ;)
