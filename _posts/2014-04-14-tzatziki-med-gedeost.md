@@ -8,6 +8,7 @@ tags:
  - Agurk
  - Citron
  - Tzatziki
+ - Hvidløg
 categories:
  - Opskrift
  - Glutenfri
@@ -36,8 +37,10 @@ Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver t
 - 2 bøtter [Tebstrup gedeost](http://www.tebstrup.dk/)
 - 1 agurk
 - 1 citron
+- 3-6 fed hvidløg alt afhængig af stærkheden
 - Citronpeber
 - Salt
+
 
 
 
@@ -46,8 +49,8 @@ Mmmh siger jeg bare! Tzatziki lavet på gedeost er lige sagen! Gedeosten giver t
 ### Tilberedning
 
 1. Kom gedeosten i en skål og mos den med en gaffel.
-2. Riv hele agurken (behold det i midten, så bliver det lidt mere vandigt. Det opbløder nemlig den faste gedeost)
-3. Tilsæt den revede agurk til gedeosten
+2. Riv hele agurken (behold det i midten, så bliver det lidt mere vandigt. Det opbløder nemlig den faste gedeost) og pres hvidløgene.
+3. Tilsæt den revede agurk og pressede hvidløg til gedeosten
 4. Smag tzatziki’en til med citronsaft, citronpeber og salt.
 
 
