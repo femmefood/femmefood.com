@@ -62,7 +62,7 @@ Vi har brugt traditionelle grøntsager, men piftet den op med lidt forskelligt s
 - 1 rød peber
 - 1 rødløg
 - Feldsalat
-- Lolo rossa salat
+- Lollo rossa salat
 - Avokadomajo
 - 1 øko citron 
 - Salt
