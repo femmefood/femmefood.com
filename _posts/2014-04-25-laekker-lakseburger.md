@@ -17,7 +17,7 @@ tags:
  - Citron
 categories:
  - Opskrift
- - Laktose
+ - Laktosefri
  - Glutenfri
  - Sukkerfri
  - Tilbehør
