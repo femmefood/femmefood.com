@@ -29,7 +29,7 @@ categories:
 ---
 
 Så er der weekeeend! I hvert fald for mit vedkommende :) Her til aften står den på hjemmelavede burgere! Mmmmh jeg glæder mig! Jeg bliver aldrig træt af burgere og slet ikke, når den traditionelle hakkebøf kan skiftes ud med en lækker laksebøf. Hvis I endnu ikke har fundet på, hvad I skal have til aften, så kunne dette være et godt bud :)
-Vi har brugt traditionelle grøntsager, men piftet den op med lidt forskelligt salat, som tit kan fås i sammenpakker i supermarkedet. I den her lækre sag har vi kommet feldsalat og lollo rossa salat i, måske I tænker, og hvordan ser de så lige ud, så kan i se dem [her](http://www.aarstiderne.com/opskrifter/leksikon/feldsalat) og [her](http://www.saesonforgodsmag.dk/grontsager/lollo-rosa). :) Som prikken over i’et, har vi kommet avokodomajo i - det kan vi ikke få nok af!
+Vi har brugt traditionelle grøntsager, men piftet den op med lidt forskelligt salat, som tit kan fås i sammenpakker i supermarkedet. I den her lækre sag har vi kommet feldsalat og lollo rossa salat i, måske I tænker, og hvordan ser de så lige ud, så kan i se dem [her](http://www.saesonforgodsmag.dk/grontsager/feldsalat) og [her](http://www.saesonforgodsmag.dk/grontsager/lollo-rosa). :) Som prikken over i’et, har vi kommet avokodomajo i - det kan vi ikke få nok af!
 
 
 
