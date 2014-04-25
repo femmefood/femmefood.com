@@ -66,13 +66,13 @@ Vi har brugt traditionelle grøntsager, men piftet den op med lidt forskelligt s
 - Avokadomajo
 - 1 øko citron 
 - Salt
-- Peber
+- Citronpeber
 
 
 ### Tilberedning
-1. Sprøjt citronsaft på begge laksebøffer og krydr dem med salt og peber.
+1. Sprøjt citronsaft på begge laksebøffer og krydr dem med salt og citronpeber.
 2. Steg dem på panden. Først 5 min på skindsiden og 2 min på den anden side.
-3. Drys de nystegte laksestykker med revet citron.
+3. Drys de nystegte laksestykker med revet citronskal.
 3. Skyl og skær grøntsager ud i mindre stykker.
 2. Skær burgerbollen op.
 2. Smør top og bund med advokadomajo.
