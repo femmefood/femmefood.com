@@ -22,6 +22,8 @@ categories:
  - Sukkerfri
  - Tilbehør
  - Aftensmad
+ - Frokost 
+ - Burgerboller
 
 
 ---
