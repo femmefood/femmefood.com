@@ -33,7 +33,7 @@ Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam!
 
 
 
-## Hindbærsnitter (6 styk)
+## Hindbærsnitter (8 styk)
 - 4 dl majsmel
 - 1 dl rismel
 - 2 dl flormelis
