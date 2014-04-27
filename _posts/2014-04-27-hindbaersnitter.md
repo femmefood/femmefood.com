@@ -20,7 +20,7 @@ categories:
 
 ---
 
-Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam! Vi eksperimenterede med, at de både skulle være laktose og glutenfrie, og resultatet må siges at blive ret vellykket. :) 
+Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam! Vi eksperimenterede med, at de både skulle være laktosefri og glutenfri, og resultatet må siges at blive ret vellykket. :) 
 
 
 
