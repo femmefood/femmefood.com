@@ -41,7 +41,7 @@ Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam!
 - 2 spsk. olivenolie
 - 2 æg
 - 4 spsk. vand
-- 1 tsk. [FiberHUSK](www.husk.dk)
+- 1 tsk. [FiberHUSK](http://husk.dk/)
 - Hindbærmarmelade
 - Flormelis
 - Vand
