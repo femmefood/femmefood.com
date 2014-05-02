@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majs madpandekager
+title: Majs madpandekager med lækker laks
 image: https://farm6.staticflickr.com/5515/14081117311_bc1fd25b23_n.jpg
 date: 2014-05-02 16:40
 tags:
