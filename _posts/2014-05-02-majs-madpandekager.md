@@ -28,7 +28,7 @@ categories:
 
 ---
 
-I går lavede vi majs-madpandekager til aftensmad. Jeg har spist dem til frokost igen i dag. Mmmh og det må siges - de er ikke blevet ringere i dag. :) Vi kom røget laks, avokado, rødløg, ærter og ærteskud overhældet med sennepsdressinger - ret god kombi ;) Det er lækkert, at de er så lette i konsistensen + de er mega hurtige at lave. De bliver helt klart en af mine sommerfavoritter! 
+I går lavede vi majs-madpandekager til aftensmad. Jeg har spist dem til frokost igen i dag. Mmmh og det må siges - de er ikke blevet ringere i dag. :) Vi kom røget laks, avokado, rødløg, ærter og ærteskud i dem overhældet med sennepsdressinger - ret god kombi ;) Det er lækkert, at de er så lette i konsistensen + de er mega hurtige at lave. De bliver helt klart en af mine sommerfavoritter! 
 
 P.s. Det er ikke nogle hemmelighed, at vi er vilde med laks, men jeg er sikker på, at de også kan laves med kyllingestykker eller andet, hvis man ikke lige er den store fiskeelsker.
 
