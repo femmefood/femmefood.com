@@ -29,7 +29,7 @@ udgave, hvor vi har udskiftet den hvide raffinerede sukker med stevia og dadler.
 ![Hjemmelavet ketchup med og uden sennep](http://farm8.staticflickr.com/7450/12658496785_c165e2b161.jpg)
 
 ## Hjemmelavet ketchup uden sennep
-- 1 rødløg
+- 1 rødløg
 - 1 dåse hakket tomater (ca. 400 g.)
 - 1 dåse tomatpasta (ca. 140 g.)
 - 5 dadler
