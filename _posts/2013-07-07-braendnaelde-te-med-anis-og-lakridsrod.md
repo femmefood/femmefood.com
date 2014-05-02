@@ -26,7 +26,7 @@ den en rensende og afgiftende effekt på kroppen.
 
 
 ## Brændenældete med anis og lakridsrod
-- en lille håndfuld brændenælder
+- En lille håndfuld brændenælder
 - 1 tsk. anisfrø
 - 1 lakridsrod
 

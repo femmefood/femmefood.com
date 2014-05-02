@@ -42,11 +42,11 @@ i'et.
 - 1 spsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/)
 - 2 dl. glutenfrie havregryn
 - 4 dl. majsmel
-- 1 tsk salt
--  4 spsk drys let stevia
-- 1 spsk vaniljepulver
+- 1 tsk. salt
+-  4 spsk. drys let stevia
+- 1 spsk. vaniljepulver
 - 1 tsk. kardemomme
-- lidt revet citronskal 
+- Lidt revet citronskal 
 
 ### Tilberedning
 1. Kom æg og mælk i en skål og pisk med en håndmixer.
