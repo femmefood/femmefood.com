@@ -35,7 +35,7 @@ P.s. Det er ikke nogle hemmelighed, at vi er vilde med laks, men jeg er sikker p
 
 
 
-![Majs madpandekager](https://farm6.staticflickr.com/5515/14081117311_bc1fd25b23_z.jpg)
+![Majs madpandekager med lækker laks](https://farm6.staticflickr.com/5515/14081117311_bc1fd25b23_z.jpg)
 
 
 ## Sennepsdressing 
