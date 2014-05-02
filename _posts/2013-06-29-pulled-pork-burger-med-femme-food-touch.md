@@ -90,7 +90,7 @@ de kan stå og trække smag.
 
 
 ## Barbecuesauce
-- 2 spsk. stevia
+- 2 spsk. stevia
 - 3 spsk. æbleeddike
 - 1 spsk. dion sennep
 - 1 spsk. paprika

@@ -33,11 +33,11 @@ og er en 100% økologisk koldpresset rapsolie.
 - 1 spsk. æbleeddike
 - lidt citronsaft
 - 1 tsk. salt
-- smag til med peber
+- Smag til med peber
 - 2 dl. koldpresset rapsolie
 - 2-5 fed hvidløg (alt afhængig af, hvor kraftig smag man ønsker)
 
-Bonusinfo: alle ingredienser skal have stuetemperatur ellers skiller majo'en!
+Bonusinfo: Alle ingredienser skal have stuetemperatur ellers skiller majo'en!
 
 ### Tilberedning
 1. Kom æggeblommer, sennep, æbleeddike, citronsaft, salt og peber i en skål og
@@ -47,12 +47,12 @@ Bonusinfo: alle ingredienser skal have stuetemperatur ellers skiller majo'en!
 
 ## Ovnbagte fritter
 - 8 mellemstore kartofler
-- saltflager
-- peber
-- koldpresset rapsolie
-- basilikum
-- oregano
-- timian
+- Saltflager
+- Peber
+- Koldpresset rapsolie
+- Basilikum
+- Oregano
+- Timian
 
 ### Tilberedning
 1. Tænd ovnen på 180C. (bonusinfo: hvis der ønskes sprøde fritter, skal ovnen

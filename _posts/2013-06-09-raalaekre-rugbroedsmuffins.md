@@ -38,15 +38,15 @@ kerner og frø. Alt sammen helt uden laktose og gluten :)
 - 5 æg
 - 1 dl olie
 - 1,5 spsk. saltflager 
-- 2 spsk FiberHUSK
+- 2 spsk. FiberHUSK
 - 3 gulerødder
-- 1 dl græskarkerner 
-- 1 dl solsikkekerner
-- 1 dl hørfrø
-- 1 dl sesamfrø
-- 1 dl chia frø
-- 1 dl hasselnødder 
-- 1 plade 72%  mørk chokolade
+- 1 dl. græskarkerner 
+- 1 dl. solsikkekerner
+- 1 dl. hørfrø
+- 1 dl. sesamfrø
+- 1 dl. chiafrø
+- 1 dl. hasselnødder 
+- 1 plade 72% mørk chokolade
 
 ### Tilberedning
 1. Start med at tænde ovnen på 160C.

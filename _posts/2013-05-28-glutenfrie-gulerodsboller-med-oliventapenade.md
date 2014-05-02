@@ -37,8 +37,9 @@ kombination!
 - 1/2 dl. græskarkerner
 - 1/2 dl. olivenolie
 - 3 fed hvidløg
-- salt og peber
-- evt. 1 tsk. kapers
+- Salt
+- Peber
+- Evt. 1 tsk. kapers
 
 ### Tilberedning
 Kom alle ingredienserne i en skål og blend dem med en stavblender til det bliver
@@ -59,7 +60,7 @@ en ensartet masse.
 - 1 tsk. salt
 - 3 dl. boghvedemel
 - 3 dl. majsmel
-- nigellafrø
+- Nigellafrø
 
 ### Tilberedning
 1. Start med at rive gulerødderne.
