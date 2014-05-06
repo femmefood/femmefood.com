@@ -53,7 +53,7 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 - 2 tsk. kardemomme
 - 1 tsk. ingefærspulver
 - 1 øko citron (revet citronskal)
-- Orange stedoderblomster (friske)
+- Orange stedmoderblomster (friske)
 - Blå violer (friske)
 - Tørrede mælkebøtter
 
