@@ -45,18 +45,18 @@ endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
 - 1 banan
 - 1 håndfuld jordbær (evt. frosne)
 - 2 spsk. hørfrøolie
-- 1 tsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/)
+- 1 tsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/) eller 1/2 tsk. [FiberHUSK](http://www.husk.dk/) [®](http://www.husk.dk/) 
 - 4 dadler
-- isterninger
+- Isterninger
 
 ### Tilberedning
 
 1. Pres rødbeder, gulerødder og ingefær i en saftpresser.
 2. Kom en håndfuld nødder/mandler i en blender og tilsæt vand. Blend til det
    bliver en ensartet masse (brug evt. afskallede nødder/mandler).
-3. Kom den pressede rødbede-,gulerod og ingefærsaft, banan, jordbær, olie, HUSK
+3. Kom den pressede rødbede-, gulerods- og ingefærsaft, banan, jordbær, olie, HUSK/FiberHUSK
    og dadler i blenderen og blend i 1 min.
-4. Hæld den færdige blendede smoothie over i to glas og servér dem koldt.
+4. Hæld den færdige blendede smoothie over i to glas og servér dem koldt med osterninger.
 
 ## Frække facts
 Rødbeder hører til bede-slægten. De er sprængfyldte med B-, C-vitaminer og

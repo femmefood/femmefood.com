@@ -53,6 +53,9 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 - 2 tsk. kardemomme
 - 1 tsk. ingefærspulver
 - 1 øko citron (revet citronskal)
+- Orange stedoderblomster (friske)
+- Blå violer (friske)
+- Tørrede mælkebøtter
 
 ### Tilberedning
 1. Kom æg og sukker i en skål og pisk det sammen. 
@@ -65,7 +68,7 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 ## Frosting
 - 1 pk. flødeost (ged eller ko)
 - 1 dl flormelis
-- saften fra en halv citron
+- Saften fra en halv citron
 
 
 
