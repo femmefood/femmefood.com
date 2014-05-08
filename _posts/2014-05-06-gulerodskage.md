@@ -12,7 +12,6 @@ tags:
 - Kanel
 - Kardemomme
 - Ingefær
-- Sennep
 - Citron
 - Flødeost
 
