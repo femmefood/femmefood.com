@@ -58,11 +58,11 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 
 ### Tilberedning
 1. Kom æg og sukker i en skål og pisk det sammen. 
-2. Blend solsikkekerner og havregryn og kom det i blandingen. 
-3. Tilsæt mandelmel samt de revne gulerødder.
-4. Tilsæt vand, olivenolie, FiberHUSK, bagepulver, kanel, kardemomme samt revet citronskal til blandingen.
+2. Tilsæt vand, olivenolie, FiberHUSK, bagepulver, kanel, kardemomme samt revet citronskal til blandingen. 
+3. Blend solsikkekerner og havregryn og kom det i blandingen. 
+4. Tilsæt mandelmel samt de revne gulerødder.
 5. Kom dejen i en springform smurt med olie.
-6. Indstil ovnen på 200C og bag kagen i 15-20 min.
+6. Indstil ovnen på 180C og bag kagen i 35-40 min.
 
 ## Frosting
 - 1 pk. flødeost (ged eller ko)
