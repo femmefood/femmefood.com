@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Hamp-proteinbar med pistacie og cacao
 image: https://farm6.staticflickr.com/5489/13665535023_948d0c03d1_n.jpg
 date: 2014-04-06 17:15

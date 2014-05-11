@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Asiatiske fiskedeller med rodfrugtemos
 image: http://farm6.staticflickr.com/5508/12658497975_c111056bf9_n.jpg
 date: 2013-05-21

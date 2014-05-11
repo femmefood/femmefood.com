@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Sommer choko-shake
 image: http://farm6.staticflickr.com/5474/12658967994_08a6798a86_n.jpg
 date: 2013-05-30

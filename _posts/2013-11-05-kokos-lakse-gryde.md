@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Kokos-lakse-gryde
 image: http://farm8.staticflickr.com/7453/12658966794_3c185d3c62_n.jpg
 date: 2013-11-05

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Luftige speltboller uden mælk
 image: https://farm4.staticflickr.com/3679/13473955563_aae816e86f_n.jpg
 date: 2014-03-28 22:10

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Sushi med friske stenbiderrogn
 image: https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_n.jpg
 date: 2014-02-25

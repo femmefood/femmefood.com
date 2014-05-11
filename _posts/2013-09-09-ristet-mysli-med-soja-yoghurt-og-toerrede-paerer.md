@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Ristet müsli med soja-yoghurt og tørrede pærer
 image: http://farm4.staticflickr.com/3806/12658622633_c7b543c529_n.jpg
 date: 2013-09-09

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Kernekraft rugbrød
 image: http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b_n.jpg
 date: 2013-06-13

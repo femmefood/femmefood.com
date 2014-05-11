@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Pulled pork burger med Femme Food touch
 image: http://farm3.staticflickr.com/2863/12658625843_bc8340a60d_n.jpg
 date: 2013-06-29

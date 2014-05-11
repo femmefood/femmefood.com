@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Hindbærsnitter
 image: https://farm3.staticflickr.com/2905/14030765265_14021559f8_n.jpg
 date: 2014-04-27 14:30

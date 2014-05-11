@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Glutenfrie gulerodsboller med oliventapenade
 image: http://farm3.staticflickr.com/2805/12658968894_b9af801ec3_n.jpg
 date: 2013-05-28

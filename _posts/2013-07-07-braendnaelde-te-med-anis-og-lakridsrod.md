@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Brændnælde-te med anis og lakridsrod
 image: http://farm6.staticflickr.com/5503/12658497535_9a9174dcda_n.jpg
 date: 2013-07-07

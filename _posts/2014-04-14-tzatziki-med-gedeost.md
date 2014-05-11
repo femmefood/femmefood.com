@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Tzatziki med gedeost
 image: https://farm8.staticflickr.com/7253/13805845404_f0e68bd0e2_n.jpg
 date: 2014-04-14 22:30

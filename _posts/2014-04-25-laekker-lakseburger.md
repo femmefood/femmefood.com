@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Lækker lakseburger
 image: https://farm6.staticflickr.com/5015/13982416886_19b4e5d3e6_n.jpg
 date: 2014-04-25 13:30

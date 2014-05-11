@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Ramsløgpesto
 image: https://farm8.staticflickr.com/7277/13547232904_8ba461f986_n.jpg
 date: 2014-04-01 23:50

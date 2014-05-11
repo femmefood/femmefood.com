@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Cool quinoatærte med laks
 image: http://farm3.staticflickr.com/2812/12658493775_423779e607_n.jpg
 date: 2013-04-17

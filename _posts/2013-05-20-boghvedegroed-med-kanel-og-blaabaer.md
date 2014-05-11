@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Boghvedegrød med kanel og blåbær
 image: http://farm3.staticflickr.com/2892/12658497815_6d11547d2d_n.jpg
 date: 2013-05-20

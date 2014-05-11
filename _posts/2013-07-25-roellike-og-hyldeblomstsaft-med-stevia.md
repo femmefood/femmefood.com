@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Røllike- og hyldeblomstsaft med stevia
 image: http://farm4.staticflickr.com/3824/12658495295_e2bc384cd8_n.jpg
 date: 2013-07-25

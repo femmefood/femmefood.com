@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Lækre pillerejer
 image: http://farm4.staticflickr.com/3682/12658495625_428c86832f_n.jpg
 date: 2013-05-19

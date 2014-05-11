@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Femme Food 1 år
 image: https://farm3.staticflickr.com/2812/13888041335_f5f29741e4_n.jpg
 date: 2014-04-16 09:30

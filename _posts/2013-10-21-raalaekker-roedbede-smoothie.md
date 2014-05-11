@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Rålækker rødbede-smoothie
 image: https://farm3.staticflickr.com/2813/12658965174_77a8ca0c19_n.jpg
 date: 2013-10-21

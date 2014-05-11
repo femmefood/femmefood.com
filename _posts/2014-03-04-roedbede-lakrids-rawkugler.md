@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Rødbede/lakrids rawkugler
 image: https://farm8.staticflickr.com/7341/12928899353_f9bc4291f9_n.jpg
 date: 2014-03-04

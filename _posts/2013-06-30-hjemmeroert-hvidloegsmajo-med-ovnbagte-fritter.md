@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Hjemmerørt hvidløgsmajo med ovnbagte fritter
 image: http://farm4.staticflickr.com/3709/12658627123_dd6217ee93_n.jpg
 date: 2013-06-30

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Glutenfrie pølsebrød
 image: http://farm4.staticflickr.com/3665/12658495385_a5edef2ddc_n.jpg
 date: 2013-07-14

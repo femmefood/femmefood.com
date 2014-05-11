@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Quinoa-tærte med rosenkål og laks
 image: https://farm3.staticflickr.com/2871/12658966104_c9517dca62_n.jpg
 date: 2014-02-04
