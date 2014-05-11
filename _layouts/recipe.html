@@ -1,0 +1,41 @@
+---
+layout: sidebar
+---
+<div data-typespecificid="{{ page.id }}" itemscope="" itemtype="http://schema.org/Recipe" data-itemtype="Recipe" data-itemtypeid="1">
+  <h1 id="itemTitle" itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
+  <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+    <meta itemprop="ratingValue" content="4.5" />
+  </div>
+  <div class="post">
+    <span itemprop="description">
+      {{ content | replace_first: 'img src', 'img itemprop="image" src' }}
+    </span>
+  </div>
+  <p class "meta text-muted">
+  Udgivet af <a itemprop="author" href="https://plus.google.com/+Femmefoodcom">Femme Food</a> d. <abbr class="published updated" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr> - 
+  <a href="{{ page.url }}" rel="bookmark">Permalink</a>
+  </p>
+  <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
+  {% include social.html %}
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+  var disqus_shortname = '{{ site.disqus }}';
+  (function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Leaderboard -->
+  <ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-9879159535302370"
+     data-ad-slot="3534815644"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>

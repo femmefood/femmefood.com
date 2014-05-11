@@ -9,10 +9,10 @@
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url | replace: '/index.html', '/' }}"/>
     {% for category in page.categories %}
-    <meta property="article:tag" content="{{ category }}"/>
+    <!--<meta property="article:tag" content="{{ category }}"/>-->
     {% endfor %}
     {% for tag in page.tags %}
-    <meta property="article:tag" content="{{ tag }}"/>
+    <!--<meta property="article:tag" content="{{ tag }}"/>-->
     {% endfor %}
     {% if page.description %}
     <meta name="description" content="{{ page.description | truncate: 40 | strip_newlines | escape_once }}"/>
