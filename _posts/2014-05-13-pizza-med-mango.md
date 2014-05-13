@@ -31,9 +31,9 @@ Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festiva
 - 50 g gær
 - 5 dl lunkent vand
 - 1 dl olivenolie
-- 3 tsk. (FiberHUSK)[http://husk.dk/]
+- 3 tsk. [FiberHUSK](http://husk.dk/)
 - 3 tsk. salt
-- 1 spsk. (hampeproteinpulver)[http://nyborggaard.dk/]
+- 1 spsk. [hampeproteinpulver](http://nyborggaard.dk/)
 - 10 dl emmermel
 - 2 dl fuldkornshvedemel
 - 2 dl hvedemel
