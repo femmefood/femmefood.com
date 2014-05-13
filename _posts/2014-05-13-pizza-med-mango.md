@@ -17,7 +17,6 @@ tags:
 categories:
  - Opskrift
  - Sukkerfri
- - Dessert
  - Aftensmad
  - Madpakkeidé
 ---
@@ -43,7 +42,8 @@ Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festiva
 1) Smuldr gæret i en skål og tilsæt lunkent vand og rør rundt.
 2) Tilsæt olie, FiberHUSK, salt og hampeproteinpulver og rør rundt.
 3) Tilsæt derefter lidt efter lidt meltyperne og rør rundt.
-4) Indstil ovnen på 250 C og bag pizza'erne i 10-15 min.
+4) Ælt grundigt dejen og form 16 små pizzaer.
+
 
 ### Tip 
 For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en nærmest som når man ringer og bestiller en nede ved pizzahandleren. :)
@@ -79,8 +79,12 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 
 ### Tilberedning
-1. Skær flødeosten i mindre stykker og kom i en skål
-2. Tilsæt flormelis og citronsaft og rør rundt.
+1) Indstil ovnen på 250 C 
+2) Skær mango, rødløg, chorizo'en, rød peber og gedeosten ud i mindre stykker.
+3) Kom tomatsaucen og fyldet på de små pizzaer.
+4) Bag pizza'erne i 10-15 min.
+
+
 
 
 
