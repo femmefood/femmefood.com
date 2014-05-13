@@ -22,7 +22,7 @@ categories:
 ---
 
 Vi har her til aften fået mangopizza eller rettere restepizza! Vi havde 1 mango, 1 rødløg, ½ chorizopølse, lidt rød peber, oliven og gedeost liggende i køleskabet. Det kom der noget vældigt godt fyld ud af til en ellers sprød pizzabund. Vi er blevet inspireret til at bruge hver en krumme, dråbe eller stykke, som vi har i køleskabet. Der er lige nu meget stor fokus på madspild og bæredygtighed. Vi synes også det er synd, så meget mad, der bliver smidt ud. Så det vil vi herhjemme selv prøve at sætte en stopper for. 
-Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festival på Godsbanen i Aarhus. Vi synes, at det er et genialt koncept! Her rør, ser og hører man om bæredygtighed.
+Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festival på Godsbanen i Aarhus. Vi synes, at det er et genialt arrangement! Her rør, ser og hører man om bæredygtighed.
 
 ![Pizza med mango](https://farm8.staticflickr.com/7452/14155698506_fee94dcf00_z.jpg)
 
@@ -39,10 +39,10 @@ Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festiva
 - 2 dl hvedemel
 
 ### Tilberedning
-1) Smuldr gæret i en skål og tilsæt lunkent vand og rør rundt.
-2) Tilsæt olie, FiberHUSK, salt og hampeproteinpulver og rør rundt.
-3) Tilsæt derefter lidt efter lidt meltyperne og rør rundt.
-4) Ælt grundigt dejen og form 16 små pizzaer.
+1. Smuldr gæret i en skål og tilsæt lunkent vand og rør rundt.
+2. Tilsæt olie, FiberHUSK, salt og hampeproteinpulver og rør rundt.
+3. Tilsæt derefter lidt efter lidt meltyperne og rør rundt.
+4. Ælt grundigt dejen og form 16 små pizzaer.
 
 
 ### Tip 
@@ -63,8 +63,8 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 
 ### Tilberedning
-1) Kom alle ingredienserne (bortset fra salt og peber) i en skål.
-2) Blend til det bliver en ensartet masse ig smag til med salt og peber.
+1. Kom alle ingredienserne (bortset fra salt og peber) i en skål.
+2. Blend til det bliver en ensartet masse ig smag til med salt og peber.
 
 ## Pizzafyld
 - 1 mango
@@ -79,10 +79,13 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 
 ### Tilberedning
-1) Indstil ovnen på 250 C 
-2) Skær mango, rødløg, chorizo'en, rød peber og gedeosten ud i mindre stykker.
-3) Kom tomatsaucen og fyldet på de små pizzaer.
-4) Bag pizza'erne i 10-15 min.
+1. Indstil ovnen på 250 C 
+
+2. Skær mango, rødløg, chorizo'en, rød peber og gedeosten ud i mindre stykker.
+
+3. Kom tomatsaucen og fyldet på de små pizzaer.
+
+4. Bag pizza'erne i 10-15 min.
 
 
 
