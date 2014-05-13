@@ -51,7 +51,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 ## Pizzasauce 
 - 1 dåse flåede tomater
 - 1 dåse tomatpuré
-- 1 spsk. Sambal Pelek
+- 1 spsk. Sambal Oelek
 - 1 hakket løg
 - 3-4 hvidløg
 - 1 spsk. timian
@@ -79,7 +79,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 
 ### Tilberedning
-1. Indstil ovnen på 250 C 
+1. Indstil ovnen på 250 C. 
 
 2. Skær mango, rødløg, chorizo'en, rød peber og gedeosten ud i mindre stykker.
 
@@ -103,5 +103,5 @@ Pizza'en smager også vældig godt uden gedeost :)
 
 
 ## Frække Facts
-Mango er en oldgammel frugt og menes at stamme fra Himalayabjergene. Det har dog taget sin tid at få den eksotiske frugt til Norden og det er egentlig af den simple grund, at den har en meget kort holdbarhed. Den har et højt indhold af A-, B- og C-vitaminer. 
+Mango er en oldgammel frugt og menes at stamme fra Himalayabjergene. Det har dog taget sin tid at få den eksotiske frugt til Norden, og det er egentlig af den simple grund, at den har en meget kort holdbarhed. Den har et højt indhold af A-, B- og C-vitaminer. 
 Desuden har den et højt indhold af mineralerne fosfor, jern og kalcium. Mangoer bliver også i nogle tropiske lande kaldet "frugternes konge"
