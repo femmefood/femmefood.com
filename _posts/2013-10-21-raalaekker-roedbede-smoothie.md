@@ -44,10 +44,10 @@ endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
 - 3 dl. vand
 - 1 banan
 - 1 håndfuld jordbær (evt. frosne)
-- 2 spsk. hørfrøolie
+- 2 spsk. [hørfrøolie eller hampefrøolie](http://nyborggaard.dk/)
 - 1 tsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/) eller 1/2 tsk. [FiberHUSK](http://www.husk.dk/) [®](http://www.husk.dk/) 
 - 4 dadler
-- Isterninger
+- Isterningers
 
 ### Tilberedning
 
