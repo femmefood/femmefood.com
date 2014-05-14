@@ -5,7 +5,7 @@ date: 2014-02-25
 ---
 
 
-## Vi samarbejder med følgende
+## Vi samarbejder med følgende:
 
 - [Nyborggaard](http://nyborggaard.dk/)
 - [Rødbakkegård](http://roedbakkegaard.dk/)
