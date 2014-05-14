@@ -64,7 +64,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 ### Tilberedning
 1. Kom alle ingredienserne (bortset fra salt og peber) i en skål.
-2. Blend til det bliver en ensartet masse ig smag til med salt og peber.
+2. Blend til det bliver en ensartet masse og smag til med salt og peber.
 
 ## Pizzafyld
 - 1 mango
