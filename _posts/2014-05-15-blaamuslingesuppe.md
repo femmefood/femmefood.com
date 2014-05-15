@@ -38,8 +38,8 @@ I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arb
 ### Tilberedning
 1. Riv ingefæren, hak løget og chilien og pres hvidløgene.
 2. Kom lidt olie i en gryde og kom ingefær, løg, chili og hvidløg i.
-3. Brun det let og kom dernæst koksmælk i.
-4. Tisæt kaffirbladene og lad det koge op.
+3. Brun det let og kom dernæst kokosmælk i.
+4. Tilsæt kaffirbladene og lad det koge op.
 5. Vask blåmulingerne, dryp dem af og kom dem i gryden.
 6. Rør rund og lad dem koge med låg i 5 min.
 7. Servér den flotte ret og pynt den med de smukke morgenfruekronblade.
@@ -52,4 +52,4 @@ I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arb
 
 
 ## Frække Facts
-Morgenfruer blomstrer fra juni og frem til starten af efteråret. Udover deres smukke gule og orange farver, som pynter både i haverne og på maden, kan morgenfruer også spises. De indeholder phenol, som er betændelseshæmmende. Det har vist sig, at de både kan hele indvendig som udvendig såsom mavesår, psoriasis og sårheling.  
+Morgenfruer blomstrer fra juni og frem til starten af efteråret. Udover deres smukke gule og orange farver, som pynter både i haverne og på maden, kan morgenfruer også spises. De indeholder phenol, som er betændelseshæmmende. Det har vist sig, at de både kan hele indvendig som udvendig såsom mavesår, psoriasis og sårheling. Derudover bruges de smukke kronblade mod mavesmerter.
