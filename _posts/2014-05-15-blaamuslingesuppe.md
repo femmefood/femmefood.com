@@ -2,7 +2,7 @@
 layout: recipe
 title: Blåmuslingesuppe
 image: https://farm8.staticflickr.com/7381/14193770384_110181fb4d_n.jpg
-date: 2014-05-15 23:00
+date: 2014-05-15 23:40
 tags:
 - Blåmuslinger
 - Kokosmælk
