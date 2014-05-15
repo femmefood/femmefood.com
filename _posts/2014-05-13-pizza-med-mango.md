@@ -49,7 +49,7 @@ Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festiva
 For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en nærmest som når man ringer og bestiller en nede ved pizzahandleren. :)
 
 ## Pizzasauce 
-- 1 dåse flåede tomater
+- 2 dåser flåede tomater
 - 1 dåse tomatpuré
 - 1 spsk. Sambal Oelek
 - 1 hakket løg
