@@ -12,7 +12,7 @@ date: 2014-02-25
 - [HUSK Products](http://husk.dk/)
 - [Naturli'](http://www.naturli-foods.dk/)
 
-## Er du interesseret i et samarbejde eller 
+## Er du interesseret i et samarbejde?
 
 Vi er altid på jagt efter nye, spændende samarbejdspartnere.
 Så du er meget velkommen til at skrive til <hello@femmefood.com>.
