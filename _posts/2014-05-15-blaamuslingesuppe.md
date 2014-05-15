@@ -30,6 +30,7 @@ I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arb
 - 1 chili
 - 2 fed hvidløg
 - 2 dåser kokosmælk (2x400 ml)
+- 2 spsk. citronbalsamico
 - 1 håndfuld kaffirblade (limeblade)
 - 1 kg blåmuslinger
 - [Morgenfruekronblade](http://nyborggaard.dk/)
@@ -38,7 +39,7 @@ I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arb
 ### Tilberedning
 1. Riv ingefæren, hak løget og chilien og pres hvidløgene.
 2. Kom lidt olie i en gryde og kom ingefær, løg, chili og hvidløg i.
-3. Brun det let og kom dernæst kokosmælk i.
+3. Brun det let og kom dernæst kokosmælk og citronbalsamico i.
 4. Tilsæt kaffirbladene og lad det koge op.
 5. Skyl blåmulingerne, dryp dem af og kom dem i gryden.
 6. Rør rund og lad dem koge med låg i 5 min.
