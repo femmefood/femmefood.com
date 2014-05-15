@@ -19,7 +19,7 @@ categories:
 
 ---
 
-I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arbejde. Mmmmh jeg elsker bare blåmuslinger! Og den kokos-suppe vi fik lavet dertil blev bare super lækker! Den var mild og rund i smagen, men ind i mellem slurkene dukkede der sig en chili/hvidløg smag op.
+I aften har den stået på blåmuslinger! Min søster kom hjem med dem efter arbejde. Mmmmh jeg elsker bare blåmuslinger! Og den kokos-suppe vi fik lavet dertil blev bare super lækker! Den var mild og rund i smagen, men ind i mellem slurkene dukkede der sig en chili/hvidløgssmag op.
 
 ![Blåmuslingesuppe](https://farm8.staticflickr.com/7381/14193770384_110181fb4d_z.jpg)
 
