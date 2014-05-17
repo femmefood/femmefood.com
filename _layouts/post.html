@@ -1,7 +1,7 @@
 ---
 layout: sidebar
 ---
-<div class="hentry" id="{{ page.id }}" itemscope itemtype="http://schema.org/Recipe">
+<div class="hentry" id="{{ page.id }}" itemscope itemtype="http://schema.org/BlogPosting">
   <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
   <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
   <div class="post">

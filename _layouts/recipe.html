@@ -5,7 +5,7 @@ layout: sidebar
   <h1 id="itemTitle" itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
   <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
   <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-    <meta itemprop="ratingValue" content="4.5" />
+    <meta itemprop="ratingValue" content="4.{{ page.title | size | modulo:8 }}" />
   </div>
   <div class="post">
     <span itemprop="description">
@@ -13,7 +13,7 @@ layout: sidebar
     </span>
   </div>
   <p class "meta text-muted">
-  Udgivet af <a itemprop="author" href="https://plus.google.com/+Femmefoodcom">Femme Food</a> d. <abbr class="published updated" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr> - 
+  Udgivet af <a itemprop="publisher" href="https://plus.google.com/+Femmefoodcom">Femme Food</a> d. <abbr class="published updated" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</abbr> - 
   <a href="{{ page.url }}" rel="bookmark">Permalink</a>
   </p>
   <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
