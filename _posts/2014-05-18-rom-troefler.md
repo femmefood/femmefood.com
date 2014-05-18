@@ -58,4 +58,4 @@ Krymlen kan også være ren kokosmel eller frysetørrede hindbær. :)
 
 
 ## Frække Facts
-Mandler er rige på E-vitamin, som er en antioxidant. Den har vist sig at være styrkende mod immunforsvaret, beskytter fedtstoffer i kroppen mod harskning og hæmme blodets evne til at koagulere (klumpe sammen). Desuden indholder mandler enkeltumættede fedtsyrer, fibre og magnesium.
+Mandler er rige på E-vitamin, som er en antioxidant. Den har vist sig at være styrkende mod immunforsvaret, beskytte fedtstoffer i kroppen mod harskning og hæmme blodets evne til at koagulere (klumpe sammen). Desuden indholder mandler enkeltumættede fedtsyrer, fibre og magnesium.
