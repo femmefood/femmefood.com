@@ -47,7 +47,7 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 6. Rul de nylavede trøfler i kokos/hindbær-melet
 
 ### Tip 
-Krymlen kan også være ren kokosmel eller frysetørrede hindbær. :)
+Krymlen kan også være ren kokosmel, frysetørrede hindbær eller noget helt tredje. :)
 
 
 
