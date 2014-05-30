@@ -31,7 +31,7 @@ Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne
 ## Grøn smoothie (2 glas):
 - 1 avokado
 - 1 banan (evt. frossen)
-- 200 ml [kokosmælk](http://www.urtekram.dk/produkter/foedevarer/drikkevarer/coconut-dream-(kokos)-1-l)
+- 200 ml [kokosmælk][1]
 - 2 håndfulde spinat eller grønkål
 - 2 kiwier
 - 2 cm ingefær
@@ -46,3 +46,5 @@ Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne
 
 ## Frække facts
 Kiwi har sidst navn efter den newzealadske kiwi-fugl, da de ligner hinanden med deres brune, behårede udseende. Kiwi har et højt indhold af C-vitamin faktisk er indholdet mere end i appelsiner (Appelsiner: 60,8mg/100g Kiwier: 92,7mg/100g Kilde:[Foodcomp](http://www.foodcomp.dk/v7/fvdb_search.asp)). Derudover er de sorte frø i kiwiernes midte rige på linolensyre, som er en omega-3 fedtsyrer, der er god mod hjerte-kar-sygdomme. Derudover er kiwi rig på kalium og calicium.
+
+[1]: http://www.urtekram.dk/produkter/foedevarer/drikkevarer/coconut-dream-(kokos)-1-l
