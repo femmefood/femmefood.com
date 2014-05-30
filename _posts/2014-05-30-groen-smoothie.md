@@ -36,6 +36,7 @@ Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne
 - 2 kiwier
 - 2 cm ingefær
 - 1 spsk. [hampeproteinpulver](http://nyborggaard.dk/)
+- 1 spsk. [hørfrøolie](http://nyborggaard.dk/)
 - Isterninger
 - Evt. tilføje spirulina 
 
