@@ -22,7 +22,7 @@ categories:
  - Opskrift
 ---
 
-Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne mærke de sidste par dage. Vi er hoppet ud i smoothies-lavning og -drikning i stor stil. Vi har de seneste dage været i gang med at lave en grøn smoothie. Det er faktisk sværere, end vi lige havde regnet med. Det er meget nemmere at lave røde, gule og orange smoothies, meen nu synes vi, at det endelig lykkes og, at den sidder lige i skabet. Mmmmh :)
+Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne mærke de sidste par dage. Vi er hoppet ud i smoothie-eksperimentering i stor stil. Vi har de seneste dage været i gang med at lave en grøn smoothie. Det er faktisk sværere, end vi lige havde regnet med. Det er meget nemmere at lave røde, gule og orange smoothies, meen nu synes vi, at det endelig lykkes og, at den sidder lige i skabet. Mmmmh :)
 
 ![Grøn smoothie](https://farm3.staticflickr.com/2923/14118950919_8de4839e9b_z.jpg) 
 
@@ -35,8 +35,9 @@ Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne
 - 2 håndfulde spinat eller grønkål
 - 2 kiwier
 - 2 cm ingefær
-- 2 spsk. [hampeproteinpulver](http://nyborggaard.dk/)
+- 1 spsk. [hampeproteinpulver](http://nyborggaard.dk/)
 - Isterninger
+- Evt. tilføje spirulina 
 
 
 ### Tilberedning
