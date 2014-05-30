@@ -13,6 +13,7 @@ tags:
  - Hasselnødder
  - Mandler
  - HUSK
+ - FiberHUSK
  - Banan
 categories:
  - Laktosefri
