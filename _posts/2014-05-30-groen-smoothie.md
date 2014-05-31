@@ -47,6 +47,6 @@ Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne
 2. Hæld massen over i to glas og tilsæt isterninger.
 
 ## Frække facts
-Kiwi har sidst navn efter den newzealadske kiwi-fugl, da de ligner hinanden med deres brune, behårede udseende. Kiwi har et højt indhold af C-vitamin faktisk er indholdet mere end i appelsiner (Appelsiner: 60,8mg/100g og Kiwier: 92,7mg/100g Kilde: [Foodcomp](http://www.foodcomp.dk/v7/fvdb_search.asp)). Derudover er de sorte frø i kiwiernes midte rige på linolensyre, som er en omega-3 fedtsyre, der er god mod hjerte-kar-sygdomme. Derudover er kiwi rig på kalium og calicium.
+Kiwi har sit navn efter den newzealadske kiwi-fugl, da de ligner hinanden med deres brune, behårede udseende. Kiwi har et højt indhold af C-vitamin faktisk er indholdet mere end i appelsiner (Appelsiner: 60,8mg/100g og Kiwier: 92,7mg/100g Kilde: [Foodcomp](http://www.foodcomp.dk/v7/fvdb_search.asp)). Derudover er de sorte frø i kiwiernes midte rige på linolensyre, som er en omega-3 fedtsyre, der er god mod hjerte-kar-sygdomme. Derudover er kiwi rig på kalium og calicium.
 
 [1]: http://www.urtekram.dk/produkter/foedevarer/drikkevarer/coconut-dream-(kokos)-1-l
