@@ -12,8 +12,7 @@ glutenfri og/eller sukkerfri madlavning.
 
 Vi elsker livsglad mad, der for os betyder mad, som både er en gevinst for
 kroppen og mentalt velvære. Vi bor sammen, men spiser vidt forskelligt. Annika
-spiser efter Femme Food's principper, mens Winnie spiser som en gennemsnits
-dansker.
+spiser efter Femme Food's principper, mens Winnie spiser som en gennemsnitsdansker.
 
 ## Skribenten, vidensindsamleren og kogekonen, Annika:
 Lillesøster Annika studerer til dagligt molekylær ernæring og fødevareteknologi
@@ -33,7 +32,7 @@ hun fået øjnene op for en helt ny verden af mad og sammensætningerne af dette
 Storesøster Winnie er i gang med fotografuddannelsen. Hun arbejder til dagligt
 hos [Moment Fotografi](http://momentfotografi.dk/), som hovedsagligt beskæftiger
 sig med mad-fotografering. I fritiden driver hun [Winnie
-Methmann](http://www.winniemethmann.com/), hvor hun primært skyder mode-billeder.
+Methmann](http://www.winniemethmann.com/), hvor hun primært skyder modebilleder.
 Hun har en passion for livsglad mad, som giver styrke og velvære for kroppen.
 Hun elsker at eksperimentere og udvikle nye opskrifter.
 
@@ -43,12 +42,12 @@ Hun elsker at eksperimentere og udvikle nye opskrifter.
 Hele grundlaget for bloggen er at give idéer og inspiration til mælke- og
 glutenallergikere. Det hele startede med, at jeg (Annika) i 2010 ændrede mine
 spisevaner radikalt, efter jeg fandt ud af, at jeg ikke kunne tåle
-mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirende
+mælkeprodukter. Jeg synes, at det var svært at finde spændende og inspirerende
 opskrifter til mælkeallergikere og allergikere generelt. Her dukkede idéen til
 Femme Food op. Vi vil gerne gennem bloggen dele ud af vores viden og opskrifter.
 
 Winnie tester opskrifterne på bloggen, men spiser en kost, som går udover Femme
-Food's madpricipper.  Med det vil vi gerne sige, at vi synes, at du skal finde
+Food's madprincipper.  Med det vil vi gerne sige, at vi synes, at du skal finde
 den madstil og de spisevaner, som passer til lige netop din krop og dine behov.
 Femme Food er et koncept rettet mod allergikere, men andre, som finder vores
 blog spændende, er selvfølgelig meget velkomne til at lade sig inspirere!
@@ -85,7 +84,7 @@ ned på mit indtag af mad indeholdende gluten.
 Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
 raffineret sukker. Der er i dag mange produkter, som har tilsat sukker såsom
 pålæg, yoghurt, müsli, cornflakes, rejer i lage osv. og det
-medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetekere
+medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetikere
 fordoblet de seneste 10 år (2002-2012). I dag er der i Danmark 320.545
 diabetikere, hvilket svarer til 5,7% af befolkning, kilde: [Diabetes
 foreningen](http://diabetes.dk/presse/diabetes-i-tal/diabetes-i-danmark.aspx).
@@ -96,11 +95,11 @@ mellem.
 Hvis du har spørgsmål eller kommentarer er du meget velkommen til at kontakte os
 på hello@femmefood.com.
 
-Og til sidst vil vi gerne sige: Vi går ind for bæredygtigt mad! Selvom det kan
+Til sidst vil vi gerne sige. Vi går ind for økologisk og bæredygtigt mad! Selvom det kan
 være svært at se på agurken nede i supermarkedet, hvordan den er blevet
 behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor
 forskel på det lange løb både for naturen og din krop at vælge agurken med det
-røde ø fremfor den med ukendt edikette.
+røde ø fremfor den med konvensionel edikette.
 
 
 God læselyst! :-)
