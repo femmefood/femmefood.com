@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Sojalakridsis
+title: Soja-lakridsis
 image: https://farm4.staticflickr.com/3906/14259560089_2ceeaac012_n.jpg
 date: 2014-06-17 21:55
 tags:
