@@ -99,7 +99,7 @@ Til sidst vil vi gerne sige. Vi går ind for økologisk og bæredygtigt mad! Sel
 være svært at se på agurken nede i supermarkedet, hvordan den er blevet
 behandlet, inden den havnede nede på hylden i butikken. Så gør det en stor
 forskel på det lange løb både for naturen og din krop at vælge agurken med det
-røde ø fremfor den med konvensionel edikette.
+røde ø fremfor den med ukendt edikette.
 
 
 God læselyst! :-)
