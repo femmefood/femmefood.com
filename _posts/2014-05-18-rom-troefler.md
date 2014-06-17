@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Rom trøfler
+title: Romtrøfler
 image: https://farm8.staticflickr.com/7385/14191101111_7061107a00_n.jpg
 date: 2014-05-18 13:35
 tags:
