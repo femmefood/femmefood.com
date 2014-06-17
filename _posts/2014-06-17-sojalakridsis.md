@@ -22,10 +22,10 @@ categories:
 Så er det for alvor blevet sommer!!! Pyyh det er jo blevet stegende hedt, men det er også på sin vis lækkert, for der følger en masse gode ting med: Solbrændte kroppe, man bliver glad i låget og kan tilmed spise en masse is :) Vi har her til aften lavet lakridsis! Nammenam siger jeg bare! Jeg er normalt ikke den store lakridselsker, som min kære søster derimod er, men den her slår benene væk under mig!  
 
 
-![Sojalakridsis](https://farm4.staticflickr.com/3906/14259560089_c77afa3c57_o.png)
+![Soja-lakridsis](https://farm4.staticflickr.com/3906/14259560089_c77afa3c57_o.png)
 
 
-## Sojalakridsis
+## Soja-lakridsis
 - 500 ml sojamadlavningsfløde (vi brugte 2 pk. Soya Cuisine á 250 ml)
 - 1/2 tsk. salt
 - 6 pasteuriserede æggeblommer
