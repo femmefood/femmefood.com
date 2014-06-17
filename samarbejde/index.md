@@ -7,6 +7,7 @@ date: 2014-02-25
 
 ## Vi samarbejder med følgende:
 
+- [Urtekram](http://www.urtekram.dk/)
 - [Nyborggaard](http://nyborggaard.dk/)
 - [Rødbakkegård](http://roedbakkegaard.dk/)
 - [HUSK Products](http://husk.dk/)
