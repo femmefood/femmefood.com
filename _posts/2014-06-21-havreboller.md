@@ -65,3 +65,4 @@ P.s. Vi skal i øvrigt til at bage noget mere med det glutenfri surdej. Det er j
 
 
 ## Frække Facts
+Havre er en glutenfri kornsort. De fleste havregrynspakker, som vi støder på nede i supermarkedet er ikke 100% glutenfrie, da der kan være spor af andre kornsorter, som indeholder gluten. Derfor er der trykt "glutenfri havregryn" på pakken. Disse er dyrket på marker, hvor der kun er blevet sået glutenfrie afgrøder. Ligeledes er siloen, lastbilen og møllen rengjort for eventuelle rester fra andre kornsorter. Dette giver en minimal risiko for tilstedeværelse af gluten. Grænsen for indeholdet af gluten er 20 ppm (mg. gluten/pr. kg. havregryn), hvis man er meget sensitiv overfor gluten, vil jeg ikke anbefale at kaste sig ud i det.
