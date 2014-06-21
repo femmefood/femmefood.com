@@ -23,7 +23,7 @@ categories:
 
 Vi har lavet de lækreste havreboller i dag! Vi puttede hjemmelavet pålægschokolade - mmmh det er bare det bedste, når det smelter på den lune bolle. Den her lille, lækre sag vil også være god til madpakken eller som burgerbolle. Jeg er vild med dens smag af surdej og havre, og som et par ekstra plusser er den både laktosefri, glutenfri og sukkerfri. :)
 
-P.s. Vi skal i øvrigt til at bage noget mere med det glutenfrit surdejspulver. Det er jo ge-ni-alt! :)
+P.s. Vi skal i øvrigt til at bage noget mere med det glutenfri surdejspulver. Det er jo ge-ni-alt! :)
 
 ![Havreboller](https://farm3.staticflickr.com/2925/14287731678_db1cb1ac78_z.jpg)
 
