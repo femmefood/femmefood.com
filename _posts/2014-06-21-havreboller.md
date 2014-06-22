@@ -46,9 +46,9 @@ P.s. Vi skal i øvrigt til at bage noget mere med det glutenfri surdejspulver. D
 
 
 ### Tilberedning
-1. Kom de hele havre i en skål med vand. Lad dem trække i min. 2 timer.10 timer er bedst.
-2. Smuldr gæren i en skål og tilsæt vand.
-3. Tilsæt olie, FiberHUSK, olivenolie og surdejspulveret.
+1. Kom de hele havre i en skål med vand. Lad dem trække i min. 2 timer. 10 timer er bedst.
+2. Smuldr gæren i en skål og tilsæt vand og rør rundt..
+3. Tilsæt olie, FiberHUSK, olivenolie og surdejspulveret og rør rundt.
 4. Hak hørfrøene og kom dem i.
 5. Tilsæt havregryn og tilsæt lidt efter lidt majsmel i dejen.
 6. Ælt dejen grundigt og tildæk skålen med et nyt viskestykke. Lad dejen hæve i 30 min.
