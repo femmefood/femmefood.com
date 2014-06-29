@@ -2,7 +2,7 @@
 layout: recipe
 title: Mysli ristet i kokossukker
 image: https://farm4.staticflickr.com/3836/14346047837_96c6a93ce2_n.jpg
-date: 2014-06-29 15:30
+date: 2014-06-29 15:25
 tags:
 - Havregryn
 - Mandler
