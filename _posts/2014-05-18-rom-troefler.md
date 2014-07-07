@@ -22,10 +22,10 @@ categories:
 
 Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på billedet eller måske meget. Nøj hvor smager de bare godt! Vi har lavet dem nogle gange efterhånden. Det geniale ved dem er, at de er super nemme og hurtige at lave, og så minder de om dem, som vi køber nede ved bageren, meeen disse her har aldrig set skyggen af sukker + så indeholder de en masse gode fedtstoffer i form af mandler! :)
 
-![Rom trøfler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
+![Romtrøfler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
 
 
-## Rom trøfler (10 små trøfler)
+## Romtrøfler (10 små trøfler)
 - 2 dl mandler (med skal)
 - 10 dadler (uden sten)
 - 3 spsk. vand
