@@ -28,7 +28,7 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 ## Rom trøfler (10 små trøfler)
 - 2 dl mandler (med skal)
 - 10 dadler (uden sten)
-- 3. spsk. vand
+- 3 spsk. vand
 - 4 tsk. romessens
 - 4 tsk. kakao
 - 4 spsk. mandelmel

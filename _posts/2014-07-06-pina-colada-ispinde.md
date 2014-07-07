@@ -14,8 +14,10 @@ categories:
 - Laktosefri
 - Glutenfri
 - Sukkerfri
+- Lækkersulten
+- Sødt
 - Dessert
-- Snack
+- Is
 
 ---
 
