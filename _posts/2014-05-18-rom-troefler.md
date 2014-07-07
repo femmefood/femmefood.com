@@ -43,7 +43,7 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 2. Tilsæt dernæst dadler og vand.
 3. Kom romessens, kakao og mandelmel i.
 4. Kom kokosmel og de frysetørrede hindbær i (vi kom det i forholdet 2:1) i den lille minihakker og fin hak det.
-5. Form 10 små trøfler ud af den nylavede trøffelmasse.
+5. Form 10 små trøfler ud af den nylavet trøffelmasse.
 6. Rul de nylavede trøfler i kokos/hindbær-melet
 
 ### Tip 
