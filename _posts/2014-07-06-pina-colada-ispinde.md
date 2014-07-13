@@ -2,9 +2,9 @@
 layout: recipe
 title: Pina Colada ispinde
 image: https://farm4.staticflickr.com/3835/14581215555_daf6406c14_n.jpg
-date: 2014-07-06 8:00
+date: 2014-07-06
 tags:
-- Banan
+- Bananer
 - Ananas
 - Kokosmælk
 - Vaniljepulver
@@ -14,34 +14,36 @@ categories:
 - Laktosefri
 - Glutenfri
 - Sukkerfri
-- Lækkersulten
 - Sødt
 - Dessert
-- Is
+- Snack
+
 
 ---
 
 Vejret driller lidt for tiden, meeen det skal nu ikke forhindre os i at spise is! Vi har lavet Pina Colada is. Jeg er helt tosset med ananas og kokos og med de to ting blandet sammen, så bliver det bare dobbelt så godt! :) Jeg vil sige, at den minder meget om den eksotiske drink bortset fra, at der lige mangler noget rom! En afstikker fra den lysegule drink er, at vi har puttet chokoladestykker i isene og hældt det henover - mmmh.. Har I også trodset vejret og spist is? :)
 
-![Pina Colada ispinde](https://farm4.staticflickr.com/3835/14581215555_360c5bc839_o.png)
+
+![Pina Colada ispinde](https://farm4.staticflickr.com/3835/14581215555_daf6406c14_z.jpg)
 
 
-## Pina Colada ispinde (8 styk)
-- 2 bananer 
+## Pina Colada ispinde
+- 2 bananer
 - 2 skiver ananas af 2 cm
 - Halv dåse kokosmælk (250 ml)
-- 1 tsk. [vaniljepulver](http://www.urtekram.dk/produkter/foedevarer/krydderier/vaniljepulver-oeko-fairtrade-10-g)
+- 1 tsk. vaniljepulver
 - 1 plade mørkchokolade (73% - 80 g)
-- Blender 
+- Blender
 - 8 isforme
 - 8 ispinde
+
 
 
 ### Tilberedning
 1. Kom bananer, ananas, kokosmælk og vaniljepulver i en blender.
 2. Blend det til, at det bliver en ensartet masse.
 3. Hak 1/3 af chokoladen og bland i isblandingen.
-4. Fyld isblandingen i 8 små isforme og kom en ispind i hver, og stil dem derefter i fryseren. 
+4. Fyld isblandingen i 8 små isforme og kom en ispind i hver, og stil dem derefter i fryseren.
 5. Når isene er frosne, tages ud af formene ved at hælde varmt vand på dem.
 6. Smelt halvdelen af det resterende chokolade og hæld den med frihånd over isene.
 
