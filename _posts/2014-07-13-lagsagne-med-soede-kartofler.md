@@ -66,4 +66,4 @@ Vi har her til aften fået lagsagne! Vi har skiftet lagsagnepladerne ud med sød
 
 
 ## Frække Facts
-Søde kartofler har samme konsistens som almindelige kartofler, men botanisk set er søde kartofler faktisk slet ikke kartofler. Søde kartofler er nemlig aflange rodfrugter, mens kartofler er underjordiske opsvulmede bladstængler. Søde kartofler stammer fra Amerika. De indeholder omkring 5% sukker hvorimod almindelige kartofler indeholder 0,5%. Deraf dens søde smag og navn. Søde kartofler er desuden rige på A-vitaminer og B-vitaminer samt mineralerne kalium og calcium. 
+Søde kartofler ligner og har samme konsistens som almindelige kartofler, men botanisk set er søde kartofler faktisk slet ikke kartofler. Søde kartofler er nemlig aflange rodfrugter, mens kartofler er underjordiske opsvulmede bladstængler. Søde kartofler stammer fra Amerika. De indeholder omkring 5% sukker hvorimod almindelige kartofler indeholder 0,5%. Deraf dens søde smag og navn. Søde kartofler er desuden rige på A-vitaminer og B-vitaminer samt mineralerne kalium og calcium. 
