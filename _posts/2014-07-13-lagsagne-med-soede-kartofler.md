@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Lagsagne med søde kartofler
-image: https://farm4.staticflickr.com/3835/14581215555_daf6406c14_n.jpg
+image: https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_n.jpg
 date: 2014-07-13 23:40
 tags:
 - Sød-kartoffel
