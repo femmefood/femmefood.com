@@ -38,7 +38,7 @@ Vi har her til aften fået lagsagne! Vi har skiftet lagsagnepladerne ud med sød
 - 4 fed hvidløg
 - 1 spsk. merian
 - 1 tsk. timian
-- Sojamælk uden sukker
+- 1 l. sojamælk uden sukker
 - Salt
 - Peber
 
