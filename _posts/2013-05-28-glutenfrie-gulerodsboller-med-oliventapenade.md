@@ -68,7 +68,7 @@ en ensartet masse.
    kom olie og fiberHUSK i.
 3. Bland resten af ingredienserne i rækkefølgen ovenover.(lille bonus info:
    dejen er klistret i konsistensen) 
-4. Brug en ske til at lægge dejen i klumper på en bageplade med bagepapir.
+4. Brug en ske til at lægge dejen i klumper på en bageplade med bagepapir.
 5. Drys bollerne med nigellafrø og sæt dem til hævning i 30 min. 
 6. Indstil ovnen på 180C alm. ovn og bag bollerne i 30-40 min.
 7. Når de er sprøde i skårpen tages de ud og er klar til at spise. 
