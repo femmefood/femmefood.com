@@ -3,10 +3,19 @@ layout: sidebar
 ---
 <div data-typespecificid="{{ page.id }}" itemscope="" itemtype="http://schema.org/Recipe" data-itemtype="Recipe" data-itemtypeid="1">
   <h1 id="itemTitle" itemprop="name"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-  <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
-  <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-    <meta itemprop="ratingValue" content="4.{{ page.title | size | modulo:8 }}" />
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-9 col-sm-9 col-md-9">
+        <p class="meta text-muted">Kategorier: {{ page.categories | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
+      </div>
+      <div class="col-xs-3 col-md-3" id="rating">
+        <div class="pull-right" id="pd_rating_holder_7749860"></div>
+      </div>
+    </div>
   </div>
+ <!--<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+    <meta itemprop="ratingValue" content="4.{{ page.title | size | modulo:8 }}" />
+  </div>-->
   <div class="post">
     <span itemprop="description">
       {{ content | replace_first: 'img src', 'img id="imgPhoto" itemprop="image" src' }}
