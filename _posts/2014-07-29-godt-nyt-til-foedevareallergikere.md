@@ -11,7 +11,7 @@ categories:
 ![Allergener](https://farm3.staticflickr.com/2939/14589200058_271c1da119_z.jpg)
 
 
-Der vil d. 14. december i år blive indført en ny lovgivning, som gør det meget lettere at være fødevareallergiker og -intolerant. Det er nemlig blevet vedtaget, at der i hele Europa skal mærkes for allergener på alle spisesteder dvs. lige fra små isboder til fine restauranter. Følgende allergener vil blive mærket på menukort mv.
+Der vil d. 14. december i år blive indført en ny lovgivning, som gør det meget lettere at være fødevare- allergiker og -intolerant. Det er nemlig blevet vedtaget, at der i hele Europa skal mærkes for allergener på alle spisesteder dvs. lige fra små isboder til fine restauranter. Følgende allergener vil blive mærket på menukort mv.
 
 
 ## EU’s top 14-allergenliste
