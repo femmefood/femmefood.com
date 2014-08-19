@@ -2,7 +2,7 @@
 layout: recipe
 title: Chai-soja-latte 
 image: https://farm6.staticflickr.com/5572/14962712265_55331e4c8c_n.jpg
-date: 2014-08-19 20.30
+date: 2014-08-19 20:55
 tags:
 - Ingefær
 - Kanel
@@ -58,3 +58,4 @@ Den skønne, solrige sommer er ved at gå på hæld. Det har vi i hvert fald tyd
 
 
 ## Frække Facts
+Nelliker stammer fra Indonesien. Nelliker er tørrede blomsterknopper fra et stedsegrøn træ fra Myrtefamilien. Navnet nellike stammer fra det tyske Nägelein, som betyder lille søm, hvilket hentyder til blomsterknoppernes form. Nelliker består af 14-21% æstetiske olier, hvoraf hovedparten er eugenol. Eugenol bruges til parfume og som aromastof i fødevare såsom 
