@@ -58,4 +58,4 @@ Den skønne, solrige sommer er ved at gå på hæld. Det har vi i hvert fald tyd
 
 
 ## Frække Facts
-Nelliker stammer fra Indonesien. Nelliker er tørrede blomsterknopper fra et stedsegrøn træ fra Myrtefamilien. Navnet nellike stammer fra det tyske Nägelein, som betyder lille søm, hvilket hentyder til blomsterknoppernes form. Nelliker består af 14-21% æstetiske olier, hvoraf hovedparten er eugenol. Eugenol er en stærk antioxidant, som neutralisere frie radikaler. og dermed beskytter mod en række sygedomme bl.a. hjerte-kar-sygdomme.
+Nelliker stammer fra Indonesien. Nelliker er tørrede blomsterknopper fra et stedsegrøn træ fra Myrtefamilien. Navnet nellike stammer fra det tyske Nägelein, som betyder lille søm, hvilket hentyder til blomsterknoppernes form. Nelliker består af 14-21% æstetiske olier, hvoraf hovedparten er eugenol. Eugenol er en stærk antioxidant, som neutralisere frie radikaler og dermed beskytter mod en række sygedomme bl.a. hjerte-kar-sygdomme.
