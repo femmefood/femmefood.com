@@ -8,6 +8,7 @@ tags:
  - Rismel
  - Majsmel
  - Flormelis
+ - Vaniljepulver
 
 categories:
  - Opskrift
@@ -34,13 +35,14 @@ Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam!
 
 
 ## Hindbærsnitter (8 styk)
-- 4 dl majsmel
-- 1 dl rismel
+- 1 dl majsmel
+- 4 dl rismel
 - 2 dl flormelis
 - 1 tsk. bagepulver
+- 1 tsk. vaniljepulver
 - 2 spsk. olivenolie
 - 2 æg
-- 4 spsk. vand
+- 1/2 dl. vand
 - 1 tsk. [FiberHUSK](http://husk.dk/)
 - Hindbærmarmelade
 - Flormelis
@@ -51,7 +53,7 @@ Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam!
 
 
 ### Tilberedning
-1. Bland majsmel, rismel, flormelis og bagepulver i en skål og rør rundt.
+1. Bland majsmel, rismel, flormelis, vaniljepulver og bagepulver i en skål og rør rundt.
 2. Tilsæt olie, æg, vand og FiberHUSK og rør rundt.
 3. Ælt dejen og del den i to lige store stykker
 4. Tilsæt evt. mere vand, hvis dejen er for tør eller mere mel hvis den er for våd.
