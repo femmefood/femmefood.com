@@ -2,7 +2,7 @@
 layout: post
 title: Ses vi i næste weekend til Food Festival 2014 på Tangkrogen i Aarhus?
 image: https://farm6.staticflickr.com/5593/15068531006_d4a90a11ed_n.jpg
-date: 2014-08-31 13:20
+date: 2014-08-31 13:30
 categories:
 - Blogpost
 
