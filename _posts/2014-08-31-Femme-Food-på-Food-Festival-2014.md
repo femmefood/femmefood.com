@@ -21,7 +21,7 @@ Ses vi? Det kunne i hvert fald være hyggeligt, hvis I kigger forbi :)
 
 
 ## Konkurrence om 2 Food Festival-billetter
-Vi udlodder desuden 2 Food Festival-billetter til én heldig vinder, som kan bruges på fredag, lørdag eller søndag til Food Festival 2014 på Tangkrogen i Aarhus. 
+Vi udlodder desuden to Food Festival-billetter til én heldig vinder, som kan bruges på fredag, lørdag eller søndag til Food Festival 2014 på Tangkrogen i Aarhus. 
 
 For at deltage i konkurrencen skal i svare på spørgsmålet: Hvor finder du Femme Food på Food Festival 2014?
 
