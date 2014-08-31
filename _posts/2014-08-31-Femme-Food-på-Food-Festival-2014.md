@@ -7,7 +7,7 @@ categories:
 - Blogpost
 
 ---
-Vi er blevet inviteret af Food Festival til at komme og demonstrere nogle af vores opskrifter på lørdag og søndag til Food Festival. Vi vil lørdag vise glutenfri bagning og fortælle om, hvordan man arbejder med en glutenfri dej. Søndag går vi i snacken’s tegn og viser alternativer til søde sager uden hvidt, raffineret sukker. Der vil være smagsprøver begge dage. I kan finde os i Bagværket i Kornmarken og Søde Sager :)
+Vi er blevet inviteret af Food Festival til at komme og demonstrere nogle af vores opskrifter på lørdag og søndag til Food Festival. Vi vil lørdag vise glutenfri bagning og fortælle om, hvordan man arbejder med en glutenfri dej. Søndag går vi i snacken’s tegn og viser alternativer til søde sager uden hvidt, raffineret sukker. Der vil være smagsprøver begge dage. I kan finde os i Bagværket i Bageriet ved Kornmarken og Søde Sager :)
 
 ![Femme Food på Food Festival](https://farm6.staticflickr.com/5593/15068531006_d4a90a11ed_z.jpg)
 
