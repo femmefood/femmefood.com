@@ -31,7 +31,7 @@ b) I Kornmarken og Søde Sager
 
 c) I BalladeMad
 
-Skriv dit svar i kommentarfeltet + dit navn og email nedenfor. Vi udtrækker en vinder på onsdag d. 3. september 2014 kl 23.00. Vi offentligegøre den heldige vinder og vinderen får direkte besked. :)
+Skriv dit svar i kommentarfeltet + dit navn og email nedenfor. Vi udtrækker en vinder på onsdag d. 3. september 2014 kl 23.00. Vi offentliggøre den heldige vinder, og vinderen får direkte besked. :)
 
 
 
