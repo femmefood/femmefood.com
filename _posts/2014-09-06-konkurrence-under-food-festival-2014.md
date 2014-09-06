@@ -2,13 +2,12 @@
 layout: recipe
 title: Konkurrence under Food Festival 2014
 image: https://farm6.staticflickr.com/5561/14967281010_a34ce47e0d_n.jpg
-date: 2014-09-06 09.50
+date: 2014-09-06 09:52
 tags:
 - Konkurrence
 categories:
 - Urtekram
 - Nyborggaard
-
 
 ---
 
