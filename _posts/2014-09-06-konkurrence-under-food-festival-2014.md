@@ -6,6 +6,7 @@ date: 2014-09-06 09:52
 tags:
 - Konkurrence
 categories:
+- Opskrift
 - Urtekram
 - Nyborggaard
 
