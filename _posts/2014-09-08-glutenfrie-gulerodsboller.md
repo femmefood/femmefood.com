@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Glutenfri gulerodsboller
+title: Glutenfrie gulerodsboller
 image: https://farm4.staticflickr.com/3908/15179318951_9bd36086b2_n.jpg
 date: 2014-09-08 23:45
 tags:
