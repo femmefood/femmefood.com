@@ -41,11 +41,10 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 2. Kom vand og loppefrøskaller i en skål og rør det rundt. Lad det trække i 10 min.
 3. Pisk den gelérede masse og tilsæt salt. Rør derefter rundt.
 4. Tilsæt havregryn og rør rundt.
-5. Tilsæt dernæst gulerødder og rør rundt.
-6. Kom de revne gulerødder i og rør rundt.
+6. Kom dernæst de revne gulerødder i og rør rundt.
 7. Tilsæt fuldkornsrismel og rør rundt.
 8. Kom bagepapir på en bageplade.
-9. Form bollerne med en stor ske, som var det en frikadellefars og kom de færdiglavede boller på bagepladen.
+9. Form bollerne med en stor ske, som var det en frikadellefars, og kom de færdiglavede boller på bagepladen.
 10. Sæt bollerne ind på bagestenen, og bag dem i 30 min.
 
 
