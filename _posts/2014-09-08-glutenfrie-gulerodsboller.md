@@ -31,7 +31,7 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 - 4 dl. glutenfri havregryn
 - 2 dl. gulerødder (svarer ca. til 2 mellemstore gulerødder)
 - 2 dl. solsikkekerner
-- 3 1/2 dl fuldkornsrismel
+- 3 1/2 dl. fuldkornsrismel
 - Bagesten
 
 
@@ -58,4 +58,4 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 
 
 ## Frække Facts
-Gulerødder stammer fra Centralasien. Gulerødder er rige på beta-caroten, som giver guleroden dens smukke orange farve. Betacaroten omdannes i kroppen til A-vitamin. A-vitamin er god for vores hår og hud. Et stort overskud af betacaroten i kroppen kan give en gul-orange hud, som giver et solbrændt udseende, men samtidig er helt uskadeligt.
+Gulerødder stammer fra Centralasien. Gulerødder er rige på betacaroten, som giver guleroden dens smukke orange farve. Betacaroten omdannes i kroppen til A-vitamin. A-vitamin er god for vores hår og hud. Et stort overskud af betacaroten i kroppen kan give en gul-orange hud, som giver et solbrændt udseende, men samtidig er helt uskadeligt.
