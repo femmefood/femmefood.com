@@ -40,7 +40,7 @@ svampet og har den dejlige smag af rugbrød. Her er resultatet.
 - 1 dl. sesam
 - 1 dl. blå birkes
 - 1 dl. hasselnødder
-- 1 1/2 spsk. saltflager
+- 1 1/2 tsk. saltflager
 
 ### Tilbedredning
 1. Tænd ovnen på 170C
