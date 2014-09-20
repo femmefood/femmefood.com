@@ -17,7 +17,7 @@ categories:
 
 
 ---
-Nu er vi på vej ind i det kølige efterår hvilket betyder, at vi skal trække i de lune sweatere og slubre os i suppe. Det er nemlig for alvor blevet suppetid! Min kære søster har svinget gryderne og kreeret denne smukke ret, som er græskarsuppe med røde linser. Mmmmh jeg er fan! De røde linser og græskaret giver suppen en cremet, lækker smag. Vi spiste suppen med glutenfri + mælkefri nanbrød. Disse kommer der en opskrift på snarest :)
+Nu er vi på vej ind i det kølige efterår hvilket betyder, at vi skal trække i de lune sweatere og slubre os i suppe. Det er nemlig for alvor blevet suppetid! Min kære søster har svinget gryderne og kreeret denne smukke ret, som er græskarsuppe med røde linser. Mmmmh jeg er fan! De røde linser og græskaret giver suppen en cremet, lækker smag. Vi spiste suppen med glutenfri + mælkefri naanbrød. Disse kommer der en opskrift på snarest :)
 
 
 ![Græskarsuppe med røde linser](https://farm6.staticflickr.com/5591/15113266098_f89b8694c2_z.jpg) 
