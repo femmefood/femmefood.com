@@ -8,11 +8,10 @@ tags:
  - Jordbær
  - Banan
 categories:
- - Laktosefri
- - Glutenfri
- - Smoothies
- - Kolde drikke
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
 ---
 
 Jeg synes ikke, at I skal snydes for denne lækre sommer choko-shake! 

@@ -12,12 +12,11 @@ tags:
  - FiberHUSK
  - Rapsolie
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Boller
- - Brød
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 Forleden dag da min mor var på besøg, lavede jeg disse lækre, svampede

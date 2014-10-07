@@ -21,13 +21,12 @@ tags:
  - Østerssauce
  - Æg
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Fiskefrikadeller
- - Mos
- - Aftensmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost 
+- Aftensmad
 ---
 
 Her til aften stod menuen på disse lækre fiskefrikadeller med rodfrugtemos.

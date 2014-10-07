@@ -11,11 +11,13 @@ tags:
  - Rødløg
  - Laks
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Tærter
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost
+- Aftensmad
+ 
 ---
 
 Denne lækre tærte er med porrer, gulerødder og laks. Den kan varieres i

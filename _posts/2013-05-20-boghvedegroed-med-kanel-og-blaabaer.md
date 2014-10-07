@@ -8,12 +8,11 @@ tags:
  - Blåbær
  - Kanel
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Grød
- - Morgenmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Morgenmad
 ---
 
 Et af mine ynglings morgenmåltider er boghvedegrød med forskellige toppings.
