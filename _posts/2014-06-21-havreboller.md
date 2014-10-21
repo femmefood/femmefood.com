@@ -21,7 +21,7 @@ categories:
 
 ---
 
-Vi har lavet de lækreste havreboller i dag! Vi puttede hjemmelavet pålægschokolade på - mmmh det er bare det bedste, når det smelter på den lune bolle. Den her lille, lækre sag vil også være god til madpakken eller som burgerbolle. Jeg er vild med dens smag af surdej og havre, og som et par ekstra plusser er den både laktosefri, glutenfri og sukkerfri. :)
+Vi har lavet de lækreste havreboller i dag! Vi puttede hjemmelavet pålægschokolade på - mmmh det er bare det bedste, når det smelter på den lune bolle. Den her lille, lækre sag vil også være god til madpakken eller som burgerbolle. Jeg er vild med dens smag af surdej og havre, og som et par ekstra plusser er den både mælkefri, glutenfri og sukkerfri. :)
 
 P.s. Vi skal i øvrigt til at bage noget mere med det glutenfri surdejspulver. Det er jo ge-ni-alt! :)
 
@@ -50,7 +50,7 @@ P.s. Vi skal i øvrigt til at bage noget mere med det glutenfri surdejspulver. D
 2. Smuldr gæren i en skål og tilsæt vand og rør rundt..
 3. Tilsæt olie, FiberHUSK, olivenolie og surdejspulveret og rør rundt.
 4. Hak hørfrøene og kom dem i.
-5. Tilsæt havregryn og tilsæt lidt efter lidt majsmel i dejen.
+5. Tilsæt de hele havre, havregryn og tilsæt lidt efter lidt majsmel i dejen.
 6. Ælt dejen grundigt og tildæk skålen med et nyt viskestykke. Lad dejen hæve i 30 min.
 7. Indsæt bagestenen i bunden af ovnen og indtil den på 250C, hvis ikke du ejer sådan en, så indtil ovnen på 200C.
 8. Put et stykke bagepapir på en bageplade.
