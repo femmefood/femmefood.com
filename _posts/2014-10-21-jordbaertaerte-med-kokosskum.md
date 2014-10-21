@@ -29,7 +29,7 @@ Ihh sikke en lettelse! Jeg har netop afsluttet min sidste eksamen for dette kvar
 - 50 g 70% mørk chokolade
 - 400 ml kokosmælk (obs: skal have stået i køleskabet i mindst 12 timer)
 - 2 tsk. vaniljepulver
-- 200 g frisk jordbær
+- 200 g friske jordbær
 
 
 
@@ -51,7 +51,7 @@ Ihh sikke en lettelse! Jeg har netop afsluttet min sidste eksamen for dette kvar
 10. Vask jordbærene og skær toppen af
 11. Tag tærten ud og lad den køle af.
 12. Kom det smeltede chokolade og kokosskummet på tærten.
-13. Pynt til sidst med jordbærene og vupti et styk jordbærtærte :)
+13. Pynt til sidst med jordbærerne og vupti et styk jordbærtærte :)
 
 
 
