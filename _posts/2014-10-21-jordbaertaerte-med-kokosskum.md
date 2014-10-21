@@ -17,7 +17,7 @@ categories:
 
 
 ---
-Ihh sikke en lettelse! Jeg har netop afsluttet min sidste eksamen for dette kvarter af mit studie. Det er en dejlig, befriende følelse! Til at fejre min frihed har jeg bagt en jordbærtærte med kokosskum. Nammenam! Den blev lækker! Jeg kunne næsten ikke vente med at spise den indtil, at den blev fotograferet :) Jeg elsker jordbærtærter, men har faktisk aldrig selv givet mig i kast med at lave en. Så nu skulle det være, og sæsonen for danske jordbær er også ved at lakke mod enden, men jeg kunne heldigvis nå at få fingre i nogle :)
+Ihh sikke en lettelse! Jeg har netop afsluttet min sidste eksamen for dette kvarter af mit studie. Det er en dejlig, befriende følelse! Til at fejre min frihed har jeg bagt en jordbærtærte med kokosskum. Nammenam! Den blev lækker! Jeg kunne næsten ikke vente med at spise den indtil, at den blev fotograferet :) Jeg elsker jordbærtærter, men har faktisk aldrig selv givet mig i kast med at lave en. Så nu skulle det være, og sæsonen for danske jordbær er også ved at lakke mod enden, men jeg kunne heldigvis nå at få fingrene i nogle :)
 
 
 ![Jordbærtærte med kokosskum](https://farm6.staticflickr.com/5615/15400064077_856c4a557a_z.jpg) 
