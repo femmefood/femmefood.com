@@ -38,7 +38,7 @@ Ihh sikke en lettelse! Jeg har netop afsluttet min sidste eksamen for dette kvar
 
 
 ### Tilberedning
-1. Riv marcipanene på et rivjern og kom det revet marcipan i en skål.
+1. Riv marcipanen på et rivjern og kom det revet marcipan i en skål.
 2. Del æggene i blomme og hvide og kom blommerne ned i skålen til marcipanen og pisk det sammen. 
 3. Saml marcipanmassen og riv den på rivjernet.
 4. Pisk hviderne stive og vend dem i den smulerede marcipanmassen og rør dernæst rundt til det er en ensartet masse.
