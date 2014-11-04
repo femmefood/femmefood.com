@@ -57,4 +57,4 @@ Mmh kartoffel-porresuppe er lige sagen! Især i det her efterhånden mørke og k
 
 
 ## Frække Facts
-Kartofler stammer fra Sydamerika. Efter den landende i Danmark blev det en dansk nationalspise, men i dag bliver der spist mindre og mindre kartofler, da pasta og ris er blevet blandt danskernes favoritterne. Kartofler har færre kalorier end ris og pasta og samtidig er de rige på kostfibre, B- og C-vitaminer samt mineralerne jern, kalium, magnesium
+Kartofler stammer fra Sydamerika. Efter kartoffelen landede i Danmark blev det en dansk nationalspise, men i dag bliver der spist mindre og mindre kartofler, da pasta og ris er blevet blandt danskernes favoritterne. Kartofler har færre kalorier end ris og pasta, og samtidig er de rige på kostfibre, B- og C-vitaminer samt mineralerne jern, kalium, magnesium
