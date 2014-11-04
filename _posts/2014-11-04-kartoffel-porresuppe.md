@@ -15,7 +15,7 @@ categories:
 
 
 ---
-Mmh kartoffel-porresuppe er lige sagen! Især i det her efterhånden mørke og kolde vejr! Jeg er vild med konsistensen og smagen af suppen blandet med det sprøde bacon. Jeg kan slet ikke stoppe med at slumre mig i den smækre suppe dog har det en ende... og det er indtil gryden er tom :) Hvad er jeres efterårs-favoritsuppe? Det her er min :)
+Mmh kartoffel-porresuppe er lige sagen! Især i det her efterhånden mørke og kolde vejr! Jeg er vild med konsistensen og smagen af suppen blandet med det sprøde bacon. Jeg kan slet ikke stoppe med at slubre mig i den smækre suppe dog har det en ende... og det er indtil gryden er tom :) Hvad er jeres efterårs-favoritsuppe? Det her er min :)
 
 
 ![Kartoffel-porresuppe](https://farm8.staticflickr.com/7524/15091506834_8b806bed13_z.jpg) 
@@ -57,4 +57,4 @@ Mmh kartoffel-porresuppe er lige sagen! Især i det her efterhånden mørke og k
 
 
 ## Frække Facts
-Kartofler stammer fra Sydamerika. Efter kartoffelen landede i Danmark blev det en dansk nationalspise, men i dag bliver der spist mindre og mindre kartofler, da pasta og ris er blevet blandt danskernes favoritterne. Kartofler har færre kalorier end ris og pasta, og samtidig er de rige på kostfibre, B- og C-vitaminer samt mineralerne jern, kalium, magnesium
+Kartofler stammer fra Sydamerika. Efter kartoffelen landede i Danmark, blev det en dansk nationalspise, men i dag bliver der spist mindre og mindre kartofler, da pasta og ris er blevet blandt danskernes favoritterne. Kartofler har færre kalorier end ris og pasta, og samtidig er de rige på kostfibre, B- og C-vitaminer samt mineralerne jern, kalium, magnesium.
