@@ -10,9 +10,9 @@ tags:
 - Røde linser
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
+- Sukkerfri 
 
 
 
@@ -20,7 +20,9 @@ categories:
 Nu er vi på vej ind i det kølige efterår hvilket betyder, at vi skal trække i de lune sweatere og slubre os i suppe. Det er nemlig for alvor blevet suppetid! Min kære søster har svinget gryderne og kreeret denne smukke ret, som er græskarsuppe med røde linser. Mmmmh jeg er fan! De røde linser og græskaret giver suppen en cremet, lækker smag. Vi spiste suppen med glutenfri + mælkefri naanbrød. Disse kommer der en opskrift på snarest :)
 
 
+
 ![Græskarsuppe med røde linser](https://farm6.staticflickr.com/5591/15113266098_f89b8694c2_z.jpg) 
+
 
 
 ## Græskarsuppe med røde linser (4 personer)
@@ -33,15 +35,10 @@ Nu er vi på vej ind i det kølige efterår hvilket betyder, at vi skal trække 
 - 1 spsk. rapsolie
 - 1 tsk. stødt koriander
 - 1 tsk. karry
-- 1 liter kogt vand 
+- 1 liter kogt vand
 - 1 spsk. Herbamare boulion (grøntsagsboulion)
--  Pynt: Frisk koriander eller citrontimian
+- Pynt: Frisk koriander eller citrontimian
 - Pynt: Tagetes
-
-
-
-
-
 
 ### Tilberedning
 1. Halvér græskaret og fjern kernerne med en ske. 
@@ -63,7 +60,5 @@ Nu er vi på vej ind i det kølige efterår hvilket betyder, at vi skal trække 
 
 
 
-
-
 ## Frække Facts
-Sæsonen for hakkaidogræskar er skudt i gang. Den strækker sig fra august til december. Hakkaidogræskaret har sit navn efter den japanske ø Hakkaido, hvor de har dyrket Hakkaidogræskar i mange år. I dag dyrkes græskarene også i Danmark. I det smukke, orange kød gemmer der sig betakaroten, B- og C-vitamin samt mineralerne calcium, kalium og magnesium. Derudover er græskaret rige på fibre.
+Sæsonen for hakkaidogræskar er skudt i gang. Den strækker sig fra august til december. Hakkaidogræskaret har sit navn efter den japanske ø Hakkaido, hvor de har dyrket Hakkaidogræskar i mange år. I dag dyrkes græskarene også i Danmark. I det smukke, orange kød gemmer der sig betakaroten, B- og C-vitamin samt mineralerne calcium, kalium og magnesium. Derudover er græskaret rige på fibre. 
