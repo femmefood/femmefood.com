@@ -13,14 +13,11 @@ tags:
 - Majsmel
 
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Brød
- - Boller
- - Burgerboller
- - Sandwichbolle
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 Vi har i mad-laboratoriet længe prøvet på at finde opskriften på en perfekt

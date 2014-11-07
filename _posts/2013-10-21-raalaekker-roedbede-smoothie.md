@@ -16,12 +16,11 @@ tags:
  - FiberHUSK
  - Banan
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Smoothies
- - Kolde drikke
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Drikke
 ---
 
 Bladene er ved at falde af træerne og kulden er begyndt at trænge ind. Vi er

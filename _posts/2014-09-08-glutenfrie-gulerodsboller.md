@@ -10,9 +10,10 @@ tags:
 - Loppefrøskaller
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
+- Hvidt, raffineret sukkerfri
+- Brød
 
 
 

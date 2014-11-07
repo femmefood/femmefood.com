@@ -37,7 +37,7 @@ ynglings grøntsager og kød.
 - 1/2 rødløg
 - 1.5 dl quinoa
 - 2 æg
-- 7 spsk. sojayughurt
+- 7 spsk. sojayoghurt
 - 1 spsk. olivenolie
 - 1 tsk. bagepulver
 - 1 tsk. salt

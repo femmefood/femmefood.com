@@ -13,14 +13,12 @@ tags:
 - Persillerod
 - Rødløg
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Aftensmad
- - Fiskefrikadeller
- - Opskrift
- - Madpakkeidé
- - Madpakkeinspiration
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost
+- Aftensmad
 ---
 
 Herhjemme i hytten har vi en forkærlighed for fiskedeller! Vi har her til aften

@@ -15,10 +15,12 @@ tags:
 - Fuldkornshvedemel
 - Hvedemel
 categories:
- - Opskrift
- - Sukkerfri
- - Aftensmad
- - Madpakkeidé
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost 
+- Aftensmad
 ---
 
 Vi har her til aften fået mangopizza eller rettere restepizza! Vi havde 1 mango, 1 rødløg, ½ chorizopølse, lidt rød peber, oliven og gedeost liggende i køleskabet. Det kom der noget vældigt godt fyld ud af til en ellers sprød pizzabund. Vi er blevet inspireret til at bruge hver en krumme, dråbe eller stykke, som vi har i køleskabet. Der er lige nu meget stor fokus på madspild og bæredygtighed. Vi synes også det er synd, så meget mad, der bliver smidt ud. Så det vil vi herhjemme selv prøve at sætte en stopper for. 

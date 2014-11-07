@@ -15,10 +15,11 @@ tags:
  - Hvidløg
  - Akacie honning
 categories:
- - Laktosefri
- - Glutenfri
- - Aftensmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Aftensmad
 ---
 
 Sol, sommer og spidskål... Jeg elsker årstiden lige nu og alle de skønne
@@ -35,11 +36,11 @@ det blev en smækker lækker spidskåls-kartoffelsalat :)
 
 ## Ovenbagt laks
 - 1/2 lakseside
-- citron
+- Citron
 - 2 fed hvidløg
-- salt
-- peber
-- citrongræs obs. ikke nødvendigt - ser bare skide godt ud på billeder ;)
+- Salt
+- Peber
+- Citrongræs obs. ikke nødvendigt - ser bare skide godt ud på billeder ;)
 
 ### Tilberedning
 1. Tænd ovnen på 200C.

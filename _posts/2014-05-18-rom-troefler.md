@@ -10,11 +10,9 @@ tags:
 - Mandelmel
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
-- Snacks til madpakken
-- Lækkersulten
+- Hvidt, raffineret sukkerfri
 - Snack
 - Sødt
 

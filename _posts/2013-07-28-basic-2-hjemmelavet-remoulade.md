@@ -15,12 +15,11 @@ tags:
 - Stevia
 - Hvidløgsmajo
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Basic-ting til køkkenet
- - Basisvarer
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Tilbehør
 ---
 
 Vi er i mad-laboratoriet på Trøjborg i gang med at lave “ting til dit

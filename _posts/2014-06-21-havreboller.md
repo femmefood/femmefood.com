@@ -12,12 +12,10 @@ tags:
 - 
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
-- Boller
+- Hvidt, raffineret sukkerfri
 - Brød
-- Madpakkeidé
 
 ---
 

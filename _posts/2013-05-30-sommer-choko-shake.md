@@ -12,6 +12,7 @@ categories:
 - Mælkefri
 - Glutenfri
 - Hvidt, raffineret sukkerfri
+- Drikke
 ---
 
 Jeg synes ikke, at I skal snydes for denne lækre sommer choko-shake! 
@@ -29,7 +30,10 @@ favorit-desserter her til sommer. Den er et godt alternativ til is!
 ## Sommer choko-shake
 - 1 banan
 - 5-6 frosne jordbær
-- 200 ml. soya kakaomælk (Naturli' eller Provamel)
+- 200 ml. havremælk fra Naturli' 
+- 2 tsk. kakaopulver
 
 ### Tilberedning
-Kom alle ingredienser i en blender og blend til det er en ensartet masse. Hvis du bruger friske jordbær, så tilsæt isterninger. Dette er en lille forsmag på sommerens små desserter!
+1. Kom alle ingredienser i en blender og blend til det er en ensartet masse. 
+
+Obs.: Hvis du bruger friske jordbær, så tilsæt isterninger. Dette er en lille forsmag på sommerens små desserter!

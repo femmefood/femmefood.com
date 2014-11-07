@@ -16,12 +16,11 @@ tags:
  - Karrypasta
  - Karry
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Aftensmad
- - Gryderetter
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Aftensmad
 ---
 
 Efterår = tid til varme retter. Uuuh, hvor er det blevet koldt udenfor. Så nu er
@@ -43,7 +42,8 @@ smag af chili og karry. Hos os går den all-in, måske den også gør det hos je
 - 1 tsk. gul karry
 - 1 bundt frisk koriander
 - 1 økologisk citron
-- salt og peper
+- Salt 
+- Peper
 
 ### Tilberedning
 1. Kog noget vand i en gryde og tilsæt risene.

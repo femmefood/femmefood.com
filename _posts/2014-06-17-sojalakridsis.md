@@ -10,13 +10,9 @@ tags:
 - Lakrids
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Lækkersulten
 - Sødt
-- Dessert
-- Is
-
 ---
 
 Så er det for alvor blevet sommer!!! Pyyh det er jo blevet stegende hedt, men det er også på sin vis lækkert, for der følger en masse gode ting med: Solbrændte kroppe, man bliver glad i låget og kan tilmed spise en masse is :) Vi har her til aften lavet lakridsis! Nammenam siger jeg bare! Jeg er normalt ikke den store lakridselsker, som min kære søster derimod er, men den her slår benene væk under mig!  

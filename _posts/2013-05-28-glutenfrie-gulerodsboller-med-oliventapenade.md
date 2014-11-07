@@ -13,7 +13,7 @@ categories:
 - Mælkefri
 - Glutenfri
 - Hvidt, raffineret sukkerfri
-- 
+- Tilbehør
 ---
 
 Uhmmm! Oliventapenade er bare det bedste! Jeg kan spise det på alt muligt f.eks. på brød og på et kyllingelår. Vi har peppet denne lækre sag op med basilikum, græskarkerner og kapers. Vi spiste oliventapenaden på nylavede gulerodsboller med nigellafrø. :)

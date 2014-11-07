@@ -17,11 +17,12 @@ tags:
 - Ketchup
 - Hakket oksekø
 categories:
- - Glutenfri
- - Sukkerfri
- - Aftensmad
- - Burgerboller
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost
+- Aftensmad
 ---
 
 Der har været lidt stille på bloggen... Min kære søster har lagt syg med en

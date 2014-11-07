@@ -14,11 +14,11 @@ tags:
  - Sojayoghurt 
  - Müsli
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Morgenmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Morgenmad
 ---
 
 Jeg har i laaaang tid spist boghvedegrød med blåbær og et drys kanel (se 

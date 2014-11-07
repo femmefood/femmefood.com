@@ -11,15 +11,12 @@ tags:
  - Mandler
  - Dadler
 categories:
- - Opskrift
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Snack
- - Sødt
- - Madpakkeidé
-
-
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Snack
+- Sødt
 ---
 
 

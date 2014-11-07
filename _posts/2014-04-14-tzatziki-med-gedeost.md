@@ -10,10 +10,11 @@ tags:
  - Tzatziki
  - Hvidløg
 categories:
- - Opskrift
- - Glutenfri
- - Sukkerfri
- - Tilbehør
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Tilbehør
 
 
 ---

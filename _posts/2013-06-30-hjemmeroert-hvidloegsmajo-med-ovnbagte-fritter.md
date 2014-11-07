@@ -10,13 +10,12 @@ tags:
 - Æbleeddike
 - Citron
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Aftensmad
- - Pommes frites
- - Tilbehør
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Aftensmad
+- Tilbehør
 ---
 Søndag = tømmermændsmad... i hvert fald for mit vedkommende :) .. og hvad gør
 man så? Jeg havde sådan lyst til pommesfritter! Så det blev til kartofler i

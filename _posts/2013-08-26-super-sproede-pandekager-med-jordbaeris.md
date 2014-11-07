@@ -19,11 +19,11 @@ tags:
 - Jordbær
 - Citron
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Sødt
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Sødt
 ---
 
 Min ynglingsdessert er pandekager! Jeg fik serveret denne lækre sag på sengen i

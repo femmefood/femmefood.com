@@ -16,14 +16,13 @@ tags:
  - Hvidløg
  - Citron
 categories:
- - Opskrift
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Tilbehør
- - Aftensmad
- - Frokost 
- - Burgerboller
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Aftensmad
+- Frokost 
+- Tilbehør
 
 
 ---

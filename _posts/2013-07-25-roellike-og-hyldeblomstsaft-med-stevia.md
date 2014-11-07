@@ -9,12 +9,11 @@ tags:
 - Stevia
 - Citron
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Kolde drikke
- - Saft
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Drikke
 ---
 
 De smukke hvide hyldeblomster står og strutter rundt om i det danske sommerland.

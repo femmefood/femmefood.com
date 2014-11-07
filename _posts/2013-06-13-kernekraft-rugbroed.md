@@ -13,14 +13,11 @@ tags:
 - Blå birkes
 - Hasselnødder
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Rugbrød
- - Brød
- - Madpakkeidé
- - Madpakkeinspiration
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ

@@ -17,6 +17,7 @@ categories:
 - Glutenfri
 - Hvidt, raffineret sukkerfri
 - Snack
+- Brød
 ---
 
 Her til aften lavede min søster og jeg disse lækre knækbrød. Vi puttede en masse

@@ -12,13 +12,11 @@ tags:
  - Hørfrø
  - Solsikkekerner
 categories:
- - Opskrift
- - Laktosefri
- - Sukkerfri
- - Boller
- - Brød
- - Madpakkeidé
-
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 Vi har i dag haft besøg af vores far og til hyggen fik vi nybagte speltboller! Søs sprang i køkkenet og smækkede en dej sammen bestående af fuldkornsspelt og fuldkornsrug. Resultatet blev 16 luftige boller med en lækker sprød skorpe. Vi fik pålæg til bollerne. Jeg er vild med, når spegepølsen smelter på det nybagte brød.

@@ -19,12 +19,12 @@ tags:
 - Majo
 
 categories:
- - Laktosefri
- - Glutenfri
- - Aftensmad
- - Burgerboller
- - Brød
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost
+- Aftensmad
 ---
 Så er vi klar med Femme Food-udgaven af pulled pork burgeren! Den er boostet med
 tæskelækre råvarer. Den brune farin er skiftet ud med dadler og stevia, og i

@@ -13,6 +13,7 @@ categories:
 - Glutenfri
 - Hvidt, raffineret sukkerfri
 - Aftensmad
+- Tilbehør
 ---
 
 ![Lækre pillerejer](http://farm4.staticflickr.com/3682/12658495625_428c86832f.jpg)
