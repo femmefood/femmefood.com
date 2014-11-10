@@ -16,9 +16,7 @@ tags:
 - Flødeost
 categories:
 - Opskrift
-- Mælkefri
 - Glutenfri
-- Hvidt, raffineret sukkerfri
 - Sødt
 ---
 
