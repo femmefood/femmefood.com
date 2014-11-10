@@ -12,7 +12,6 @@ categories:
 - Glutenfri
 - Hvidt, raffineret sukkerfri
 - Drikke
- 
 ---
 
 Der er ikke noget bedre end friskpresset juicesaft! Den her saft er hurtig og nem at lave og så består den kun af to ingredienser - gulerødder og appelsiner. Appelsinerne er de dominerende i smagen, men gulerødderne runder lige den af, og hvis man ikke er helt pjattet med gulerodssaft, er det her en mega god kombi :)
