@@ -14,7 +14,7 @@ categories:
 - Drikke
 ---
 
-Der er ikke noget bedre end friskpresset juicesaft! Den her saft er hurtig og nem at lave og så består den kun af to ingredienser - gulerødder og appelsiner. Appelsinerne er de dominerende i smagen, men gulerødderne runder lige den af, og hvis man ikke er helt pjattet med gulerodssaft, er det her en mega god kombi :)
+Der er ikke noget bedre end friskpresset juicesaft! Den her saft er hurtig og nem at lave, og så består den kun af to ingredienser - gulerødder og appelsiner. Appelsinerne er de dominerende i smagen, men gulerødderne runder lige den af, og hvis man ikke er helt pjattet med gulerodssaft, er det her en mega god kombi :)
 
 ![Gulerod-appelsinsaft](https://farm8.staticflickr.com/7500/15572286279_51a0cdae5f_o.png)
 
@@ -33,4 +33,4 @@ Der er ikke noget bedre end friskpresset juicesaft! Den her saft er hurtig og ne
 
 
 ## Frække Facts
-Gulerødder er rige på beta-caroten, som i kroppen bliver omdannet til A-vitamin. A-vitamin modvirker natteblindhed, infektioner og tør hud. Desuden er gulerødder rige på kostfibre samt på mineralerne kalium og jod. Ved indtagelse af mange gulerødder bliver huden orange, hvilket kaldes Karotenæmi. Det skyldes, at beta-caroten er et rødligt farvestof
+Gulerødder er rige på beta-caroten, som i kroppen bliver omdannet til A-vitamin. A-vitamin modvirker natteblindhed, infektioner og tør hud. Desuden er gulerødder rige på kostfibre samt på mineralerne kalium og jod. Ved indtagelse af mange gulerødder bliver huden orange, hvilket kaldes Karotenæmi. Det skyldes, at beta-caroten er et rødligt farvestof.
