@@ -14,12 +14,12 @@ tags:
  - Persille
  - Sojayoghurt
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Tærter
- - Aftensmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost
+- Aftensmad
 ---
 
 Der har været stille herinde på bloggen, men hvor er det dejligt at se, at der

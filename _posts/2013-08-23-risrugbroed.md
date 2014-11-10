@@ -13,14 +13,11 @@ tags:
 - Solsikkekerner
 - Græskarkerner
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Rugbrød
- - Brød
- - Opskrift
- - Madpakkeidé
- - Madpakkeinspiration
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 Vi har netop udviklet opskriften på et smækker-lækkert risrugbrød! Vi har bagt

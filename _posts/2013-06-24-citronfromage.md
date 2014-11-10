@@ -11,11 +11,11 @@ tags:
 - Æg
 - Æggehvider
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Sødt
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Sødt
 ---
 Imens jeg sidder og nyder solen på den skønne, spanske ø, Tenerife, har min
 søster (fotografen) været i gang med at eksperimentere i mad-laboratoriet hjemme

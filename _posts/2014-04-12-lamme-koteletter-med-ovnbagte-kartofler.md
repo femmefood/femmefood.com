@@ -16,13 +16,11 @@ tags:
 - Citron
 categories:
  - Opskrift
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Aftensmad
-
-
-
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Aftensmad
+- Tilbehør
 ---
 
 

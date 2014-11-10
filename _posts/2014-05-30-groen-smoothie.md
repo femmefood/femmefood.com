@@ -14,12 +14,11 @@ tags:
  - Ingefær
 
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Smoothies
- - Kolde drikke
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Drikke
 ---
 
 Sommeren er lige ved at være op over os. Det har vi i hvert fald tydeligt kunne mærke de sidste par dage. Vi er hoppet ud i smoothie-eksperimentering i stor stil. Vi har de seneste dage været i gang med at lave en grøn smoothie. Det er faktisk sværere, end vi lige havde regnet med. Det er meget nemmere at lave røde, gule og orange smoothies, meen nu synes vi, at det endelig lykkes og, at den sidder lige i skabet. Mmmmh :)

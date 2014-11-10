@@ -21,18 +21,15 @@ tags:
  - Østerssauce
  - Æg
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Fiskefrikadeller
- - Mos
- - Aftensmad
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Frokost 
+- Aftensmad
 ---
 
 Her til aften stod menuen på disse lækre fiskefrikadeller med rodfrugtemos.
-
-![Asiatiske fiskedeller med rodfrugtemos](http://farm6.staticflickr.com/5508/12658497975_c111056bf9.jpg)
 
 Fiskefrikadellerne var ikke helt, som vi kender dem. Jeg gav dem et lille
 asiatisk twist ved at tilsætte koriander og limeblade. Det er især limebladene,
@@ -49,6 +46,10 @@ må konstantere, at de bliver bedst med.
 
 Som tilbehør til fiskedellerne fik vi rodfrugtemos, som i form af den cremede
 konsistens, giver det helt perfekte match til dellerne.
+
+![Asiatiske fiskedeller med rodfrugtemos](http://farm6.staticflickr.com/5508/12658497975_c111056bf9.jpg)
+
+
 
 
 ## Asiatiske fiskedeller (6 stk.)

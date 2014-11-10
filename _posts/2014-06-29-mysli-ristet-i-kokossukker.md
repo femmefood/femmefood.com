@@ -9,12 +9,11 @@ tags:
 - Kokossukker
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
+- Hvidt, raffineret sukkerfri
 - Morgenmad
 - Snack
-
 ---
 
 Lækker. Nem. Hurtig. Tre ord som meget godt beskriver denne mysli. Vi har spist myslien med rismælk, men tænker også den er lækker med yoghurt, som topping eller som en lille, lækker snack. Myslien er lavet med kokossukker (pamlesukker, kokosblomstsukker). Kokossukker har sammenlignet med raffineret, hvidt sukker et lavere glykemisk indeks (GI). Kokossukkers GI ligger på 35, mens hvidt sukker har et GI på 73. Dette gør så blodsukkeret ikke bliver påvirket i så høj en grad. Desuden søder kokossukker mere end hvidt sukker og så har den en lækker, sød karamelagtig smag. Et par ekstra plusser ved kokossukker er, at det indeholder b- og c-vitamin samt mineralerne kalium, magnesium og zink. 

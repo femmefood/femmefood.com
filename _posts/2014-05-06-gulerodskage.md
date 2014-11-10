@@ -15,10 +15,11 @@ tags:
 - Citron
 - Flødeost
 categories:
- - Opskrift
- - Glutenfri
- - Dessert
- - Sødt
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Sødt
 ---
 
 Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selskab. Så her til aften lavede vi en god kage-klassiker nemlig en gulerodskage med frosting. Det der skiller den lidt ud fra klassikeren er, at den er glutenfri + den er blevet pyntet med de fineste, spiselig blomster. De spiselige blomster er vores mor kommet med fra hendes have. Det er friske stedmoderblomster og violer samt tørrede mælkebøtter. Jeg synes virkelig, at kagen blev flot med de fine blomster, og samtidig smagte den vanvittig godt! Den er nemlig lækker svampet!

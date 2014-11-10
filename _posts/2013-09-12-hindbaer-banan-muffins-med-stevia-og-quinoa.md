@@ -14,14 +14,12 @@ tags:
  - Soja-madlavningsfløde
  - Banan
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Sødt
- - Opskrift
- - Snack
- - Madpakkeidé
- - Madpakkeinspiration
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Snack
+- Sødt
 ---
 
 Vi starter lille fredag ud med en lille, lækker fristelse - en hindbær/banan

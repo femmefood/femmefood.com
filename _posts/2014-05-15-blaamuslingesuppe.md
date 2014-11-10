@@ -12,9 +12,9 @@ tags:
 - Kokos
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
+- Hvidt, raffineret sukkerfri
 - Aftensmad
 
 ---

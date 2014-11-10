@@ -10,11 +10,9 @@ tags:
 - Mandelmel
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
-- Snacks til madpakken
-- Lækkersulten
+- Hvidt, raffineret sukkerfri
 - Snack
 - Sødt
 
@@ -28,10 +26,8 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 ## Romtrøfler (10 små trøfler)
 - 2 dl mandler (med skal)
 - 10 dadler (uden sten)
-- 3 spsk. vand
 - 4 tsk. romessens
 - 4 tsk. kakao
-- 4 spsk. mandelmel
 - Stor minihakker
 - Lille minihakker
 - Kokosmel
@@ -40,9 +36,9 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 
 ### Tilberedning
 1. Kom først mandlerne i den store minihakker og hak dem til mindre stykker.
-2. Tilsæt dernæst dadler og vand.
-3. Kom romessens, kakao og mandelmel i.
-4. Kom kokosmel og de frysetørrede hindbær i (vi kom det i forholdet 2:1) i den lille minihakker og fin hak det.
+2. Tilsæt dernæst dadler og rør rundt.
+3. Kom romessens og kakao i og rør rundt.
+4. Kom kokosmel og de frysetørrede hindbær i (vi kom det i forholdet 2:1) i den lille minihakker og hak det fint.
 5. Form 10 små trøfler ud af den nylavet trøffelmasse.
 6. Rul de nylavede trøfler i kokos/hindbær-melet
 

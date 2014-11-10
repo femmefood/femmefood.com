@@ -11,13 +11,11 @@ tags:
 - Chokolade
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
-- Sødt
-- Dessert
+- Hvidt, raffineret sukkerfri
 - Snack
-- Lækkersulten
+- Sødt
 
 
 ---

@@ -11,17 +11,14 @@ tags:
  - Vaniljepulver
 
 categories:
- - Opskrift
- - Laktosefri
- - Glutenfri
- - Sødt
- - Dessert
-
-
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Sødt
 
 ---
 
-Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam! Vi eksperimenterede med, at de både skulle være laktosefri og glutenfri, og resultatet må siges at blive ret vellykket. :) 
+Søndag = hygge! Vi har i anledningen af hyggen lavet hindbærsnitter! Nammenam! Vi eksperimenterede med, at de både skulle være mælkefri og glutenfri, og resultatet må siges at blive ret vellykket. :) 
 
 
 

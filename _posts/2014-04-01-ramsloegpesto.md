@@ -10,14 +10,11 @@ tags:
  - Rapsolie
  - Sesamfrø
 categories:
- - Opskrift
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Tilbehør
- - Frokost
-
-
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Tilbehør
 ---
 
 

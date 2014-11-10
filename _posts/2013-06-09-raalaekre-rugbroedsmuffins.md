@@ -14,16 +14,12 @@ tags:
  - Mørk chokolade
  - Sesamfrø
 categories:
- - Laktosefri
- - Glutenfri
- - Snacks
- - Snacks til madpakken
- - Muffins
- - Madpakkeidé
- - Madpakkeinspiration
- - Lækkersulten
- - Sødt
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Snack
+- Sødt
+- Opskrift
 ---
 
 Mmmmh... dem her må du bare prøve! Disse fine rugbrødsmuffins er et super

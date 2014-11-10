@@ -13,14 +13,11 @@ tags:
 - Blå birkes
 - Hasselnødder
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Rugbrød
- - Brød
- - Madpakkeidé
- - Madpakkeinspiration
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
 ---
 
 I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ
@@ -40,7 +37,7 @@ svampet og har den dejlige smag af rugbrød. Her er resultatet.
 - 1 dl. sesam
 - 1 dl. blå birkes
 - 1 dl. hasselnødder
-- 1 1/2 spsk. saltflager
+- 1 1/2 tsk. saltflager
 
 ### Tilbedredning
 1. Tænd ovnen på 170C

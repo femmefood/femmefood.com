@@ -14,13 +14,12 @@ tags:
  - Sesamfrø
  - Æg
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Madpakkeidé
- - Madpakkeinspiration
- - Snacks
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Brød
+- Snack
 ---
 
 Pølsebrød, dyner og hyggebukser! Det kalder jeg søndagshygge.
@@ -43,7 +42,7 @@ sennep](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/).
 - 3 spsk. rapsolie
 - 4 spsk. FiberHUSK
 - 2 dl. boghvedegryn
-- 1 dl. sojayougurt
+- 1 dl. sojayoghurt
 - 2 dl. majsmel
 - 2 dl.boghvedemel
 - 12 pølser
@@ -52,7 +51,7 @@ sennep](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/).
 
 ### Tilberedning
 1. Bland gær, vand, salt, olie og FiberHUSK i en skål.
-2. Bland yougurt og grynene i.
+2. Bland yoghurt og grynene i.
 3. Kom melet i lidt efter lidt og ælt det sammen med hænderne til en ensartet
    masse. (Bonusinfo: dejen er klistret)
 4. Find pølserne frem fra køleskabet og form dejen rundt om. Lad de nylavede

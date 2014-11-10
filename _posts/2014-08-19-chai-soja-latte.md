@@ -13,10 +13,10 @@ tags:
 - Stevia
 categories:
 - Opskrift
-- Laktosefri
+- Mælkefri
 - Glutenfri
-- Sukkerfri
-- Varme drikke
+- Hvidt, raffineret sukkerfri
+- Drikke
 
 
 ---

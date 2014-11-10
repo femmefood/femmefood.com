@@ -9,10 +9,11 @@ tags:
  - Kakao
  - Sukker
 categories:
- - Laktosefri
- - Glutenfri
- - Varme drikke
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Drikke
 ---
 
 

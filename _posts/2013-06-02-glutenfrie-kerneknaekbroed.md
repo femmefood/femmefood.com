@@ -12,17 +12,12 @@ tags:
 - Majsmel
 
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Knækbrød
- - Madpakkeinspiration
- - Madpakkeidé
- - God fordøjelse
- - Snacks
- - Snacks til madpakken
- - Fiberigt
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Snack
+- Brød
 ---
 
 Her til aften lavede min søster og jeg disse lækre knækbrød. Vi puttede en masse

@@ -11,11 +11,11 @@ tags:
 - Æbleeddike
 - Tomatpasta
 categories:
- - Laktosefri
- - Glutenfri
- - Basic-ting til køkkenet
- - Basisvarer
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Tilbehør
 ---
 
 Det lyder måske lidt kedeligt, men her kommer en perlerække af hjemmelavede

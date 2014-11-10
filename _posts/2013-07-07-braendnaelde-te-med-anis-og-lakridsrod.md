@@ -8,11 +8,12 @@ tags:
 - Anisfrø
 - Lakridsrod
 categories:
- - Laktosefri
- - Glutenfri
- - Sukkerfri
- - Varme drikke
- - Opskrift
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Hvidt, raffineret sukkerfri
+- Drikke
+
 ---
 
 På med handsken og ud i det blå! Måske er det ikke tilfældigt, at den grønne,

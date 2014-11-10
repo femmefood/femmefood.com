@@ -17,12 +17,12 @@ tags:
 - Timianhonning
 
 categories:
- - Opskrift
- - Laktosefri
- - Glutenfri
- - Madpakkeidé
- - Aftensmad
- - Frokost
+- Opskrift
+- Mælkefri
+- Glutenfri
+- Frokost
+- Aftensmad
+
 
 
 
