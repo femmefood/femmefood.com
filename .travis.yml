@@ -1,7 +1,17 @@
 language: ruby
 rvm:
 - 2.1
-script: jekyll build && htmlproof ./_site
+- 2.0
+- 1.9
+- ruby-head
+- rbx-head
+- jruby-head
+matrix:
+  allow_failures:
+    - rvm: ruby-head
+    - rvm: rbx-head
+    - rvm: jruby-head
+script: bundle exec jekyll build && bundle exec htmlproof ./_site
 
 # branch whitelist
 branches:
