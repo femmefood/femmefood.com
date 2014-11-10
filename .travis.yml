@@ -6,11 +6,15 @@ rvm:
 - ruby-head
 - rbx-head
 - jruby-head
+- mruby-1.0
+- mruby-head
 matrix:
   allow_failures:
     - rvm: ruby-head
     - rvm: rbx-head
     - rvm: jruby-head
+    - rvm: mruby-1.0
+    - rvm: mruby-head
 script: bundle exec jekyll build && bundle exec htmlproof ./_site
 
 # branch whitelist
