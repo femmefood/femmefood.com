@@ -68,4 +68,4 @@ afskallede er 64,8 mg./ 100 g. Calciumindholdet i uafskallede sesamfrø er
 faktisk væsentligt højere end i komælk. Calciumindholdet i en økologisk letmælk
 er 122 mg./100 g.
 
-kilde:  [foodcoomp.dk](http://www.foodcoomp.dk/)
+kilde:[foodcoomp.dk](http://www.foodcomp.dk/v7/fvdb_search.asp)
