@@ -15,7 +15,7 @@ tags:
 - Paprika
 - Citron
 categories:
- - Opskrift
+- Opskrift
 - Mælkefri
 - Glutenfri
 - Hvidt, raffineret sukkerfri
