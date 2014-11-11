@@ -11,7 +11,6 @@ tags:
  - Hvidløg
 categories:
 - Opskrift
-- Mælkefri
 - Glutenfri
 - Hvidt, raffineret sukkerfri
 - Tilbehør
