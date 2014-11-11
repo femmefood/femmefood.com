@@ -2,7 +2,7 @@ permalink: /:year/:month/:title/
 name: Femme Food
 markdown: redcarpet
 highlighter: true
-exclude: [tools, README.md]
+exclude: [tools, README.md, vendor]
 timezone: Europe/Copenhagen
 
 # Custom
