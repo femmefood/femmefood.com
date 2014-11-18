@@ -5,8 +5,8 @@ date: 2013-05-27
 ---
 
 Vi er to søstre, som har startet Femme Food. Bloggen skal være med til at
-inspirere til nemme og lækre opskrifter og tager udgangspunkt i laktosefri,
-glutenfri og/eller sukkerfri madlavning.
+inspirere til nemme og lækre opskrifter og tager udgangspunkt i mælkefri,
+glutenfri og/eller hvidt, raffineret sukkerfri madlavning.
 
 ![Femme Food-søstrene](http://farm6.staticflickr.com/5530/12658491565_300624bcdb.jpg)
 
@@ -58,11 +58,11 @@ blog spændende, er selvfølgelig meget velkomne til at lade sig inspirere!
 
 ## Opbygningen af Femme Food
 
-Vi har i toppen af hver opskrift skrevet, om den er laktosefri, glutenfri
-og/eller sukkerfri, da det skal gøre det let og overskueligt for læseren at vælge
+Vi har i toppen af hver opskrift skrevet, om den er mælkefri, glutenfri
+og/eller hvidt, raffineret sukkerfri, da det skal gøre det let og overskueligt for læseren at vælge
 eller fravælge de opskrifter, som passer til ens behov.
 
-Vi har valgt at skrive laktosefri, da de fleste mennesker bedst kender til
+Vi har valgt at skrive mælkefri, da det er et dækkende for alle mælkeprodukter såsom yoghurt,  de fleste mennesker bedst kender til
 laktoseintolerance, og er den mest udbredte form for mælkeallergi (70% af
 jordensbefolkning og 4% af  den danske befolkning har
 laktoseintolerance). Laktose er mælkesukkkeret i
