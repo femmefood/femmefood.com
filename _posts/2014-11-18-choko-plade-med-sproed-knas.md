@@ -12,7 +12,7 @@ categories:
 - Snack
 - Sødt
 ---
-Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine favorit snackspise!  Denne choko-palde har vi peppet op med lidt knas. Det må siges, at det ret så lækkert. Knasen består af mandler, mårbær, poppede ris og poppede amaranth :)
+Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine favorit snackspise!  Denne choko-palde har vi peppet op med lidt knas. Det må siges, at det blev ret så lækkert. Knasen består af mandler, mårbær, poppede ris og poppede amaranth :)
 
 
 ![Choko-plade med sprød knas](https://farm4.staticflickr.com/3941/15092715854_1a1225f488_z.jpg)
