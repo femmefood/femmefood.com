@@ -12,7 +12,7 @@ categories:
 - Snack
 - Sødt
 ---
-Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine favorit snackspise!  Denne choko-palde har vi peppet op med lidt knas. Det må siges, at det blev ret så lækkert. Knasen består af mandler, mårbær, poppede ris og poppede amaranth :)
+Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine favorit snackspise!  Denne choko-palde har vi peppet op med lidt knas. Det må siges, at det blev ret så lækkert. Knasen består af mandler, mårbær, poppede ris og poppet amaranth :)
 
 
 ![Choko-plade med sprød knas](https://farm4.staticflickr.com/3941/15092715854_1a1225f488_z.jpg)
@@ -24,7 +24,7 @@ Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine fav
 - 1/2 dl mandler 
 - 1/2 dl morbær 
 - 1 dl poppede ris
-- 1/2 dl poppede amaranth
+- 1/2 dl poppet amaranth
 
 
 ### Tilberedning
@@ -33,7 +33,7 @@ Smagen af chokolade bliver man bare aldrig træt af! Chokolade er en af mine fav
 3. Bræk chokoladen i mindre stykker og smelt den over et vandbad.
 4. Kom bagepapir i en bageform.
 3. Kom den flydende chokolade ned i bageformen.
-4. Strø med løs hånd de hakkede mandler, morbær og de poppede ris over chokoladen.
+4. Strø med løs hånd de hakkede mandler, morbær, de poppede ris og amaranth over chokoladen.
 5. Sæt chokoladepladen i køleskabet eller fryseren.
 
 
