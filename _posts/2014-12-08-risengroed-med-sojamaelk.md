@@ -33,9 +33,9 @@ Den søde tid er over os!  Vi fylder os med lækkerier. Herhjemme er vi vilde me
 ### Tilberedning
 1. Skrue op på middel varme. 
 2. Kom sojamælk og grødris i en stor tykbundet gryde og lad det koge op. Lad det koge et par minutter ved konstant omrøring. 
-3. Skue nu blusset ned på svag varme, og lad grøden stå i 50 min. med låg. Rør hver 10. min i gryden med en grydeske  
+3. Skrue blusset ned på svag varme, og lad grøden stå i 50 min. med låg. Rør i løbet af de 50 min hver 10. min i gryden med en grydeske.  
 
 
 
 ## Frække Facts
-Ghee er klaret smør, som stammer fra det indiske køkken. Ghee er fremstillet af usaltet smør, hvor smøret under opvarmning deler sig i tre - et hvidt overlag, en flydende midte, som er fedt og bundfald som er protein, der hovedsagligt er kasein. Ghee kan købes i helsekostbutikker eller også kan man også selv begive sig ud at lave det.
+Ghee er klaret smør, som stammer fra det indiske køkken. Ghee er fremstillet af usaltet smør, hvor smøret under opvarmning deler sig i tre - et hvidt overlag, en flydende midte, som er fedt og bundfald som er protein, der hovedsagligt er kasein. Ghee er fedtet i midten. Ghee kan købes i helsekostbutikker eller også kan man også selv begive sig ud at lave det.
