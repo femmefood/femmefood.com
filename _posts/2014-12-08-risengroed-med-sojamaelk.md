@@ -14,7 +14,7 @@ categories:
 - Glutenfri
 - Sødt
 ---
-Den søde tid er over os!  Vi smækker i os med lækkerier. Herhjemme er vi vilde med risengrød. Det synes vi, hører julen til! Vi har lavet en lille smule om på klassikeren.Vi har nemlig skiftet komælken ud med soyamælk og smørklatten er byttet ud med ghee ellers er den lige som den plejer - sukker, kanel og ris. :) 
+Den søde tid er over os!  Vi fylder os med lækkerier. Herhjemme er vi vilde med risengrød. Det synes vi, hører julen til! Vi har lavet en lille smule om på klassikeren.Vi har nemlig skiftet komælken ud med soyamælk og smørklatten er byttet ud med ghee ellers er den lige som den plejer - sukker, kanel og ris. :) 
 
 ![Risengrød med sojamælk](https://farm8.staticflickr.com/7553/15967287101_4d3e2f1a25_z.jpg)
 
