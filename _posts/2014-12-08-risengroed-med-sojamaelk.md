@@ -38,4 +38,4 @@ Den søde tid er over os!  Vi fylder os med lækkerier. Herhjemme er vi vilde me
 
 
 ## Frække Facts
-Ghee er klaret smør, som stammer fra det indiske køkken. Ghee er fremstillet af usaltet smør, hvor smøret under opvarmning deler sig i tre - et hvidt overlag, en flydende midte, som er fedt og bundfald som er protein, der hovedsagligt er kasein. Ghee er fedtet i midten. Ghee kan købes i helsekostbutikker eller også kan man også selv begive sig ud at lave det.
+Ghee er klaret smør, som stammer fra det indiske køkken. Ghee er fremstillet af usaltet smør, hvor smøret under opvarmning deler sig i tre - et hvidt overlag, en flydende midte, som er fedt og bundfald som er protein, der hovedsagligt er kasein. Ghee er fedtet i midten. Ghee kan købes i helsekostbutikker eller også kan man selv begive sig ud at lave det.
