@@ -14,7 +14,7 @@ categories:
 - Sødt
 
 ---
-Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med at stege æbleskiver. Dog er de ikke helt, som de plejer. Vi har nemlig lavet dem glutenfrie. Det vil sige, at vi har byttet hvedemelet ud med rismel. Desuden er der to ting, som vi mener, at man ikke kan gå på kompromis med. Det er kardemomme og citronskal! Det giver lige det sidste pift til æbleskiverne! Jeg synes, at smagen og konsistensen er den samme, som dem vi kender fra vores mor, mormor, bedstemor eller hvem der har stået for æbleskivestegningen. :)  Vi spiste de lune æbleskiver med jordbærmarmelade og flormelis, mmmh :)
+Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med at stege æbleskiver. Dog er de ikke helt, som de plejer. Vi har nemlig lavet dem glutenfrie. Det vil sige, at vi har byttet hvedemelet ud med rismel. Desuden er der to ting, som vi mener, at man ikke kan gå på kompromis med. Det er kardemomme og citronskal! Det giver lige det sidste pift til æbleskiverne! Jeg synes, at smagen og konsistensen er den samme, som dem vi kender fra vores mor, mormor, bedstemor eller, hvem der har stået for æbleskivestegningen :)  Vi spiste de lune æbleskiver med jordbærmarmelade og flormelis, mmmh :)
 
 ![Æbleskiver med kardemomme og citonskal](https://farm9.staticflickr.com/8577/15408706724_736c9130c1_z.jpg)
 
@@ -23,7 +23,7 @@ Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med 
 ## Æbleskiver med kardemomme og citonskal
 - 3 æg
 - 4 dl rismel
-- 1 majsstivelse
+- 2 dl majsstivelse
 - 1 tsk. kardemomme
 - 1/2 tsk. salt
 - 5 dl rismælk eller sojamælk
