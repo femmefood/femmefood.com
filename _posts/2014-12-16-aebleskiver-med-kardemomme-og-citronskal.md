@@ -38,8 +38,8 @@ Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med 
 ### Tilberedning
 1. Del æggene i hvide og blomme. 
 2. Pisk hviderne stive i en skål.
-3. Kom blommerne og resten af ingredienserne pånær natron i en anden skål og rør det sammen.
-4. Tilsæt de stive hvider og natron i skålen.
+3. Kom æggeblommerne og resten af ingredienserne pånær natron i en anden skål og rør det sammen.
+4. Tilsæt de stive æggehvider og natron i skålen.
 5. Varm æbleskivepanden godt op og kom lidt raspsolie i hvert hul.
 6. Fyld hvert æbleskivehul op med dej.
 7. Vend æbleskiverne med en strikkepind, når de har dannet en skorpe. 
