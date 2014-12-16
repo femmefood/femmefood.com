@@ -47,4 +47,4 @@ Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med 
 
 
 ## Frække Facts
-Æbleskiver er en dansk tradition. Navnet æbleskive kommer af, at man i gammeldage kom en skive fra et æble ind i æbleskiven. Da æbleskiver er så inkarnerede danske, hedder de på engelsk Danish doughnuts.
+Æbleskiver er en dansk delikatesse, som har været kendt siden 1800-tallet. Navnet æbleskive kommer af, at man i gammeldage kom en skive fra et æble ind i æbleskiven. Da æbleskiver er så inkarnerede danske, hedder de på engelsk Danish doughnuts.
