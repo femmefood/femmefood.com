@@ -20,7 +20,7 @@ Duften af æbleskiver i hele hytten minder mig om jul! Vi har været i gang med 
 
 
 
-## Æbleskiver med kardemomme og citonskal
+## Æbleskiver med kardemomme og citonskal (ca. 18 stk.)
 - 3 æg
 - 4 dl rismel
 - 2 dl majsstivelse
