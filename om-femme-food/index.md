@@ -62,26 +62,26 @@ Vi har i toppen af hver opskrift skrevet, om den er mælkefri, glutenfri
 og/eller hvidt, raffineret sukkerfri, da det skal gøre det let og overskueligt for læseren at vælge
 eller fravælge de opskrifter, som passer til ens behov.
 
-Vi har valgt at skrive mælkefri, da det er et dækkende for alle mælkeprodukter såsom yoghurt,  de fleste mennesker bedst kender til
-laktoseintolerance, og er den mest udbredte form for mælkeallergi (70% af
-jordensbefolkning og 4% af  den danske befolkning har
+Vi har valgt at skrive mælkefri, da det er et dækkende ord for alle mælkeprodukter såsom yoghurt, ost, creme fraiche mv. Der findes to former for mælkeintolerance: laktoseintolerance og mælkeallergi.  De fleste mennesker kender bedst til
+laktoseintolerance, og er den mest udbredte form for mælkeintolerance (70% af
+jordensbefolkning og 4% af den danske befolkning har
 laktoseintolerance). Laktose er mælkesukkkeret i
-mælkeprodukter. Selvom jeg (Annika) selv er allergisk overfor kasein findes både
-laktose og kasein i større eller mindre grad i alle mælkeprodukter.
+mælkeprodukter. Ved laktoseintolerance har man ikke ringe grad eller slet ikke enzymet laktase, som nedbryder laktose i kroppen.
+Den anden mælkeintolerance er mælkeallergi, hvor man ikke kan tåle proteinerne kasein, alfa-lactoglobulin eller beta-lactoglobulin i mælk. Mælkeallergi er en immunreaktion, hvor man blandt andet kan få hududslet i form af eksem, astma mv.
+Der findes laktose, kasein, alfa-lactoglobulin og/eller beta-lactoglobulin i større eller mindre grad i mælkeprodukter. I eks. ost er der et højt indhold af kasein.
 
-Desuden har vi valgt at angive, hvis opskrifterne er glutenfri, da nogle
-mennesker lider af cøliaki, som er en tilstand, hvor man har allergi overfor
-kornbestanddelen, gluten, som findes i rug, spelt, hvede osv.
+Derudover har vi valgt at angive, hvis opskrifterne er glutenfrie, da nogle
+mennesker lider af glutenallergi også kaldet cøliaki, som er en tilstand, hvor man har allergi overfor
+proteinet gluten, som findes i rug, spelt, hvede osv. 
 Flere og flere får diagnostiseret cøliaki, og der menes, at omkring 1% af
 befolkningen i Danmark har cøliaki. Dog har nogle en mildere grad af cøliaki
 eller ikke har fundet frem til, at de har cøliaki. Disse er ikke blevet
 diagnostiseret. Så derfor menes antallet af gultenallergikere at være højere,
 kilde: [Dansk Cøliaki forening](http://www.coeliaki.dk/dk/).
-Desuden kan jeg selv mærke markant forskel, om jeg spiser mad med eller uden
-gluten. Jeg får en meget oppustet mave af glutenholdigt mad. Så jeg har skåret
-ned på mit indtag af mad indeholdende gluten.
+Desuden findes en relativ nyopdaget lidelse kaldet ikke-cøliaki glutensensitivitet, som er en lidelse, hvor man har symptomerne på cøliaki heriblandt kan nævnes mavesmerter, diaré, forstoppelse, hovedpine mv. men man har ikke fået diagnostiseret cøliaki. 
 
-Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat,
+
+Til sidst har vi tilføjet kategorien sukkerfri, og med dette mener vi tilsat, hvidt,
 raffineret sukker. Der er i dag mange produkter, som har tilsat sukker såsom
 pålæg, yoghurt, müsli, cornflakes, rejer i lage osv. og det
 medfører et kæmpe forbrug af sukker. Ligeledes er antallet af diabetikere
@@ -92,7 +92,7 @@ Vi prøver at begrænse indtaget af sukker,
 men ikke sagt på den måde, at der ikke er plads til lørdagsslik en gang i
 mellem.
 
-Hvis du har spørgsmål eller kommentarer er du meget velkommen til at kontakte os
+Hvis du har spørgsmål eller kommentarer, er du meget velkommen til at kontakte os
 på hello@femmefood.com.
 
 Til sidst vil vi gerne sige. Vi går ind for økologisk og bæredygtigt mad! Selvom det kan
