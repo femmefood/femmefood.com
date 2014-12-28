@@ -36,7 +36,7 @@ Jeg håber, at I har nydt/nyder juledagene og, at I har fået spist en masse læ
 
 - 100 g. frosen spinat
 
-- 1 spsk. (Baobab Frugt Pulver)[http://senseofafrica.dk/]
+- 1 spsk. [Baobab Frugt Pulver](http://senseofafrica.dk/) 
 
 
 
