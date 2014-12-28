@@ -41,7 +41,7 @@ Jeg håber, at I har nydt/nyder juledagene og, at I har fået spist en masse læ
 
 
 ### Tilberedning
-1. Kom alle ingredienserne i en blender og blen til det bliver en ensartet masse.
+1. Kom alle ingredienserne i en blender og blend til det bliver en ensartet masse.
 
 
 
