@@ -4,7 +4,12 @@ title: Eksotisk grønkålssmoothie
 image: https://farm8.staticflickr.com/7500/15782362100_6acd18f484_n.jpg
 date: 2014-12-28 19:00
 tags:
-
+- Grønkål
+- Spinat
+- Banan
+- Ananas
+- Bobabpulver
+- Kokosmælk
 categories:
 - Opskrift
 - Mælkefri
@@ -36,7 +41,7 @@ Jeg håber, at I har nydt/nyder juledagene og, at I har fået spist en masse læ
 
 
 ### Tilberedning
-1. Blend alle ingredienserne i en blender.
+1. Kom alle ingredienserne i en blender og blen til det bliver en ensartet masse.
 
 
 
