@@ -18,7 +18,7 @@ categories:
 - Drikke
 ---
 
-Jeg håber, at I har nydt/nyder juledagene og, at I har fået spist en masse lækker julemad og julesnacks! Vi har i hvert fald givet den gas, men nu er vi ved at omstille os lidt til hverdagens strabadser. Vi har i dag lagt ud med en eksotisk grønkåls smoothie. Det eksotiske i smoothien er, at den indeholder kokosmælk, banan, ananas og baobabpulver. Baobabpulver er pulver udvundet fra baobabfrugten, som stammer fra Afrika. Desuden er der grønkål og spinat i smoothien. Grønkål er sprængfyldt med A-, C- og  K-vitaminer og spinat bidrager med A-, B-, C-, E- og K-vitaminer og mineralerne kalium, calium, jern og zink. Så det er en sprængfyldt mineral- og vitaminbombe, som mætter i lang tid pga. kokosmælken. 
+Jeg håber, at I har nydt/nyder juledagene og, at I har fået spist en masse lækker julemad og julesnacks! Vi har i hvert fald givet den gas, men nu er vi ved at omstille os lidt til hverdagens strabadser. Vi har i dag lagt ud med en eksotisk grønkålssmoothie. Det eksotiske i smoothien er, at den indeholder kokosmælk, banan, ananas og baobabpulver. Baobabpulver er pulver udvundet fra baobabfrugten, som stammer fra Afrika. Desuden er der grønkål og spinat i smoothien. Grønkål er sprængfyldt med A-, C- og  K-vitaminer og spinat bidrager med A-, B-, C-, E- og K-vitaminer og mineralerne kalium, calium, jern og zink. Så det er en sprængfyldt mineral- og vitaminbombe, som mætter i lang tid pga. kokosmælken. 
 
 ![Eksotisk grønkålssmoothie](https://farm8.staticflickr.com/7500/15782362100_6acd18f484_z.jpg)
 
