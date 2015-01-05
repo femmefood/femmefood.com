@@ -14,7 +14,6 @@ tags:
 categories:
 - Opskrift
 - Mælkefri
-- Glutenfri
 - Hvidt, raffineret sukkerfri
 - Brød
 ---
