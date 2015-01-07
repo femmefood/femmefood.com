@@ -30,10 +30,10 @@ skal og frysetørrede hindbær.
 ![Hindbær/banan muffins med stevia og quinoa](http://farm8.staticflickr.com/7322/12658624843_3a156b9daf.jpg)
 
 ## Hindbær/banan muffins med stevia og quinoa: (16 stk.)
-- 2 dl. quinoa
+- 2 dl. gule quinoafrø 
 - 3 æg
 - 2 spsk.  [Husk](http://www.husk.dk/) [®](http://www.husk.dk/)
-- 1 dl. stevia
+- 1 dl. stevia (i pulverform)
 - 250 ml. [Cuisine](http://www.naturli-foods.dk/) soja-madlavningsfløde
 - 1 dl. [rapsolie](http://www.roedbakkegaard.dk/)
 - 2 bananer
