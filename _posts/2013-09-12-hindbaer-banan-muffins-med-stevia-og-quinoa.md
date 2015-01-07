@@ -33,7 +33,7 @@ skal og frysetørrede hindbær.
 - 2 dl. gule quinoafrø 
 - 3 æg
 - 2 spsk.  [Husk](http://www.husk.dk/) [®](http://www.husk.dk/)
-- 1 dl. stevia (i pulverform)
+- 1 dl. stevia (i pulverform - vi brugte Hermesetas SteviaSweet Crystal)
 - 250 ml. [Cuisine](http://www.naturli-foods.dk/) soja-madlavningsfløde
 - 1 dl. [rapsolie](http://www.roedbakkegaard.dk/)
 - 2 bananer
