@@ -11,7 +11,7 @@ date: 2014-02-25
 - [Nyborggaard](http://nyborggaard.dk/)
 - [Rødbakkegård](http://roedbakkegaard.dk/)
 - [HUSK Products](http://husk.dk/)
-- [Naturli'](http://www.naturli-foods.dk/)
+
 
 ## Er du interesseret i et samarbejde?
 
