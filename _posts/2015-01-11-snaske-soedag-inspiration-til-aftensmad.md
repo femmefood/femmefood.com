@@ -11,7 +11,7 @@ I aften har vi lyst til noget snasket! Valget står mellem pizza eller burger! H
 
 
 
-1. Bud er pizza med mango, som er en lækker pizza med sprødbund og fyldet er "hvad du har i køleskabet". Vi er vilde med mango i stedet for den traditionelle ananas :) Linket til opskriften er [her](http://www.femmefood.com/2014/05/pizza-med-mango/).
+1. Bud er pizza med mango, som er en lækker pizza med sprødbund og fyldet er "hvad du har i køleskabet". Vi er vilde med mango i stedet for den traditionelle ananas :) Opskriften er [her](http://www.femmefood.com/2014/05/pizza-med-mango/).
 ![Pizza med mango](https://farm8.staticflickr.com/7452/14155698506_fee94dcf00_z.jpg) 
 
 
