@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snaske-søndag - inspiration til aftensmas!
+title: Snaske-søndag - inspiration til aftensmad!
 image: https://farm6.staticflickr.com/5015/13982416886_19b4e5d3e6_n.jpg
 date: 2015-01-11 14:55
 categories:
