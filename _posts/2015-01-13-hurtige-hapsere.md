@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hurtige hapsere!
-image: https://farm8.staticflickr.com/7385/14191101111_7061107a00_n.jpg
+image: https://farm9.staticflickr.com/8594/15649206624_6ed34b7302_n.jpg
 date: 2015-01-13 13:30
 categories:
 - Blogpost
