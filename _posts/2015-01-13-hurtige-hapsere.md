@@ -19,6 +19,6 @@ Vi har samlet vores tre bedste hapsere! De er både nemme og hurtige at lave, og
 (http://www.femmefood.com/2014/04/hamp-proteinbar-med-cacao-og-pistacie/).  
 ![hampeproteinbarer](https://farm6.staticflickr.com/5489/13665535023_948d0c03d1_z.jpg) 
 
-3. Rødbede/lakrids rawkugler er god for lakridselskere! Kombinationen af rødbedesnuller og lakrids gør dem ekstra delikate. Jeg er fan! Opskriften finder du [her](http://www.femmefood.com/2014/03/roedbede-lakrids-rawkugler/).   
+3. Rødbede/lakrids rawkugler er gode for lakridselskere! Kombinationen af rødbedesnuller og lakrids gør dem ekstra delikate. Jeg er fan! Opskriften finder du [her](http://www.femmefood.com/2014/03/roedbede-lakrids-rawkugler/).   
 ![Rødbede/lakrids rawkugler](https://farm8.staticflickr.com/7341/12928899353_f8d6e9d9ca_o.png) 
 
