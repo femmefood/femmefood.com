@@ -7,8 +7,7 @@ categories:
 - Blogpost
 
 ---
-I aften har vi lyst til noget snasket! Valget står mellem pizza eller burger! Hvad skal I have at spise til aften?  Hvis I ikke har fundet ud af det endnu, giver vi tre bud :) Vores pizza med mango, lakseburger med avokadomajo eller en traditionel burger med gedeost!
-
+I aften har vi lyst til noget snasket! Valget står mellem pizza eller burger! Hvad skal I have at spise til aften? Hvis I ikke har fundet ud af det endnu, giver vi tre bud :) Vores pizza med mango, lakseburger med avokadomajo eller en traditionel burger med gedeost!
 
 
 1. Bud er pizza med mango, som er en lækker pizza med sprød bund og fyldet er "hvad du har i køleskabet". Vi er vilde med mango i stedet for den traditionelle ananas :) Opskriften er [her](http://www.femmefood.com/2014/05/pizza-med-mango/).

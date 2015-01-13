@@ -39,7 +39,7 @@ Vi var i den lokale helsekost-butik i går, hvor vi stødte på hampeproteinpulv
 - 2 spsk. kakaopulver
 - 1 dl kokosmel
 - 1 tsk. vaniljepulver
-- 6 spsk. hampeproteinpulver (vi brugte [denne](http://www.nyborggaard.dk/group.asp?group=14))
+- 4 spsk. hampeproteinpulver (vi brugte [denne](http://www.nyborggaard.dk/group.asp?group=14))
 - Pistacienødder
 
 
