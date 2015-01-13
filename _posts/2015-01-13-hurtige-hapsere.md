@@ -11,7 +11,7 @@ Vi har samlet vores tre bedste hapsere! De er både nemme og hurtige at lave, og
  
 
 
-1. Romkugler! De består kun af fire ingredienser: mandler, dadler, romessens og kakao. Det er mine favoritter - dem bliver jeg aldrig træt af! Jeg varierer krymmelet, men min yndlingskrymmel er blendet kokosmel og frysetørrede bær. Du kan finde opskriften på dem lige [her](http://www.femmefood.com/2014/05/rom-troefler/).
+1. Romkugler! De består kun af fire ingredienser: mandler, dadler, romessens og kakao. Det er mine favoritter - dem bliver jeg aldrig træt af! Jeg varierer krymmelet, men min yndlingskrymmel er blendet kokosmel og frysetørrede bær. Opskriften findes [her](http://www.femmefood.com/2014/05/rom-troefler/).
 ![Romkugler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg) 
 
 
