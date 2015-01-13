@@ -23,7 +23,7 @@ Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på 
 ![Romtrøfler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
 
 
-## Romtrøfler (10 små trøfler)
+## Romtrøfler (20 små trøfler)
 - 2 dl mandler (med skal)
 - 10 dadler (uden sten)
 - 4 tsk. romessens
