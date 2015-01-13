@@ -32,7 +32,7 @@ Vi var i den lokale helsekost-butik i går, hvor vi stødte på hampeproteinpulv
 
 
 
-## Hamp-proteinbarer med pistacie og cacao (6 styk)
+## Hamp-proteinbarer med pistacie og cacao (9 styk)
 
 - 10 dadler
 - 2 dl mandler
