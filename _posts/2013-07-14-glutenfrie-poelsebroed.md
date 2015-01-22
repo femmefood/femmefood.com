@@ -45,18 +45,19 @@ sennep](/2013/07/basic-1-hjemmelavet-ketchup-med-og-uden-sennep/).
 - 1 dl. sojayoghurt
 - 2 dl. majsmel
 - 2 dl.boghvedemel
-- 12 pølser
+- 6 store pølser eller 12 små
 - 1 æg
 - Sesamfrø
 
 ### Tilberedning
-1. Bland gær, vand, salt, olie og FiberHUSK i en skål.
-2. Bland yoghurt og grynene i.
-3. Kom melet i lidt efter lidt og ælt det sammen med hænderne til en ensartet
+1. Halvér først pølserne, så der bliver 12 stykker.
+2. Bland gær, vand, salt, olie og FiberHUSK i en skål.
+3. Bland yoghurt og boghvedegrynene i.
+4. Kom melet i lidt efter lidt og ælt det sammen med hænderne til en ensartet
    masse. (Bonusinfo: dejen er klistret)
-4. Find pølserne frem fra køleskabet og form dejen rundt om. Lad de nylavede
-   pølsebrød hæve i 30 min.
-5. Pisk ægget i en lille skål og pensél pølsebrødene på toppen og drys lidt
+5. Tag et pølsestykke og form dejen rundt om. 
+6. Lad de nylavede pølsebrød hæve i 30 min.
+7. Pisk ægget i en lille skål og pensél pølsebrødene på toppen og drys lidt
    sesamfrø på.
 6. Indstil ovnen på 180C og bag pølsebrødene i 20-25 min.
 
