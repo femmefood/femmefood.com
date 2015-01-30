@@ -27,7 +27,7 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 
 ## Glutenfri gulerodsboller
 - 5 dl. vand
-- 1/2 dl. loppefrøskaller (HUSK) svarer til 1/4 dl. FIberHUSK
+- 1/2 dl. loppefrøskaller (HUSK) svarer til 1/4 dl. FiberHUSK
 - 1-1 1/2 tsk. saltflager
 - 4 dl. glutenfri havregryn
 - 2 dl. gulerødder (svarer ca. til 2 mellemstore gulerødder)
