@@ -25,7 +25,7 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 ![Glutenfri gulerodsboller](https://farm4.staticflickr.com/3908/15179318951_9bd36086b2_z.jpg) 
 
 
-## Glutenfri gulerodsboller
+## Glutenfri gulerodsboller (9 stk.)
 - 5 dl. vand
 - 1/2 dl. loppefrøskaller (HUSK) svarer til 1/4 dl. FiberHUSK
 - 1-1 1/2 tsk. saltflager
@@ -38,7 +38,7 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 
 
 ### Tilberedning
-1. Riv gulerødderne, kom bagestenen ind i bunden af ovnen og tænd den på 250C.
+1. Riv gulerødderne, kom bagestenen ind i bunden af ovnen og tænd den på 250C, hvis ikke du har en bagesten. skal ovnen indstilles på 210C.
 2. Kom vand og loppefrøskaller i en skål og rør det rundt. Lad det trække i 10 min.
 3. Pisk den gelérede masse og tilsæt salt. Rør derefter rundt.
 4. Tilsæt havregryn og rør rundt.
@@ -46,10 +46,10 @@ Det var en spændende, sjov og lidt grænseoverskridende oplevelse, når vi norm
 7. Tilsæt fuldkornsrismel og rør rundt.
 8. Kom bagepapir på en bageplade.
 9. Form bollerne med en stor ske, som var det en frikadellefars, og kom de færdiglavede boller på bagepladen. Obs.: Dejen er klistret!
-10. Sæt bollerne ind på bagestenen, og bag dem i 30 min.
+10. Sæt bollerne ind på bagestenen, og bag dem i 30 min eller ved 35 min uden bagesten.
 
 
-###Tip: Hvis du ikke har en bagesten, så kan bollerne bages i alm. ovn ved 210C i 35 min. :)
+
 
 
 
