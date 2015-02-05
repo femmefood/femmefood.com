@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title: Lagsagne med søde kartofler
+title: Lasagne med søde kartofler
 image: https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_n.jpg
 date: 2014-07-13 23:40
 tags:
-- Sød-kartoffel
+- Sød kartoffel
 - Oksekød
 - Løg
 - Tomater
@@ -21,13 +21,13 @@ categories:
 
 ---
 
-Vi har her til aften fået lagsagne! Vi har skiftet lagsagnepladerne ud med søde kartofler. Mmmh. Det må jeg sige blev rigtig lækkert! Jeg læste en artikel om, at kartofler bliver nedprioriteret til fordel for pasta og ris! Det synes vi er synd og skam! Så det har vi prøvet at lave om på med denne sød kartoffel-lagsagne. Jeg har så efterfølgende fundet ud af, at søde kartofler slet ikke er med i kartoffelfamilien. :)
+Vi har her til aften fået lasagne! Vi har skiftet lagsagnepladerne ud med søde kartofler. Mmmh. Det må jeg sige blev rigtig lækkert! Jeg læste en artikel om, at kartofler bliver nedprioriteret til fordel for pasta og ris! Det synes vi er synd og skam! Så det har vi prøvet at lave om på med denne sød kartoffel-lasagne. Jeg har så efterfølgende fundet ud af, at søde kartofler slet ikke er med i kartoffelfamilien. :)
 
 
-![Lagsagne med søde kartofler](https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_z.jpg)
+![Lasagne med søde kartofler](https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_z.jpg)
 
 
-## Lagsagne med søde kartofler 
+## Lasagne med søde kartofler 
 - 3 store søde kartofler
 - 600 g hakket oksekød
 - 1 stort eller 2 små alm. løg
@@ -38,7 +38,7 @@ Vi har her til aften fået lagsagne! Vi har skiftet lagsagnepladerne ud med sød
 - 4 fed hvidløg
 - 1 spsk. merian
 - 1 tsk. timian
-- 1 l. sojamælk uden sukker
+- 200 ml. sojamælk uden sukker
 - Salt
 - Peber
 
@@ -55,7 +55,7 @@ Vi har her til aften fået lagsagne! Vi har skiftet lagsagnepladerne ud med sød
 8. Læg en bund af de skivede søde kartofler i et ildfast fad.
 9. Kom et lag kødsauce på og hæld lidt sojamælk over.
 10. Brug samme fremgangsmåde og slut af med et lag søde kartofler. 
-11. Sæt lagsagnen ind i ovnen og bag den i 40 min.
+11. Sæt lasagnen ind i ovnen og bag den i 40 min.
 
 
 
