@@ -56,11 +56,12 @@ Jeg er vild med wok! Det er så nemt og hurtigt at lave + så smager det forband
 3. Krydr kyllingefileterne med salt og peber.
 4. Kom olie i wok'en og steg kyllingerne, når wok'en er varm.
 5. Tag kyllingerne op og læg dem på en tallerken med sølvpapir over.
-6. Kom lidt olie i wok'en og lynsteg gulerødder, squash og campignonerne.
-7. Tilsæt woksaucen bestående af kokosmælk, hakkede tomater samt rød og grøn karrypasta og skrue dernæst wok'en ned på lavt blus.
-8. Kom vand i en gryde og tilsæt grøntsagsbouillon. Bring vandet i kog.
-9. Når vandet koger tilsættes risnudlerne. Skrue ned for varmen og lad nudlerne koge i et par minutter.
-10. Tilsæt tilsidst kyllingefileterne og cherrytomaterne til wok'en og lad dem være i wok'en et par minutter inden servering.
+6. Kom lidt olie i wok'en og lynsteg gulerødder, squash og campignoner.
+7. Tilsæt woksaucen bestående af kokosmælk, hakkede tomater samt rød og grøn karrypasta og rør rundt til det bliver en ensartet masse. 
+8. Skrue dernæst wok'en ned på lavt blus.
+9. Kom vand i en gryde og tilsæt grøntsagsbouillon. Bring vandet i kog.
+10. Når vandet koger tilsættes risnudlerne. Skrue ned for varmen og lad nudlerne koge i et par minutter.
+11. Tilsæt tilsidst kyllingefileterne og cherrytomaterne til wok'en og lad dem være i wok'en et par minutter inden servering.
 
 
 
