@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vores tre bedste opskrifter på glutenfrie boller!
-image: https://farm9.staticflickr.com/8657/16304180219_1504bb2244_n.jpg
+title: Vores 3 bedste opskrifter på glutenfrie boller!
+image: https://farm8.staticflickr.com/7421/16304279730_66eacfa943_n.jpg
 date: 2015-02-10 10:40
 categories:
 - Blogpost
