@@ -25,7 +25,7 @@ categories:
 Mmmmh... dem her må du bare prøve! Disse fine rugbrødsmuffins er et super
 alternativ til den traditionelle muffin. Her får du stillet lækkersulten med en
 fantastisk smag af nødder og mørk chokolade, men samtidig får du masser af
-kerner og frø. Alt sammen helt uden laktose og gluten :)
+kerner og frø. Alt sammen helt uden mælk og gluten :)
 
 ![Rålækre rugbrødsmuffins](http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f.jpg)
 
@@ -33,8 +33,8 @@ kerner og frø. Alt sammen helt uden laktose og gluten :)
 ## Rålækre rugbrødsmuffins
 - 5 æg
 - 1 dl olie
-- 1,5 spsk. saltflager 
-- 2 spsk. FiberHUSK
+- 1,5 tsk. saltflager 
+- 2 spsk. FiberHUSK (pulveriserede loppefrøskaller) eller 4 spsk. HUSK (hele loppefrøskaller)
 - 3 gulerødder
 - 1 dl. græskarkerner 
 - 1 dl. solsikkekerner
@@ -42,7 +42,7 @@ kerner og frø. Alt sammen helt uden laktose og gluten :)
 - 1 dl. sesamfrø
 - 1 dl. chiafrø
 - 1 dl. hasselnødder 
-- 1 plade 72% mørk chokolade
+- 1 plade 72% mørk chokolade (200 t)
 
 ### Tilberedning
 1. Start med at tænde ovnen på 160C.
