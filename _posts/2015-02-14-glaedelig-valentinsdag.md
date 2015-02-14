@@ -25,8 +25,8 @@ Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes
 - 1 dl. solsikkekerner
 - 1 dl. hørfrø
 - 1 dl. sesamfrø
-- 1 dl. chiafrø
-- 1 dl. hasselnødder 
+- 1 dl. chiafrø 
+- 1 dl. hasselnødder 
 - 1 plade 72% mørk chokolade (200 g)
 
 ### Tilberedning
