@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glædelig valentinsdag!
+title: Glædelig valentinsdag! ♥
 image: http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f_n.jpg
 date: 2015-02-14 17:30
 categories:
@@ -8,7 +8,7 @@ categories:
 
 ---
 
-Glædelig valentinsdag! Nogle elsker denne dag og nogle hader den! Jeg synes tanken om at forkæle én, som man holder af, er fantastisk, men dette kunne også ske 364 andre dage om året. Jeg tror bare mange glemmer det i hverdagen, så er det godt lige at blive mindet om :) Vi er hoppet i det lyserøde tema og bagt choko-rugbrødsmuffins. Navnet er lidt misvisende, da muffinsene aldrig har set skyggen af rug, men vi synes smagen minder os om rugbrød, så deraf navnet :)
+Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes tanken om at forkæle én, som man holder af, er fantastisk, men dette kunne også ske 364 andre dage om året. Jeg tror bare mange glemmer det i hverdagen, så er det godt lige at blive mindet om :) Vi er hoppet i det lyserøde tema og bagt choko-rugbrødsmuffins. Navnet er lidt misvisende, da muffinsene aldrig har set skyggen af rug, men vi synes smagen minder os om rugbrød, så deraf navnet :)
 
 
 
