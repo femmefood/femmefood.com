@@ -8,7 +8,7 @@ categories:
 
 ---
 
-Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes tanken om at forkæle én, som man holder af, er fantastisk, men dette kunne også ske 364 andre dage om året. Jeg tror bare mange glemmer det i hverdagen, så er det godt lige at blive mindet om :) Vi er hoppet i det lyserøde tema og bagt choko-rugbrødsmuffins. Navnet er lidt misvisende, da muffinsene aldrig har set skyggen af rug, men vi synes smagen minder os om rugbrød, så deraf navnet :)
+Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes tanken om at forkæle én, som man holder af, er fantastisk, men dette kunne også ske 364 andre dage om året. Jeg tror bare mange glemmer det i hverdagen, så er det godt lige at blive mindet om det :) Vi er hoppet i det lyserøde tema og bagt choko-rugbrødsmuffins. Navnet er lidt misvisende, da muffinsene aldrig har set skyggen af rug, men vi synes smagen minder os om rugbrød, så deraf navnet :)
 
 
 
