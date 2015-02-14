@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glædelig valentinsdag!
-image: https://farm8.staticflickr.com/7421/16304279730_66eacfa943_n.jpg
+image: http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f_n.jpg
 date: 2015-02-14 17:30
 categories:
 - Blogpost
