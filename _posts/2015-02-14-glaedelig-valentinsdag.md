@@ -27,7 +27,7 @@ Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes
 - 1 dl. sesamfrø
 - 1 dl. chiafrø 
 - 1 dl. hasselnødder 
-- 1 plade 72% mørk chokolade (200 g)
+- 1 plade 72% mørk chokolade (100 g)
 
 ### Tilberedning
 1. Start med at tænde ovnen på 160C.
