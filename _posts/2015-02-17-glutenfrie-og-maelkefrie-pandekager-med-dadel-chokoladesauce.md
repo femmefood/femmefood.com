@@ -40,7 +40,7 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 - 8 friske dadler 
 - 1,5 spsk. kakaopulver 
 - 1,5 dl. vand 
-- minihakker
+- Minihakker
 
 1. Pil stenene ud af de friske dadler.
 2. Kom alle ingredienser i en minihakker. Hak til det er en ensartet masse. Tilsæt evt. mere vand for at få en mere flydende konsistens. 
