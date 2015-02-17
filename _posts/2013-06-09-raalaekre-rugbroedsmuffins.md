@@ -30,7 +30,7 @@ kerner og frø. Alt sammen helt uden mælk og gluten :)
 ![Rålækre rugbrødsmuffins](http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f.jpg)
 
 
-## Rålækre rugbrødsmuffins
+## Rålækre rugbrødsmuffins (20 stk.)
 - 5 æg
 - 1 dl olie
 - 1,5 tsk. saltflager 

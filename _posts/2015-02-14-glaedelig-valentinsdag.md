@@ -15,7 +15,7 @@ Glædelig valentinsdag! ♥ Nogle elsker denne dag og nogle hader den! Jeg synes
 ![Choko-rugbrødsmuffins](http://farm8.staticflickr.com/7416/12658622483_8bbabb3f8f.jpg)
 
 
-## Choko-rugbrødsmuffins
+## Choko-rugbrødsmuffins (20 stk.)
 - 5 æg
 - 1 dl olie
 - 1,5 tsk. saltflager 
