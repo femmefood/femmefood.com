@@ -23,7 +23,7 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 ![Glutenfrie og mælkefrie pandekager med dadel-chokoladesauce](https://farm8.staticflickr.com/7460/15918783394_b792247026_z.jpg) 
 
 
-## Glutenfrie og mælkefrie pandekager (12 stk)
+## Glutenfrie og mælkefrie pandekager (12 stk.)
 - 4 dl rismel
 - 4 æg
 - 1 tsk. salt
