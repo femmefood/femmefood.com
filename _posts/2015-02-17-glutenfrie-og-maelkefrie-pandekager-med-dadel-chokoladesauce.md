@@ -18,7 +18,7 @@ categories:
 
 
 ---
-International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig indenfor min top 5 af ynglingsspise! Vi har været i gang med at lave en gluten- og mælkefri version af pandekager, og det må siges, at de blev ret så lækre! Vi har spist dem med dadel-chokoladesauce, blåbær og jordbær. Nammenam siger jeg bare! :)
+International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig indenfor min top 5 af ynglingsspise! Vi har været i gang med at lave en glutenfri og mælkefri version af pandekager, og det må siges, at de blev ret så lækre! Vi har spist dem med dadel-chokoladesauce, blåbær og jordbær. Nammenam siger jeg bare! :)
 
 ![Glutenfrie og mælkefrie pandekager med dadel-chokoladesauce](https://farm8.staticflickr.com/7460/15918783394_b792247026_z.jpg) 
 
