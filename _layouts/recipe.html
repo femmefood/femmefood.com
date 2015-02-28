@@ -28,7 +28,7 @@ layout: sidebar
   <p class="meta text-muted">Ingredienser: {{ page.tags | array_to_sentence_string | replace: ', and ', ' og ' | replace: ' and ', ' og ' }}</p>
   {% include social.html %}
   <div id="disqus_thread"></div>
-  <script type="text/javascript">
+  <script async>
   var disqus_shortname = '{{ site.disqus }}';
   (function() {
   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
