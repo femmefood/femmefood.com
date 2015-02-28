@@ -31,8 +31,13 @@ a:active {color:#54b7c0;}
 
 .navbar-brand  {
   height: 45px;
-  margin-top: 30px;
+/*  margin-top: 30px;*/
 }
+
+.navbar-brand img {
+  display: inline;
+}
+
 
 .navbar {
   border-radius: 0px;
