@@ -24,20 +24,10 @@ a:active {color:#54b7c0;}
   color: #efefef;
   font-size: 1em;
 }
-.navbar-inverse .navbar-brand {
-  color: #efefef;
-  font-size: 3.5em;
-}
 
 .navbar-brand  {
-  height: 45px;
-/*  margin-top: 30px;*/
+  margin-top: -9px;
 }
-
-.navbar-brand img {
-  display: inline;
-}
-
 
 .navbar {
   border-radius: 0px;
@@ -79,6 +69,7 @@ a:active {color:#54b7c0;}
 body {
   font-family: 'Josefin Sans', sans-serif;
   color: #222;
+  padding-top: 50px;
 }
 
 h1, .h1,
@@ -114,8 +105,9 @@ h6, .h6 {
 #dynaflex figure img { 
   width: 100%; height: auto; 
 }
-
+/*
 @media screen and (max-width: 500px) {
   div#dynaflex { height: 200vw; }
   div#dynaflex img { width: 50%; }
 }
+*/
