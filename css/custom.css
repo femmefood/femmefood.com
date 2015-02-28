@@ -91,16 +91,22 @@ h6, .h6 {
   height: 250px;
 }
 
-#dynaflex { 
+#dynaflex {
+  display: -webkit-flex;
   display: flex;
   font-size: 0;
+  -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   max-width: 1200px;
   margin: 0 auto;
 }
 #dynaflex figure { 
-  margin: 0; min-width: 320px; max-width: 400px;
-  flex: 0.67; transition: .5s;
+  margin: 0;
+  min-width: 320px;
+  max-width: 400px;
+  -webkit-flex: 1 1 auto;
+  flex: 1;
+  transition: .5s;
 }
 #dynaflex figure img { 
   width: 100%; height: auto; 
