@@ -8,13 +8,17 @@ tags:
 - Laktosefri
 - Sukkerfri
 ---
-<div id="home">
+<div id="dynaflex">
   {% for post in site.categories.opskrift %}
+  <figure>
   <a href="{{ post.url }}" title="{{ post.title }}">
-    <img src="{{ post.image }}" alt="{{ post.title }}"/>
+    <img src="/images/spinner.gif "data-src="{{ post.image }}" alt="{{ post.title }}"/>
   </a>
+  </figure>
   {% endfor %}
 </div>
 <script>
-$("#home").justifiedGallery({'rowHeight':320});
+  $(document).ready(function() {
+      $("img").unveil();
+  });
 </script>

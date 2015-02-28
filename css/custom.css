@@ -94,3 +94,18 @@ h6, .h6 {
   border-top: 1px solid #e5e5e5;
   height: 250px;
 }
+
+#dynaflex { 
+  display: flex;
+  font-size: 0;
+  flex-flow: row wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+#dynaflex figure { 
+  margin: 0; min-width: 320px;
+  flex: 0.67; transition: .5s;
+}
+#dynaflex figure img { 
+  width: 100%; height: auto; 
+}
