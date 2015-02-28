@@ -12,7 +12,7 @@ tags:
   {% for post in site.categories.opskrift %}
   <figure>
   <a href="{{ post.url }}" title="{{ post.title }}">
-    <img src="/images/spinner.gif "data-src="{{ post.image }}" alt="{{ post.title }}"/>
+    <img src="/images/spinner.gif" data-src="{{ post.image }}" alt="{{ post.title }}" data-src-retina="{{ post.image | replace:'_n.jpg','_z.jpg' }}"/>
   </a>
   </figure>
   {% endfor %}

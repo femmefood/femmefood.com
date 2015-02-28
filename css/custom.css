@@ -99,13 +99,18 @@ h6, .h6 {
   display: flex;
   font-size: 0;
   flex-flow: row wrap;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 #dynaflex figure { 
-  margin: 0; min-width: 320px;
+  margin: 0; min-width: 320px; max-width: 400px;
   flex: 0.67; transition: .5s;
 }
 #dynaflex figure img { 
   width: 100%; height: auto; 
+}
+
+@media screen and (max-width: 500px) {
+  div#dynaflex { height: 200vw; }
+  div#dynaflex img { width: 50%; }
 }
