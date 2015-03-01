@@ -111,9 +111,13 @@ h6, .h6 {
 #dynaflex figure img { 
   width: 100%; height: auto; 
 }
-/*
-@media screen and (max-width: 500px) {
-  div#dynaflex { height: 200vw; }
-  div#dynaflex img { width: 50%; }
+
+@media screen and (max-width: 665px) {
+  #dynaflex figure { min-width: 213px; }
+  .container {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  /*#dynaflex img { width: 50%; }*/
 }
-*/
+
