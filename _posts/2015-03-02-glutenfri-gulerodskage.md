@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glutenfri gulerodskage
-image: https://farm4.staticflickr.com/3777/12658969424_2532f0b029_n.jpg
+image: https://farm8.staticflickr.com/7177/14113350352_b74a01707c_n.jpg
 date: 2015-03-02 18:35
 categories:
 - Blogpost
