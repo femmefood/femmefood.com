@@ -8,7 +8,7 @@ categories:
 
 ---
 
-Vi har bagt kage i det triste vejr! Ommenom hvor smager den bare godt! Vi havde alle ingredienserne til gulerodskage! Så det blev det :) Den er lækker, lækker svampet, og så er jeg vild med dens smag! Har I også hygget med lidt sødt i det triste vejr? :) Vi har lavet to slags overtræk til kage - én med og uden mælk. Det ene er frosting og det andet er glasur.
+Vi har bagt kage i det triste vejr! Ommenom hvor smager den bare godt! Vi havde alle ingredienserne til gulerodskage! Så det blev det :) Den er lækker, lækker svampet, og så er jeg vild med dens smag! Har I også hygget med lidt sødt i det triste vejr? :) Vi har lavet to slags overtræk til kagen - én med og uden mælk. Det ene er frosting og det andet er glasur.
 
 
 
