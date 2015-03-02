@@ -27,7 +27,7 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 - 4 dl rismel
 - 4 æg
 - 1 tsk. salt
-- 1,5 dl. sukrin eller sukrinmelis
+- 1,5 dl. sukrinmelis
 - 2 tsk. vaniljepulver
 - 1 dl. rapsolie
 - 4 dl. rismælk
