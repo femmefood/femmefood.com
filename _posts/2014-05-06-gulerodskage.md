@@ -20,7 +20,7 @@ categories:
 - Sødt
 ---
 
-Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selskab. Så her til aften lavede vi en god kage-klassiker nemlig en gulerodskage med frosting. Det der skiller den lidt ud fra klassikeren er, at den er glutenfri + den er blevet pyntet med de fineste, spiselig blomster. De spiselige blomster er vores mor kommet med fra hendes have. Det er friske stedmoderblomster og violer samt tørrede mælkebøtter. Jeg synes virkelig, at kagen blev flot med de fine blomster, og samtidig smagte den vanvittig godt! Den er nemlig lækker svampet!
+Herhjemme elsker vi bare at hygge og især med en sød, lille sag i vores selskab. Så her til aften lavede vi en god kage-klassiker nemlig en gulerodskage med frosting. Det der skiller den lidt ud fra klassikeren er, at den er glutenfri + den er blevet pyntet med de fineste, spiselig blomster. De spiselige blomster er vores mor kommet med fra hendes have. Det er friske stedmoderblomster og violer samt tørrede mælkebøtter. Jeg synes virkelig, at kagen blev flot med de fine blomster, og samtidig smagte den vanvittig godt! Den er nemlig lækker svampet!
 
 ![Gulerodskage](https://farm8.staticflickr.com/7177/14113350352_b74a01707c_z.jpg)
 
@@ -36,7 +36,7 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 - 4 revne gulerødder
 - 1/2 dl vand
 - 2 dl olivenolie
-- 2 tsk. [FiberHUSK](http://husk.dk/)
+- 2 tsk. 2 tsk. pulveriserede loppefrøskaller ([FiberHUSK](http://husk.dk/)) eller 4 tsk. hele loppefrøskaller ([HUSK](http://husk.dk/)) 
 - 1 tsk. bagepulver
 - 3 tsk. kanel
 - 2 tsk. kardemomme
@@ -48,13 +48,13 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 
 ### Tilberedning
 1. Kom æg og sukker i en skål og pisk det sammen. 
-2. Tilsæt vand, olivenolie, FiberHUSK, bagepulver, kanel, kardemomme samt revet citronskal til blandingen. 
+2. Tilsæt vand, olivenolie, loppefrøskaller, bagepulver, kanel, kardemomme samt revet citronskal til blandingen. 
 3. Blend solsikkekerner og havregryn og kom det i blandingen. 
 4. Tilsæt mandelmel samt de revne gulerødder.
 5. Kom dejen i en springform smurt med olie.
 6. Indstil ovnen på 180C og bag kagen i 35-40 min.
 
-## Frosting
+## Frosting (med mælkeprodukter)
 - 1 pk. flødeost (ged eller ko)
 - 1 dl flormelis
 - Saften fra en halv citron
@@ -65,7 +65,14 @@ Herhjemme elsker vi bare at hygge og i sær med en sød, lille sag i vores selsk
 1. Skær flødeosten i mindre stykker og kom i en skål
 2. Tilsæt flormelis og citronsaft og rør rundt.
 
+## Glasur (uden mælkeprodukter)
+- 1 dl flormelis
+- Vand
 
+
+
+### Tilberedning
+1. Kom flormelis i en skål og tilsæt vand lidt efter lidt, indtil glasuren har den rette konsistens.
 
 
 
