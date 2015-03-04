@@ -8,7 +8,7 @@ categories:
 
 ---
 
-Hej alle jer søde læsere :) Vi er så taknemmelige for, at I vil følge med! Vi vil lige tippe jer om, at vi også er på Instagram under navnet femmefood eller klik [her](https://instagram.com/femmefood/). Jeg er selv stor fan af Instagram. Jeg synes, at det er hyggeligt at scrole Instagram igennem for nye billeder lige inden, at jeg står op :) 
+Hej alle jer søde læsere :) Vi er så taknemmelige for, at I vil følge med! Vi vil lige tippe jer om, at vi også er på Instagram under navnet femmefood eller klik [her](https://instagram.com/femmefood/). Jeg er selv stor fan af Instagram. Jeg synes, at det er hyggeligt at scrolle Instagram igennem for nye billeder lige inden, at jeg står op :) 
 
 P.s. I må også meget gerne give os gode råd om, hvis der er nogle, som vi bare må følge :)
 
