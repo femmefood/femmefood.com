@@ -47,7 +47,7 @@ Sikke et skønt søndagsvejr! Det er jo lige til at blive glad i låget af. Vi h
 - 3 spsk. kakaopulver 
 - 1/2 dl. mandelmel
 
-###Tilbehør
+###Udstyr
 - Stor minihakker 
 - Skærebræt eller stor metalform, som kan komme i køleskabet
 
