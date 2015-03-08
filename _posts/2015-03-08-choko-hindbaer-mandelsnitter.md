@@ -59,7 +59,7 @@ Lag 1 - bunden:
 
 Lag 2 - midterste lag:
 1. Kom alle ingredienser i en stor minihakker og hak til det er en ensartet masse.
-2. Tag skærebrættet eller metalformen ud af køleskabet. Spred det midterste lag ovenpå bunden. Laget skal være omkring 1-1,5 cm. Stil skærebrættet eller metalformen i køleskabet igen.
+2. Tag skærebrættet eller metalformen ud af køleskabet. Spred det midterste lag ovenpå bunden. Laget skal være omkring 1 cm. Stil skærebrættet eller metalformen i køleskabet igen.
 
 Lag 3 - toppen:
 1. Kom alle ingredienser i en stor minihakker og hak til det er en ensartet masse.
