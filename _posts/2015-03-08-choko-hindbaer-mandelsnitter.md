@@ -26,13 +26,13 @@ Sikke et skønt søndagsvejr! Det er jo lige til at blive glad i låget af. Vi h
 
 ## Choko-hindbær-mandelsnitter
 
-Bund 
+###Bund 
 - 1 dl mandler
 - 1 dl medjool dadler uden sten
 - 1/4 tsk. salt 
 
 
-Midterste lag
+###Midterste lag
 - 1 dl hindbær
 - 1 dl cashewnødder
 - 1 dl havremel
@@ -41,13 +41,13 @@ Midterste lag
 
 
 
-Top 
+###Top 
 - 3 spsk. smeltet kokosolie 
 - 3 spsk. agavesirup 
 - 3 spsk. kakaopulver 
 - 1/2 dl. mandelmel
 
-Tilbehør
+###Tilbehør
 - Stor minihakker 
 - Skærebræt eller stor metalform, som kan komme i køleskabet
 
