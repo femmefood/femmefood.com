@@ -19,7 +19,7 @@ categories:
 
 
 ---
-Sikke et skønt søndagsvejr! Det er jo lige til at blive glad i låget af. Vi har været i gang med at lave søde, små snitter. Mmmh de er bare uimodståelige lækre! Jeg er helt oppe at køre over den 3 i 1 smagsoplevelse, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)   
+Sikke et skønt søndagsvejr! Det er jo lige til at blive glad i låget af. Vi har været i gang med at lave små, søde snitter. Mmmh de er bare uimodståelige lækre! Jeg er helt oppe at køre over den 3 i 1 smagsoplevelse, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)   
 
 ![Choko-hindbær-mandelsnitter](https://farm9.staticflickr.com/8670/16096936353_aebc4d23a8_z.jpg) 
 
