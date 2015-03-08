@@ -52,16 +52,16 @@ Sikke et skønt søndagsvejr! Det er jo lige til at blive glad i låget af. Vi h
 - Skærebræt eller stor metalform, som kan komme i køleskabet
 
 ### Tilberedning
-Lag 1 - bunden:
+####Lag 1 - bunden:
 1. Kom mandlerne i en stor minihakker og hak til de er mindre stykker. Kom dernæst dadler og salt i og hak til det er en ensartet masse.
 2. Spred massen ud på et skærebræt eller stor metalform med bagepapir. Laget skal være ca. 1 cm.
 3. Stil det i køleskabet.
 
-Lag 2 - midterste lag:
+####Lag 2 - midterste lag:
 1. Kom alle ingredienser i en stor minihakker og hak til det er en ensartet masse.
 2. Tag skærebrættet eller metalformen ud af køleskabet. Spred det midterste lag ovenpå bunden. Laget skal være omkring 1 cm. Stil skærebrættet eller metalformen i køleskabet igen.
 
-Lag 3 - toppen:
+####Lag 3 - toppen:
 1. Kom alle ingredienser i en stor minihakker og hak til det er en ensartet masse.
 2. Tag skærebrættet eller metalformen ud af køleskabet. Spred det øverste lag ovenpå det midterste. Laget skal være omkring 1 cm. Stil skærebrættet eller metalformen i køleskabet igen i min. 1 time.
 3. Tag massen ud af køleskabet og skær den i små, firkantede stykker.
