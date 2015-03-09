@@ -38,7 +38,7 @@ lækkert resultat, og jeg er især forelsket i advokadomajo'en!
 
 ## Avokadomajo
 - 2 avokadoer
-- 4 spsk. hjemmerørt hvidløgsmajo ([Femme Foods hjemmerørte hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/))
+- 4 spsk. hjemmerørt hvidløgsmajo ([Femme Foods hjemmerørte hvidløgsmajo](/2013/06/hjemmeroert-hvidloegsmajo-med-ovnbagte-fritter/)) eller mayonaise 
 - 3 fed hvidløg (kan undlades, da der er hvidløg i majo'en, men bliver lidt ekstra stærk)
 - 1 chili (vi brugte en 1/4 chili)
 - 1 citron
