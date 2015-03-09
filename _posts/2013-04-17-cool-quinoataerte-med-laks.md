@@ -32,10 +32,10 @@ ynglings grøntsager og kød.
 
 ## Quinoatærte
 
+- 1,5 dl quinoa
 - 4 gulerødder
 - 1/2 porre
 - 1/2 rødløg
-- 1.5 dl quinoa
 - 2 æg
 - 7 spsk. sojayoghurt
 - 1 spsk. olivenolie
@@ -47,13 +47,14 @@ ynglings grøntsager og kød.
 ### Tilberedning
 
 1. Sæt ovnen til 180°C.
-2. Skræl gulerødder og løg. Hak løget og skær porren ud i mindre stykker. Skræl gulerødderne helt med kartoffelskrælleren.
-3. Kom quinoa i en minihakker og tilsæt lidt vand. Hak i et par minutter.
-4. Skær 2 skiver laks ud i mindre stykker.
-5. Bland æg, sojayoghurt, olivenolie, bagepulver, salt og de hakkede løg i en skål. Tilsæt quinoa'en til blandingen.
-6. Hæld blandingen over i et tærtefad. Kom porre, gulerødder og laks på.
-7. Sæt tærten ind i den forvarmede ovn og bag den i 30 min.
-8. Når tærten er færdig, pyntes den med de sidste skiver laks og evt. lidt kørvel.
+2. Hæld quinoa'en over i en gryde og kog til de kogte.
+3. Skræl gulerødder og løg. Hak løget og skær porren ud i mindre stykker. Skræl gulerødderne helt med kartoffelskrælleren.
+4. Kom quinoa i en minihakker og tilsæt lidt vand. Hak i et par minutter.
+5. Skær 2 skiver laks ud i mindre stykker.
+6. Bland æg, sojayoghurt, olivenolie, bagepulver, salt og de hakkede løg i en skål. Tilsæt quinoa'en til blandingen.
+7. Hæld blandingen over i et tærtefad. Kom porre, gulerødder og laks på.
+8. Sæt tærten ind i den forvarmede ovn og bag den i 30 min.
+9. Når tærten er færdig, pyntes den med de sidste skiver laks og evt. lidt kørvel.
 
 Velbekomme ;-)
 
