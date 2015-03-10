@@ -28,6 +28,8 @@ kastet mig ud i en omgang soja-yoghurt med hjemmelavet müsli og tørrede pærer
 med kanel. Det vil jeg sige ikke er et dårligt bytte :) De tørrede pærer
 omdanner yoghurten til en frisk frugt-yoghurt og müsli'en er med til at gøre den
 mere crunshy, mmmh :)
+
+
  
 ![Ristet müsli med soja-yoghurt og tørrede pærer](http://farm4.staticflickr.com/3806/12658622633_c7b543c529.jpg)
 
