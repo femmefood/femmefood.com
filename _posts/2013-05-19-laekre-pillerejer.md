@@ -16,6 +16,9 @@ categories:
 - Tilbehør
 ---
 
+I går var jeg ude at cykle en tur i det dejlige vejr! Jeg cyklede forbi
+fiskehandleren på Aarhus Havn og købte disse lækre fjordrejer.
+
 ![Lækre pillerejer](http://farm4.staticflickr.com/3682/12658495625_428c86832f.jpg)
 
 ## Lækre pillerejer
@@ -23,8 +26,7 @@ categories:
 - 1 Citron
 - Vand
 
-I går var jeg ude at cykle en tur i det dejlige vejr! Jeg cyklede forbi
-fiskehandleren på Aarhus Havn og købte disse lækre fjordrejer.
+
 
 Da jeg kom hjem tilberedte jeg rejerne ved at fylde en gryde med vand og en
 lille smule salt. Lod vandet koge og kom rejerne i. Jeg kogte dem i 1,5 min,

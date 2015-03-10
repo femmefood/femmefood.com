@@ -22,6 +22,9 @@ er, at den både er laktose- og glutenfri. 
 Blandingsforholdet mellem boghvedegryn og vand skal gerne være 1:2. Jeg bruger
 1/2 dl. boghvede og 1 dl. vand. 
 
+![Boghvedegrød med kanel og blåbær](http://farm3.staticflickr.com/2892/12658497815_6d11547d2d.jpg)
+
+
 ## Boghvedegrød
 
 - 1/2 dl. boghvedegryn
@@ -33,7 +36,7 @@ Blandingsforholdet mellem boghvedegryn og vand skal gerne være 1:2. Jeg bruger
 2. Grøden koges i 15 min. ved middelvarme. 
 3. Derefter kommes grøden i en skål og pyntes med blåbær og kanel.
 
-![Boghvedegrød med kanel og blåbær](http://farm3.staticflickr.com/2892/12658497815_6d11547d2d.jpg)
+
 
 ## Frække facts
 
