@@ -49,7 +49,7 @@ det blev en smækker lækker spidskåls-kartoffelsalat :)
 4. Kom laksen i et fad og stil det ind i ovnen og bag den i 25 min.
 5. Skær citronen i skiver eller både og pynt med dem på laksen.
 
-![Ovnbagt laks med smækker lækker spidskåls-kartoffelsalat](http://farm4.staticflickr.com/3689/12658495645_7618c9ef2e.jpg)
+![Spidskåls-kartoffelsalat](https://farm8.staticflickr.com/7354/12658967624_d4d32f4107_o.jpg)
 
 ## Smækker lækker spidskåls-kartoffelsalat
 - 10-15 små kartofler
