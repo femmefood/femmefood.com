@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nem aftensmad - majsmadpandekager med laks! 
-image: 
+image: https://farm6.staticflickr.com/5515/14081117311_bc1fd25b23_n.jpg
 date: 2015-03-09 13:45
 categories:
 - Blogpost
