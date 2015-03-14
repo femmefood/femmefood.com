@@ -20,7 +20,7 @@ Kokossukker også kaldet palmesukker og kokosblomstsukker har sammenlignet med r
 ## Mysli ristet i kokossukker 
 - 1 spsk. olie
 - 2 dl [kokossukker](http://www.urtekram.dk/produkter/foedevarer/bagning/kokossukker-oeko-280-g)
-- 2 dl havregryn
+- 2 dl havregryn (evt. glutenfri)
 - 2 dl mandler
 
 
