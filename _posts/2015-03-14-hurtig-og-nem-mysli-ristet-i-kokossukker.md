@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hurtig og nem mysli ristet i kokossukker
-image: https://farm6.staticflickr.com/5515/14081117311_bc1fd25b23_n.jpg
+image: https://farm4.staticflickr.com/3836/14346047837_96c6a93ce2_n.jpg
 date: 2015-03-14 11:20
 categories:
 - Blogpost
