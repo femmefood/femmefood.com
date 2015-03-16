@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Der er ikke noget bedre end is! Så snart der er en smule sol, så får jeg lyst til is! Disse her lækkerbiskner er hurtige og nemme at lave, men det der tager tid er, at de skal være helt frosne før de kan spises... Så tålmodigheden bliver sat på prøve :) Har I spist jeres første is i år? :)
+Der er ikke noget bedre end is! Så snart der er en smule sol, så får jeg lyst til is! Disse her lækkerbiskner er hurtige og nemme at lave, men det der tager tid er, at de skal være helt frosne, før de kan spises... Så tålmodigheden bliver sat på prøve :) Har I spist jeres første is i år? :)
 
 
 
