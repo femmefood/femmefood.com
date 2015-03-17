@@ -21,7 +21,7 @@ Jeg går og er lidt skrantet for tiden.. Så nu har boostet min krop med en kæm
 - 2 mellemstore rødbeder
 - 4 mellemstore gulerødder
 - 3 appelsiner
-- 4 cm ingefær (eller 2 cm, hvis du ikke vil have den helt ingefær-agtig)
+- 4 cm ingefær (eller 2 cm, hvis du ikke vil have den helt så ingefær-agtig)
 - 1 øko citron
 - Juicepresser
 
