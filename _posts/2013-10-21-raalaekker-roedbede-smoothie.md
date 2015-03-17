@@ -47,7 +47,7 @@ endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
 - 2 spsk. [hørfrøolie eller hampefrøolie](http://nyborggaard.dk/)
 - 1 tsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/) eller 1/2 tsk. [FiberHUSK](http://www.husk.dk/) [®](http://www.husk.dk/) 
 - 4 dadler
-- Isterningers
+- Isterninger
 
 ### Tilberedning
 
@@ -56,7 +56,7 @@ endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
    bliver en ensartet masse (brug evt. afskallede nødder/mandler).
 3. Kom den pressede rødbede-, gulerods- og ingefærsaft, banan, jordbær, olie, HUSK/FiberHUSK
    og dadler i blenderen og blend i 1 min.
-4. Hæld den færdige blendede smoothie over i to glas og servér dem koldt med osterninger.
+4. Hæld den færdige blendede smoothie over i to glas og servér dem koldt med isterninger.
 
 ## Frække facts
 Rødbeder hører til bede-slægten. De er sprængfyldte med B-, C-vitaminer og
