@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Jeg går og er lidt skrantet for tiden.. Så nu har boostet min krop med en kæmpe rødbedesmoothie med en masse ingefær! Så nu håber jeg, at det bærer frugt! Ellers laver jeg da bare en til ;)  Mmmh jeg er nu vild med det der ingefær!
+Jeg går og er lidt skrantet for tiden.. Så nu har jeg boostet min krop med en kæmpe rødbedesmoothie med en masse ingefær! Så nu håber jeg, at det bærer frugt! Ellers laver jeg da bare en til ;)  Mmmh jeg er nu vild med det der ingefær!
 
 
 
