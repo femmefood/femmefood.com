@@ -22,10 +22,12 @@ Når aftensmaden har lagt sig, går jeg hen og bliver liiidt lækkersulten. En a
 - 10 dadler (uden sten)
 - 4 tsk. romessens
 - 4 tsk. kakao
-- Stor minihakker
-- Lille minihakker
 - Kokosmel
 - Frysetørrede hindbær
+
+## Udstyr
+- Stor minihakker
+- Lille minihakker
 
 
 ### Tilberedning
