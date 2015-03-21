@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kartoffel-porresuppe
-image: https://farm8.staticflickr.com/7341/12928899353_f9bc4291f9_n.jpg
+image: https://farm8.staticflickr.com/7524/15091506834_8b806bed13_n.jpg
 date: 2015-03-21 19:50
 categories:
 - Blogpost
