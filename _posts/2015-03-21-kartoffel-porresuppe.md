@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Vejret har været lidt vinter-agtigt i dag. Så vi synes, at det var oplagt med suppe til aften! Vi har lavet en kartoffel-porresuppe. Det er min favorit suppe! Den er lækker cremet, og så har vi toppet den med bacon.. Mmh.. det sætter altså lige prikken over i :)
+Vejret har været lidt vinter-agtigt i dag. Så vi synes, at det var oplagt med suppe til aften! Vi har lavet en kartoffel-porresuppe. Det er min favorit suppe! Den er lækker cremet, og så har vi toppet den med bacon.. Mmh.. det sætter altså lige prikken over i'et :)
 
 
 
