@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Vi har bagt gulerodsboller her til aften! Jeg bager dem tit, for nøj hvor er de altså bare gode. Jeg bruger dem til madpakken eller som eftermiddagsmåltid. De er gode all-roundere, da de både er god til lidt sødere ting eller med et stykke pålæg.
+Vi har bagt gulerodsboller her til aften! Jeg bager dem tit, for nøj hvor er de altså bare gode. Jeg bruger dem til madpakken eller som eftermiddagsmåltid. De er gode all-roundere, da de både er god med lidt sødere ting eller med et stykke pålæg.
 
 
 
