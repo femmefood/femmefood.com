@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hindbær/banan muffins!
+title: Hindbær/bananmuffins!
 image: http://farm8.staticflickr.com/7322/12658624843_3a156b9daf_n.jpg
 date: 2015-03-26 20:00
 categories:

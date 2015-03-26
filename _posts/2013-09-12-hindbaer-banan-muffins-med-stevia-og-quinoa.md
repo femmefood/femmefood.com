@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Hindbær/banan muffins med stevia og quinoa
+title: Hindbær/bananmuffins med stevia og quinoa
 image: http://farm8.staticflickr.com/7322/12658624843_3a156b9daf_n.jpg
 date: 2013-09-12
 tags:
