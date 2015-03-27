@@ -1,27 +1,16 @@
 ---
-layout: recipe
-title: Sushi med friske stenbiderrogn
+layout: post
+title: Sushi med friske stenbiderrogn!
 image: https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_n.jpg
-date: 2014-02-25
-tags:
- - Sojasauce
- - Tang
- - Ris
- - Avokado
- - Gulerødder
- - Agurk
- - Laks
- - Stenbiderrogn
+date: 2015-03-27 18:55
 categories:
-- Opskrift
-- Mælkefri
-- Glutenfri
-- Frokost
-- Aftensmad
+- Blogpost
+
+
 ---
 
-I dag stod menu’en på sushiii! Det er en af mine ynglingsspise! Idéen til denne lækre middag kom egentlig af, at vi var ude at cykle i det skønne solskin, hvor turen gik ned til Isbjerget og Lighthouse. Jeg har nemlig aldrig set husene på tæt hånd, og hvor synes jeg bare Isbjerget er fedt, men uuh hvor er der koldt og blæset derude på havnekanten! På tilbagevejen cyklede vi forbi [fiskehandleren](http://www.hf-aarhus.dk/), og der opstod idéen til sushi. Vi fik en fantastisk betjening, og det endte med, at vi købte 1 røget makrel, 2 laksestykker og 100 g friske stenbiderrogn.
-Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideout med laks, gulerod, agurk, forårsløg og avokado rullet i stenbidderogn, mmmh! :)
+
+I aften skal vi have min yndlingsspise, som er sushi! Jeg er vild med den ret, tror aldrig jeg bliver træt af den. Vi har lavet insideout med laks, agurk, gulerod og forårsløg rullet i stenbiderrogn. Mmmh! Det er gode sager :) Det er vores første stenbiderrogn i år, så det skal fejres!
 
 ![Sushi med friske stenbiderrogn](https://farm4.staticflickr.com/3811/12757706933_89e3951ea8_z.jpg)
 
@@ -54,7 +43,7 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 3. Lad risene trække på den varme kogeplade i 20 min.
 4. Skær agurken, guleroden og avokadoen ud i tynde skiver.
 5. Skær forårsløgene, så de passer med noritangens længde og skær laksen ud i tynde skiver.
-6. Kom eddike og rørsukker i gryden med ris og rør rundt.
+6. Når risene er førdige, kom eddike og rørsukker i gryden og rør rundt.
 7. Pak rullemåtten helt ind i vita wrap.
 8. Placér rullemåtten med vita wrap på et skærbræt.
 9. Kom ris på rullemåtten med en ske eller hænderne. Tryk det fladt og fordel det på et areal, som svarer til 1 stykke noritang.
@@ -71,3 +60,12 @@ Vi lavede to slags sushi. Den ene slags er den, som du ser på billedet: Insideo
 ## Frække Facts
 
 Der er nu sæson for friske stenbiderrogn, som strækker sig fra december til maj. Det er første gang, at jeg har smagt friske stenbiderrogn, og hvor har de bare en flot farve! Det er slet ikke nødvendigt at farve dem mere røde eller sorte, som dem vi ser på glas i supermarkederne, og et ekstra plus ved dem her er, at de ikke indeholder konserveringsmidler.
+
+
+
+
+
+
+
+
+
