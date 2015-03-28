@@ -12,7 +12,7 @@ categories:
 
 Hej søde følgere :) 
 
-Vi har lavet et spørgeskema, da vi gerne vil blive endnu bedre! Vi håber derfor, at I vil bruge 2 min. af jeres tid på at besvare det :) Linket til spørgeskemaet er [her](https://docs.google.com/forms/d/1DOWK4k656HoD5F6cNZ0ofln4khO7Go_AxwbUGInXDNI/viewform)
+Vi har lavet et spørgeskema, da vi gerne vil blive endnu bedre! Vi håber derfor, at I vil bruge 2 min. af jeres tid på at besvare det :) Linket til spørgeskemaet er [her](https://docs.google.com/forms/d/1DOWK4k656HoD5F6cNZ0ofln4khO7Go_AxwbUGInXDNI/viewform).
 
 Vi vil på forhånd sige 1000 tak for hjælpen! :)
 
