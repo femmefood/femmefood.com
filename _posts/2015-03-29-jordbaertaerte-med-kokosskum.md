@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorbærtærte med kokosskum
+title: Jordbærtærte med kokosskum
 image: https://farm6.staticflickr.com/5615/15400064077_856c4a557a_n.jpg
 date: 2015-03-29 16:20
 categories:
