@@ -10,7 +10,7 @@ categories:
 ---
 
 
-Vi elsker fiskedeller! Så aftensmaden i dag blev til en omgang fiskedeller. De er ikke helt, som de plejer. Disse indeholder blomkål og gulerødder. Mmmh, hvor smager de bare godt! Desuden indeholder de ikke snerten af gluten eller mælk, som det meste færdiglavet fiskefas indeholder ved enten fiskehandleren eller supermarkedet. Et ekstra plusser ved den hjemmelavet udgave er, at den ikke tager mange minutter og mikse sammen + indeholder grøntsager :)
+Vi elsker fiskedeller! Så aftensmaden i dag blev til en omgang fiskedeller. De er ikke helt, som de plejer. Disse indeholder blomkål og gulerødder. Mmmh, hvor smager de bare godt! Desuden indeholder de ikke snerten af gluten eller mælk, som det meste færdiglavet fiskefars indeholder ved enten fiskehandleren eller supermarkedet. Et par ekstra plusser ved den hjemmelavet udgave er, at den ikke tager mange minutter at mikse sammen + indeholder flere vitaminer og mineraler :)
 
 ![Fiskedeller med blomkål og gulerødder](http://farm8.staticflickr.com/7324/12658625043_5c631be591.jpg)
 
