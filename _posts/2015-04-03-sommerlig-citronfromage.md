@@ -1,27 +1,15 @@
 ---
-layout: recipe
-title: Citronfromage
-image: http://farm8.staticflickr.com/7445/12658497275_bba728715c_n.jpg
-date: 2013-06-24
-tags:
-- Husblas
-- Citron
-- Stevia
-- Soja-madlavningsfløde
-- Æg
-- Æggehvider
+layout: post
+title: Sommerlig citronformage!
+image: http://farm8.staticflickr.com/7324/12658625043_5c631be591_n.jpg
+date: 2015-03-31 20:00
 categories:
-- Opskrift
-- Mælkefri
-- Glutenfri
-- Hvidt, raffineret sukkerfri
-- Sødt
+- Blogpost
+
+
 ---
-Imens jeg sidder og nyder solen på den skønne, spanske ø, Tenerife, har min
-søster (fotografen) været i gang med at eksperimentere i mad-laboratoriet hjemme
-på Trøjborg.
-Hun har lavet en ny og lækker udgave af citronfromage! Jeg glæder mig til at
-komme hjem og smage den, hvis der er mere tilbage, når jeg kommer hjem! :)
+Her er et bud på desserten til påskemiddagen nemlig citronfromage! Dens lysegule farve minder mig om påske og dens smag minder mig om sommer! Mmmh jeg er fan! Desuden er den lavet på stevia og soja, så den er både mælkeallergivenlig og diabetikervenlig :)
+
 
 
 ![Citronfromage](http://farm8.staticflickr.com/7445/12658497275_bba728715c.jpg)
