@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sommerlig citronformage!
+title: Sommerlig citronfromage!
 image: http://farm8.staticflickr.com/7445/12658497275_bba728715c_n.jpg
 date: 2015-04-03 12:33
 categories:
