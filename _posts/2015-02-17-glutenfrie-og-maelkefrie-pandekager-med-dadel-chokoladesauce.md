@@ -32,6 +32,7 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 - 1 dl. rapsolie
 - 4 dl. rismælk
 
+### Tilberedning
 1. Kom rismel og æg i en skål eller rørmaskine og rør rundt.
 2. Tilsæt salt, sukrin, vaniljepulver, rapsolie og rismælk til blanding og rør rundt indtil det er en ensartet masse. 
 3. Kom rapsolie på en pande, hæld noget af pandekagedejen over på panden, og steg pandekagen til den er gyldenbrun på begge sider.
@@ -42,6 +43,8 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 - 1,5 dl. vand 
 - Minihakker
 
+
+### Tilberedning
 1. Pil stenene ud af de friske dadler.
 2. Kom alle ingredienser i en minihakker. Hak til det er en ensartet masse. Tilsæt evt. mere vand for at få en mere flydende konsistens. 
 
