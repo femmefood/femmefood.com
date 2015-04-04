@@ -12,7 +12,7 @@ categories:
 - Opskrift
 - Mælkefri
 - Glutenfri
-- Hvidt raffineret sukkerfri
+- Hvidt, raffineret sukkerfri
 - Aftensmad
 
 
