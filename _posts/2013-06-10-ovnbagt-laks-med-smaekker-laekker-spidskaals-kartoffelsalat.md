@@ -55,7 +55,7 @@ det blev en smækker lækker spidskåls-kartoffelsalat :)
 - 10-15 små kartofler
 - 1/2 lille spidskål
 - 1 rødløg
-- 1 spsk. akacie honning
+- 1 spsk. akacie honning
 - 2 spsk. mayo
 - 3 spsk. olivenolie
 - 2 fed hvidløg 

@@ -1,28 +1,16 @@
 ---
-layout: recipe
+layout: post
 title: Kernekraft rugbrød
 image: http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b_n.jpg
-date: 2013-06-13
-tags:
-- Boghvedekerner
-- FiberHUSK
-- Solsikkekerner
-- Græskarkerner
-- Hørfrø
-- Sesam
-- Blå birkes
-- Hasselnødder
+date: 2015-04-06 18:50
 categories:
-- Opskrift
-- Mælkefri
-- Glutenfri
-- Hvidt, raffineret sukkerfri
-- Brød
----
+- Blogpost
 
-I det lille hjem er der blevet eksperimenteret med at finde et godt alternativ
-til rugbrød. Vi har endelig fundet en lækker løsning, hvor rugbrødet både er
-svampet og har den dejlige smag af rugbrød. Her er resultatet.
+
+---
+Nu banker hverdagen snart på igen og det er igen tid til madpakker! Vi har bagt et kernekraft rugbrød, som er fyldt med lækkerier :) Jeg er vild med dets smag og konsistens! Det minder meget om et almindeligt rugbrød med et lille tvist af hasselnødder.
+
+
 
 ![Kernekraft rugbrød](http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b.jpg)
 
