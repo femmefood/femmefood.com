@@ -1,28 +1,16 @@
 ---
-layout: recipe
-title: Cool quinoatærte med laks
-image: http://farm3.staticflickr.com/2812/12658493775_423779e607_n.jpg
-date: 2013-04-17
-tags:
- - Sojayogurt
- - Porrer
- - Quinoa
- - Gulerødder
- - Rødløg
- - Laks
+layout: post
+title: Cool quinoatærte med lækker laks
+image: http://farm6.staticflickr.com/5528/12658626603_2a51c49a6b_n.jpg
+date: 2015-04-07 20:32
 categories:
-- Opskrift
-- Mælkefri
-- Glutenfri
-- Hvidt, raffineret sukkerfri
-- Frokost
-- Aftensmad
- 
----
+- Blogpost
 
-Denne lækre tærte er med porrer, gulerødder og laks. Den kan varieres i
-uanede muligheder, så den passer til, hvad der er i dit køleskab eller dine
-ynglings grøntsager og kød.
+
+---
+Menuen stod i dag på tærte helt præcist quinoatærte med laks! Mmmh den er lækker, lækker! Den har vi lavet en del gange efterhånden. Hvis man ikke er helt oppe at køre over laks, tror jeg også den er lækker vegetarisk :)
+
+
 
 ![Cool quinoatærte med laks](http://farm3.staticflickr.com/2812/12658493775_423779e607.jpg)
 
@@ -56,13 +44,13 @@ ynglings grøntsager og kød.
 8. Sæt tærten ind i den forvarmede ovn, og bag den i 30 min.
 9. Når tærten er færdig, pyntes den med de sidste skiver laks og evt. lidt kørvel.
 
-Velbekomme ;-)
+
 
 ## Frække Facts
 
 Quinoa-planten stammer fra Andensbjergene i Sydamerika. Plantens frø er milde og
 nøddeagtige i smagen. De kaldes også for "vegetarisk kaviar" på grund af deres
 bløde og knasende konsistens. Frøene er enten gule, røde eller
-sorte. Sammenlignet med traditionelle, danske kornsorter, er Quinoa gultenfrit.
+sorte. Sammenlignet med traditionelle, danske kornsorter, er Quinoa gultenfri.
 Derudover har Quinoa et højt proteinindhold (14 g/100 g) og er rig på omega-3
 fedtsyrer.
