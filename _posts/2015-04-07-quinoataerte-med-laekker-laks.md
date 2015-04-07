@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cool quinoatærte med lækker laks
+title: Quinoatærte med lækker laks
 image: http://farm3.staticflickr.com/2812/12658493775_423779e607_n.jpg
 date: 2015-04-07 20:32
 categories:
