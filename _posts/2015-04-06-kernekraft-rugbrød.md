@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Nu banker hverdagen snart på igen og det er igen tid til madpakker! Vi har bagt et kernekraft rugbrød, som er fyldt med lækkerier :) Jeg er vild med dets smag og konsistens! Det minder meget om et almindeligt rugbrød med et lille tvist af hasselnødder.
+Nu banker hverdagen snart på igen, og det er igen tid til madpakker! Vi har bagt et kernekraft rugbrød, som er fyldt med lækkerier :) Jeg er vild med dets smag og konsistens! Det er dejligt svampet og minder meget om et almindeligt rugbrød med et lille tvist af hasselnødder.
 
 
 
