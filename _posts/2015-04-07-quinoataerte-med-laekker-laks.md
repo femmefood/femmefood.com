@@ -35,14 +35,12 @@ Menuen stod i dag på tærte helt præcist quinoatærte med laks! Mmmh den er l�
 ### Tilberedning
 
 1. Sæt ovnen til 180°C.
-2. Hæld quinoa'en over i en gryde og kog til de er kogte.
+2. Hæld quinoa'en over i en gryde med vand, og kog til de er kogte.
 3. Skræl gulerødder og løg. Hak løget og skær porren ud i mindre stykker. Skræl gulerødderne helt med en kartoffelskræller.
-4. Kom quinoa i en minihakker og tilsæt lidt vand. Hak i et par minutter.
-5. Skær 2 skiver laks ud i mindre stykker.
-6. Bland æg, sojayoghurt, olivenolie, bagepulver, salt og de hakkede løg i en skål. Tilsæt quinoa'en til blandingen.
-7. Hæld blandingen over i et tærtefad. Kom porre, gulerødder og laks på.
-8. Sæt tærten ind i den forvarmede ovn, og bag den i 30 min.
-9. Når tærten er færdig, pyntes den med de sidste skiver laks og evt. lidt kørvel.
+4. Bland æg, sojayoghurt, olivenolie, bagepulver, salt, løg, porren og gulerødderne i en skål. Tilsæt quinoa'en til blandingen.
+5. Hæld blandingen over i et tærtefad.
+6. Sæt tærten ind i den forvarmede ovn, og bag den i 30 min.
+7. Når tærten er færdig, pyntes den med laks og evt. lidt kørvel.
 
 
 
