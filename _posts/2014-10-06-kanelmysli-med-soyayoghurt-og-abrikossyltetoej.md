@@ -19,6 +19,8 @@ categories:
 Jeg har en svaghed for kanel! Så jeg fik den idé at blande det sammen med mysli - mmmh siger jeg bare! Det bliver én af mine nye morgenmadsfavoritter :) Vi spiste myslien med soyayoghurt og abrikossyltetøj - det må siges at være en ret så lækker kombi! 
 Hvad spiser I til morgenmad? Jeg spiser tit det samme til morgenmad i hverdagene, hvilket må siges at være lidt ensformet og kedeligt :)
 
+P.S. Den syltetøj, som vi har brugt består kun af abrikoser, koncentreret æblesaft og geleringsmiddel! Vi er vilde med det mærke. Vi vil også klart anbefale skovbærsyltetøjen der fra :)
+
 
 ![Kanelmysli med soyayoghurt og abrikossyltetøj](https://farm4.staticflickr.com/3936/15273844720_1aea461bc3_z.jpg) 
 
