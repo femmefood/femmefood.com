@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morgenmadsinspiration: Kanelmysli med soyayoghurt og abrikossyltetøj
+title: Kanelmysli med soyayoghurt og abrikossyltetøj
 image: https://farm4.staticflickr.com/3936/15273844720_1aea461bc3_n.jpg
 date: 2015-04-09 21:05
 categories:
