@@ -29,7 +29,7 @@ Hvad spiser I til morgenmad? Jeg spiser tit det samme til morgenmad i hverdagene
 - 3 dl grovfalsede havregryn
 - 6 spsk. kanel
 - Soyayoghurt
-- [Abrikosmarmelade](http://www.urtekram.dk/produkter/foedevarer/smoerb,marmelad/rigoni-abrikosmarmelade-oeko-250-g)
+- [Abrikossyltetøj](http://www.urtekram.dk/produkter/foedevarer/smoerb,marmelad/rigoni-abrikosmarmelade-oeko-250-g)
 
 
 
@@ -38,10 +38,10 @@ Hvad spiser I til morgenmad? Jeg spiser tit det samme til morgenmad i hverdagene
 
 ### Tilberedning
 1. Hak mandlerne.
-2. Kom kokossukker på en pande og smelt ved lidt over middelvarme (obs. det smelter ikke som sukrose altså almindeligt, hvidt sukker).
-3. Kom mandler og havregryn på panden og bland det rundt med kokossukkeret.
+2. Kom kokossukker på en pande og smelt det ved lidt over middelvarme (obs. det smelter ikke som sukrose altså almindeligt, hvidt sukker).
+3. Kom mandler og havregryn på panden, og bland det rundt med kokossukkeret.
 4. Tilsæt kanel og vend myslien grundigt i det.
-5. Hæld soyayoghurt op i et glas eller skål og kom den nylavede mysli på og abrikosmarmelade.
+5. Hæld soyayoghurt op i et glas eller skål og kom den nylavede mysli på og abrikossyltetøj.
 6. Velbekomme :)
 
 
