@@ -23,7 +23,7 @@ Hvad spiser I til morgenmad? Jeg spiser tit det samme til morgenmad i hverdagene
 ![Kanelmysli med soyayoghurt og abrikossyltetøj](https://farm4.staticflickr.com/3936/15273844720_1aea461bc3_z.jpg) 
 
 
-## Kanelmysli med soyayoghurt og abrikossyltetøj (1-2 potioner)
+## Kanelmysli med soyayoghurt og abrikossyltetøj (1-2 portioner)
 - 1,5 dl mandler
 - 1 dl kokossukker
 - 3 dl grovfalsede havregryn
