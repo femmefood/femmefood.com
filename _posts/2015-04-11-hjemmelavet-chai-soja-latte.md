@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hjemmelavet chai-soja-latte!
-image: https://farm4.staticflickr.com/3936/15273844720_1aea461bc3_n.jpg
+image: https://farm6.staticflickr.com/5572/14962712265_55331e4c8c_n.jpg
 date: 2015-04-11 20:30
 categories:
 - Blogpost
