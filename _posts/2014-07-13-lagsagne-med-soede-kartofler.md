@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Lasagne med søde kartofler
-image: https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_n.jpg
+image: https://farm8.staticflickr.com/7664/17146573182_cf27095713_n.jpg
 date: 2014-07-13 23:40
 tags:
 - Sød kartoffel
@@ -24,7 +24,7 @@ categories:
 Vi har her til aften fået lasagne! Vi har skiftet lagsagnepladerne ud med søde kartofler. Mmmh. Det må jeg sige blev rigtig lækkert! Jeg læste en artikel om, at kartofler bliver nedprioriteret til fordel for pasta og ris! Det synes vi er synd og skam! Så det har vi prøvet at lave om på med denne sød kartoffel-lasagne. Jeg har så efterfølgende fundet ud af, at søde kartofler slet ikke er med i kartoffelfamilien. :)
 
 
-![Lasagne med søde kartofler](https://farm4.staticflickr.com/3922/14646475985_7bcee4008c_z.jpg)
+![Lasagne med søde kartofler](https://farm8.staticflickr.com/7664/17146573182_cf27095713_z.jpg)
 
 
 ## Lasagne med søde kartofler 
