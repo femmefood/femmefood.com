@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Vi køber sjældent færdiglavet ketchup, da vi har øjet for hjemmelavet ketchup. Det smager endnu bedre og har ikke en masse tilsat hvidt, raffineret sukker! Faktisk er sukker første eller anden ingrediens i mange af de færdiglavede ketchups. Det betyder, at det er det, der er mest af i hele produktet. Vi har skiftet den almindelige sukker ud med stevia og dadler! 
+Vi køber sjældent færdiglavet ketchup, da vi har fået øje for hjemmelavet ketchup. Det smager endnu bedre og har ikke en masse tilsat hvidt, raffineret sukker! Faktisk er sukker første eller anden ingrediens i mange af de færdiglavede ketchups. Det betyder, at det er det, der er mest af i hele produktet. Vi har skiftet den almindelige sukker ud med stevia og dadler! 
 
 
 
