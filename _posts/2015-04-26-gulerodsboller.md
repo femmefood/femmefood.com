@@ -31,7 +31,7 @@ Vi bager tit om søndagen til den kommende uge. En af vores bage-favoritter er d
 
 ### Tilberedning
 1. Riv gulerødderne, kom bagestenen ind i bunden af ovnen og tænd den på 250C, hvis ikke du har en bagesten, skal ovnen indstilles på 210C.
-2. Kom vand og loppefrøskaller i en skål og rør det rundt. Lad det trække i 10 min.
+2. Kom vand og loppefrøskaller i en skål og rør det rundt. Lad det trække i 20 min eller til massen er geléret.
 3. Pisk den gelérede masse og tilsæt salt. Rør derefter rundt.
 4. Tilsæt havregryn og rør rundt.
 6. Kom dernæst de revne gulerødder og solsikkekernerne i og rør rundt.
