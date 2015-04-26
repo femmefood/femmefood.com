@@ -47,8 +47,8 @@ Det er søndag og det betyder aftenhygge - i hvert fald for vores vedkommende! V
 3. Tilsæt mandelmel, rismel, kakaopulver, vand, olivenolie, loppefrøskaller og bagepulver i æggesnapsen.
 4. Pisk æggehviderne stive og vend dem forsigtigt i dejen.
 5. Hak chokoladen groft og kom den ned i kagedejen.
-5. Hæl dejen i en springform og bag kagen i 40 min.
-6. Tag den ud og når den er afkølet, drys med kakaopulver og morgenfruer.
+6. Hæl dejen i en springform og bag kagen ved 170 C i 40 min eller til den er bagt.
+7. Tag den ud og når den er afkølet, drys med kakaopulver og morgenfruer.
 
 
 
