@@ -44,7 +44,7 @@ Det er søndag og det betyder aftenhygge - i hvert fald for vores vedkommende! V
 ### Tilberedning
 1. Del først æggene i blomme og hvide i hver sin skål. 
 2. Pisk æggeblommerne med sukker.
-3. Tilsæt mandelmel, rismel, kakaopulver, vand, olivenolie, loppefrøskaller og bagepulver i æggesnapsen.
+3. Tilsæt mandelmel, rismel, kakaopulver, olivenolie, loppefrøskaller, bagepulver og salt i æggesnapsen.
 4. Pisk æggehviderne stive og vend dem forsigtigt i dejen.
 5. Hak chokoladen groft og kom den ned i kagedejen.
 6. Hæl dejen i en springform og bag kagen ved 170 C i 40 min eller til den er bagt.
