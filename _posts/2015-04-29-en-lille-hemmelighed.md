@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Vi har gået og gemt på en hemmelighed i laaang tid. Nu må vi vist hellere afsløre den! Sidste år i maj fik vi en helt fantastiske chance, som vi ikke kunne sige nej til. Vi fik muligheden for at udgive en kogebog i samarbejde med forlaget Lindhardt & Ringhof. Vi er nu ved ved at ligge sidste hånd på bogen, som udkommer til september. Det har været et helt fantastisk år med benhårdt arbejde og masser af gluten- og mælkefri tæsk ;) Vi har lagt alle kræfter i. Så vi håber, at I vil tage rigtig godt imod den, når den udkommer :)
+Vi har gået og gemt på en hemmelighed i laaang tid. Nu må vi vist hellere afsløre den! Sidste år i maj fik vi en helt fantastiske chance, som vi ikke kunne sige nej til. Vi fik muligheden for at udgive en kogebog i samarbejde med forlaget Lindhardt & Ringhof. Vi er nu ved ved at ligge sidste hånd på bogen, som udkommer til september. Det har været et helt fantastisk år med benhårdt arbejde og masser af glutenfri og mælkefri tæsk ;) Vi har lagt alle kræfter i. Så vi håber, at I vil tage rigtig godt imod den, når den udkommer :)
 
 
 
