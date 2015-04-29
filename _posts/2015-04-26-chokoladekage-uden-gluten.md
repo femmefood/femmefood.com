@@ -32,7 +32,7 @@ Det er søndag og det betyder aftenhygge - i hvert fald for vores vedkommende! V
 - 4 dl mandelmel (eller hele mandler blendet til mel)
 - 2 dl rismel
 - 1 dl kakaopulver
-- 2 dl olivenolie
+- 1,5 dl olivenolie
 - 2 tsk. loppefrøskaller
 - 1 tsk. bagepulver
 - 1/2 knsp. salt
