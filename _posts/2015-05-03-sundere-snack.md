@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Sundere søndagssnack
+title: Sundere snack 
 image: https://farm9.staticflickr.com/8670/16096936353_aebc4d23a8_n.jpg
-date: 2015-05-03 19:55
-categories: 
+date: 2015-05-03 20:15
+categories:
 - Blogpost
 
 
 ---
-Her er et bud på en sundere søndagssnack! Vi har lavet dem én gang før, men de blev ikke ringere af at lave dem igen! Vi er vilde med den 3 i 1 smag, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)  
+
+Her er et bud på en sundere søndagssnack! Vi har lavet dem før, men det er de ikke blevet ringere af tværtimod. Vi elsker den 3 i 1 smag, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)   
 
 
 
@@ -56,6 +57,18 @@ Her er et bud på en sundere søndagssnack! Vi har lavet dem én gang før, men 
 1. Kom alle ingredienser i en stor minihakker og hak til det er en ensartet masse.
 2. Tag skærebrættet eller metalformen ud af køleskabet. Spred det øverste lag ovenpå det midterste. Laget skal være omkring 1 cm. Stil skærebrættet eller metalformen i køleskabet igen i min. 1 time.
 3. Tag massen ud af køleskabet og skær den i små, firkantede stykker.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
