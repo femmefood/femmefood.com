@@ -1,4 +1,3 @@
-Her er et bud på en sundere søndagssnack! Vi har lavet den en gang før, men de blev ikke ringere af at lave dem igen! 
 
 ---
 layout: post

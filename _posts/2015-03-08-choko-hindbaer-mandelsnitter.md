@@ -3,7 +3,7 @@ layout: recipe
 title: Choko-hindbær-mandelsnitter
 image: https://farm9.staticflickr.com/8670/16096936353_aebc4d23a8_n.jpg
 date: 2015-03-08 14:48
-tags:
+tags: 
 - Kakao
 - Hindbær 
 - Mandler 
