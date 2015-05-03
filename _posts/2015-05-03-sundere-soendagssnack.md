@@ -3,12 +3,11 @@ layout: post
 title: Sundere søndagssnack
 image: https://farm9.staticflickr.com/8670/16096936353_aebc4d23a8_n.jpg
 date: 2015-05-03 19:55
-categories:
+categories: 
 - Blogpost
 
 
 ---
-
 Her er et bud på en sundere søndagssnack! Vi har lavet dem én gang før, men de blev ikke ringere af at lave dem igen! Vi er vilde med den 3 i 1 smag, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)  
 
 
