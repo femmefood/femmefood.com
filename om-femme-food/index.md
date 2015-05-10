@@ -8,7 +8,7 @@ Vi er to søstre, som har startet Femme Food. Bloggen skal være med til at
 inspirere til nemme og lækre opskrifter og tager udgangspunkt i mælkefri,
 glutenfri og/eller hvidt, raffineret sukkerfri madlavning.
 
-![Femme Food-søstrene](http://farm6.staticflickr.com/5530/12658491565_300624bcdb.jpg)
+![Femme Food-søstrene](https://farm9.staticflickr.com/8779/17297694939_b0f5f46ed2.jpg)
 
 Vi elsker livsglad mad, der for os betyder mad, som både er en gevinst for
 kroppen og mentalt velvære. Vi bor sammen, men spiser vidt forskelligt. Annika
