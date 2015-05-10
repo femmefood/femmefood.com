@@ -51,7 +51,8 @@ I må alle have en dejlig solskinsrig dag!
 13. Pynt til sidst med jordbærerne og vupti et styk jordbærtærte :)
 
 
-
+## Tip
+Vi har altid et par kokosmælk stående i køleskabet, men hvis I ikke lige har et par på lager, kan man også købe kokosflødeskum eller bruge noget andet flødeskum eks. soja eller ris.
 
 
 
