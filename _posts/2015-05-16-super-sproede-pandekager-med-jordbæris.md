@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Super sprøde pandekager med jordbæris!
+title: Super sprøde glutenfrie pandekager med jordbæris!
 image: http://farm8.staticflickr.com/7295/12658491435_0093970950_n.jpg
 date: 2015-05-16 14:12
 categories:
