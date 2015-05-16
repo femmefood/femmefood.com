@@ -51,6 +51,10 @@ Pandekagerne er lækre sprøde og nøddeagtige i smagen. Jordbærisen bidrager m
    kom det i en frysetæt boks, kom den i fryseren og rør rundt hver 20. min. de
    første to timer. 
 
+
+Er du interesseret i lidt mere klassiske pandekager? Se vores opskrift på [mælkefrie og glutenfrie pandekager](http://www.femmefood.com/2015/02/glutenfrie-og-maelkefrie-pandekager-med-dadel-chokoladesauce/)
+
+
 ## Frække facts
 Havre er en glutenfri kornsort. De fleste havregrynspakker, som vi støder på
 nede i supermarkedet er ikke 100% glutenfrie, da der kan være spor af andre
