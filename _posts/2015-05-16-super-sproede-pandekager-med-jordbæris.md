@@ -52,7 +52,7 @@ Pandekagerne er lækre sprøde og nøddeagtige i smagen. Jordbærisen bidrager m
    første to timer. 
 
 
-Er du interesseret i lidt mere klassiske pandekager? Se vores opskrift på [mælkefrie og glutenfrie pandekager](http://www.femmefood.com/2015/02/glutenfrie-og-maelkefrie-pandekager-med-dadel-chokoladesauce/)
+Er du interesseret i lidt mere klassiske pandekager, men stadig mælkefri og glutenfri? Så se vores opskrift [her](http://www.femmefood.com/2015/02/glutenfrie-og-maelkefrie-pandekager-med-dadel-chokoladesauce/)
 
 
 ## Frække facts
