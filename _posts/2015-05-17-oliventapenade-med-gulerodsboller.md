@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Tapenader er lige sagen! Oliventapenade er vores favorit! Den er lækker på et lunt stykke brød. Vi har kommet den på hjemmebagte glutenfrie gulerodsboller. Det er rigtig lækkert!  Oliventapenaden kan laves mens bollerne er i ovnen. 
+Oliventapenade er lige sagen! Den er lækker på et lunt stykke brød. Vi har kommet den på hjemmebagte glutenfrie gulerodsboller. Det er rigtig lækkert! Oliventapenaden kan laves mens bollerne er i ovnen. 
 
 ![Glutenfrie gulerodsboller med oliventapenade](http://farm3.staticflickr.com/2805/12658968894_b9af801ec3.jpg)
 
