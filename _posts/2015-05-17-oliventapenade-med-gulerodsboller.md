@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oliventapenade med gulerodsboller
+title: Oliventapenade på gulerodsboller
 image: http://farm3.staticflickr.com/2805/12658968894_b9af801ec3_n.jpg
 date: 2015-05-17 16:50
 categories:
