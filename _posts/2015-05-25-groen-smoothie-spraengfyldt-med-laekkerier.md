@@ -8,7 +8,7 @@ categories:
 
 
 ---
-At starte ugen ud med en smoothie er lige sagen! Vi har lavet en grøn smoothie, som gemmer på en masse lækkerier, der booster kroppen og giver energi og mæthed lige fra morgenstunden :)
+At starte dagen med en smoothie er lige sagen! Vi har lavet en grøn smoothie, som gemmer på en masse lækkerier, der booster kroppen og giver energi og mæthed lige fra morgenstunden :)
 
 ![Grøn smoothie](https://farm3.staticflickr.com/2923/14118950919_8de4839e9b_z.jpg) 
 
