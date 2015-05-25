@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grøn smoothie sprængfyldt med lækkerier!
-image: http://farm3.staticflickr.com/2805/12658968894_b9af801ec3_n.jpg
+image: https://farm3.staticflickr.com/2923/14118950919_8de4839e9b_n.jpg
 date: 2015-05-25 11:20
 categories:
 - Blogpost
