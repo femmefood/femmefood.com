@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Søndag = stor bagedag 
+title: Søndag = store bagged 
 image: https://farm8.staticflickr.com/7760/18296443722_708b143de3_n.jpg
 date: 2015-05-31 12:30
 categories:
@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Søndag betyder for os stor bagedag! Vi bager gerne en ordentlig omgang brød til den kommende uge. I dag har vi bagt glutenfrie knækbrød, gulerodsboller og risrugbrød. Opskriften på knækbrød er nedenunder og gulerodsbollerne kan finder [her](http://www.femmefood.com/2015/04/gulerodsboller/) og opskriften på vores risrugbrød kan findes [her](http://www.femmefood.com/2013/08/risrugbroed/).
+Søndag betyder for os store bagedag! Vi bager gerne en ordentlig omgang brød til den kommende uge. I dag har vi bagt glutenfrie knækbrød, gulerodsboller og risrugbrød. Opskriften på knækbrød er nedenunder og gulerodsbollerne kan finder [her](http://www.femmefood.com/2015/04/gulerodsboller/) og opskriften på vores risrugbrød kan findes [her](http://www.femmefood.com/2013/08/risrugbroed/).
 
  
 
