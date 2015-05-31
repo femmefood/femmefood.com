@@ -21,7 +21,7 @@ Vi har bagt kage i det triste vejr! Ommenom hvor smager den bare godt! Vi havde 
 
 ## Glutenfri gulerodskage
 - 4 æg
-- 2 dl sukker
+- 2 dl sukker eller sukrin
 - 1 dl solsikkekerner
 - 1 dl havregryn (evt. glutenfri)
 - 4 dl mandelmel (eller blendede mandler)
