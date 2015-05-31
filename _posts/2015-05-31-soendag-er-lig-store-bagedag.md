@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Søndag = store bagged 
+title: Søndag = store bagedag 
 image: https://farm8.staticflickr.com/7760/18296443722_708b143de3_n.jpg
 date: 2015-05-31 12:30
 categories:
