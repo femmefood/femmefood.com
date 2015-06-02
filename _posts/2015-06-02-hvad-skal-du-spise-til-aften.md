@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Hvad står aftensmaden på i aften? Har du endnu ikke fundet på, hvad du skal spise til aften. Så giver vi her tre bud: wok med kylling, majsmadpandekager eller lasagne med søde kartofler.
+Har du endnu ikke fundet på, hvad du/I skal spise til aften. Så giver vi her tre bud: wok med kylling, majsmadpandekager eller lasagne med søde kartofler.
 
 ![3 i 1 aftensmad](https://farm8.staticflickr.com/7796/18189075580_18b4df953e_z.jpg)
 
