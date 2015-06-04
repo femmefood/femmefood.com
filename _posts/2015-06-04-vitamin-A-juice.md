@@ -15,7 +15,7 @@ categories:
 
 ---
 
-Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsager på! Tilmed er det en hurtigt og nemt at presse sine vitaminer og mineraler i flydende form. Vitamin A juice er sprængfyldt med en masse vitaminer og mineraler! Kendetegnet for alle frugter og grøntsager i denne juice er, som navnet antyder, at de alle indeholder Vitamin A! Vi synes, at den er lækker både indvendig og udvendig! :) 
+Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsager på! Tilmed er det en hurtigt og nemt at presse sine vitaminer og mineraler i flydende form. Vitamin A juice er sprængfyldt med en masse vitaminer! Kendetegnet for alle frugter og grøntsager i denne juice er, som navnet antyder, at de alle indeholder vitamin A! Vi synes, at den er lækker både indvendig og udvendig! :) 
 
 ![Vitamin A juice](https://farm9.staticflickr.com/8807/17810125413_929edb2693_z.jpg) 
 
