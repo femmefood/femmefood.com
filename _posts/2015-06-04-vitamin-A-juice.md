@@ -28,7 +28,7 @@ Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsa
 - 6 gulerødder 
 - 1 rød peberfrugt
 - 1/2 øko citron med skræl
-- Evt. 1 spsk. hørfrøolie (Vitamin A er et fedtopløseligt vitamin, så for at vitaminet bliver optaget bedst muligt, skal det indtages sammen med fedt
+- Evt. 1 spsk. hørfrøolie (Vitamin A er et fedtopløseligt vitamin, så for at vitaminet bliver optaget bedst muligt, skal det indtages sammen med fedt)
 - Isterninger
 
 
@@ -49,7 +49,7 @@ Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsa
 
 ## Frække facts
 
-Udover frugter og grøntsagerne bidrager med vitamin A er de også rige på vitamin C! Vitamin A er godt for synet og huden, mens vitamin C styrker immunforsvaret og hjælper med optagelsen af jern i kroppen.
+Udover frugterne og grøntsagerne indeholder vitamin A er de også rige på vitamin C! Vitamin A er godt for synet og huden, mens vitamin C styrker immunforsvaret og hjælper med optagelsen af jern i kroppen.
 
 
 
