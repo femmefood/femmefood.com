@@ -15,7 +15,7 @@ categories:
 
 ---
 
-Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsager på! Tilmed er det en hurtigt og nemt at presse sine vitaminer og mineraler i flydende form. Vitamin A juice er sprængfyldt med en masse vitaminer! Kendetegnet for alle frugter og grøntsager i denne juice er, som navnet antyder, at de alle indeholder vitamin A! Vi synes, at den er lækker både indvendig og udvendig! :) 
+Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsager på! Tilmed er det hurtigt og nemt at presse sine vitaminer og mineraler i flydende form. Vitamin A juice er sprængfyldt med en masse vitaminer! Kendetegnet for alle frugter og grøntsager i denne juice er, som navnet antyder, at de alle indeholder vitamin A! Vi synes, at den er lækker både indvendig og udvendig! :) 
 
 ![Vitamin A juice](https://farm9.staticflickr.com/8807/17810125413_929edb2693_z.jpg) 
 
@@ -28,6 +28,7 @@ Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsa
 - 6 gulerødder 
 - 1 rød peberfrugt
 - 1/2 øko citron med skræl
+- Evt. 1 spsk. hørfrøolie (Vitamin A er et fedtopløseligt vitamin, så for at vitaminet bliver optaget bedst muligt, skal det indtages sammen med fedt
 - Isterninger
 
 
@@ -39,6 +40,7 @@ Juice er en god måde at få brugt sine halvrunkne og slatne frugter og grøntsa
 1. Skræl appelsiner, grape og gulerødder og skær top og bund af gulerødderne.
 2. Tag kernehuset ud af peberfrugten og skær den i mindre stykker
 3. Kom det hele i en saftpresser og servér den nylavede juice i 2 glas med isterninger.
+
 
 
 
