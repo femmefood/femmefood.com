@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Glædelig farsdag! :) Vi viser i anledningen af farsdag opskriften på citronfromage! Vores far elsker citronfromage, så hvad mere er oplagt? Desuden er været i dag oplagt til en lille forfriskning! Denne citronfromage er ikke helt som den traditionelle vi kender - her er sukkeret skiftet ud med stevia og piskefløden byttet ud med soja-madlavningsfløde.
+Glædelig farsdag! :) Vi viser i anledningen af farsdag opskriften på citronfromage! Vores far elsker citronfromage, så hvad mere er oplagt? Desuden er vejret i dag oplagt til en lille forfriskning! Denne citronfromage er ikke helt som den traditionelle vi kender - her er sukkeret skiftet ud med stevia og piskefløden byttet ud med soja-madlavningsfløde.
 
 
 
