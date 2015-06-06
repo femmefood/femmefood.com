@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Vi mandagshygger! Til hyggen har vi bagt intet mindre end hindbærsnitter! Mmmh... Jeg er så vild med hindbærsnitter! Disse søde, sprøde lækkerbiskner er faktisk både gluten- og mælkefrie! 
+Vi søsterhygger! Til hyggen har vi bagt intet mindre end hindbærsnitter! Mmmh... Jeg er så vild med hindbærsnitter! Disse søde, sprøde lækkerbiskner er faktisk både gluten- og mælkefrie! 
 
 
 
