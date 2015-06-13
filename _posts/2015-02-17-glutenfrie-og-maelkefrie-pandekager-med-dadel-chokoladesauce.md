@@ -38,14 +38,14 @@ International pandekagedag! Jeg er vild med konceptet :) Pandekager er nemlig in
 3. Kom rapsolie på en pande, hæld noget af pandekagedejen over på panden, og steg pandekagen til den er gyldenbrun på begge sider.
 
 ### Dadel-chokoladesauce
-- 8 friske dadler 
+- 8 medjool dadler 
 - 1,5 spsk. kakaopulver 
 - 1,5 dl. vand 
 - Minihakker
 
 
 ### Tilberedning
-1. Pil stenene ud af de friske dadler.
+1. Pil stenene ud af dadlerne.
 2. Kom alle ingredienser i en minihakker. Hak til det er en ensartet masse. Tilsæt evt. mere vand for at få en mere flydende konsistens. 
 
 
