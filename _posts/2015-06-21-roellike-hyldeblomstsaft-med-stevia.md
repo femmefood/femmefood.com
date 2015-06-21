@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Røllike-hyldeblomstsaft med stevia
-image: http://farm8.staticflickr.com/7445/12658497275_bba728715c_n.jpg
+image: http://farm4.staticflickr.com/3824/12658495295_e2bc384cd8_n.jpg
 date: 2015-06-21 15:40
 categories:
 - Blogpost
