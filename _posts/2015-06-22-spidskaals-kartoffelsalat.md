@@ -21,7 +21,7 @@ Der står juni på kalenderen, men man kan godt blive lidt i tvivl, om det er so
 - 1/2 lille spidskål
 - 1 rødløg
 - 1 spsk. akacie honning
-- 2 spsk. mayo
+- 2 spsk. mayonnaise
 - 3 spsk. olivenolie
 - 2 fed hvidløg 
 - 1 spsk. dijonsennep
