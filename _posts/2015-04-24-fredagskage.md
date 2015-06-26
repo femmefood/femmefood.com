@@ -59,3 +59,7 @@ Det er blevet fredag - arbejdsugens sidste dag. Vi fejrer dagen med kage! Vi har
 
 ### Tilberedning
 1. Kom flormelis i en skål og tilsæt vand lidt efter lidt, indtil glasuren har den rette konsistens.
+
+
+## Frække facts
+Gulerødder er rige på beta-caroten, som i kroppen bliver omdannet til A-vitamin. A-vitamin modvirker natteblindhed, infektioner og tør hud. Desuden er gulerødder rige på kostfibre samt på mineralerne kalium og jod. Ved indtagelse af mange gulerødder bliver huden orange, hvilket kaldes Karotenæmi. Det skyldes, at beta-caroten er et rødligt farvestof.
