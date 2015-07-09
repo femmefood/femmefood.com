@@ -2,7 +2,7 @@
 layout: recipe
 title: Milkshake-is!
 image: https://farm4.staticflickr.com/3694/19343499788_c4a682c35d_n.jpg
-date: 2015-07-09 19:05
+date: 2015-07-09 18:09
 tags:
 - Milkshake
 - Is 
