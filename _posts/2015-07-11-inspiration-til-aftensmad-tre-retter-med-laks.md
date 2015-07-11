@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspiration til aftensmaden: 3 retter med laks!
+title: Inspiration til aftensmaden - tre retter med laks!
 image: https://farm1.staticflickr.com/520/19610074511_e4d779c1e5_n.jpg
 date: 2015-07-11 17:04
 categories:
