@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Vi bager tit om søndagen til den kommende uge. En af vores bage-favoritter er disse gulerodsboller. De er super hurtige at smække sammen og så smager de fantastisk! :)
+Vi bager ofte vores eget brød og boller. En af vores bage-favoritter er disse gulerodsboller. De er super hurtige at smække sammen og så smager de fantastisk! :)
 
 
 
