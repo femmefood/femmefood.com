@@ -54,7 +54,7 @@ Kurset er det eneste på nuværende tidspunkt, som bliver afholdt i Aarhus, men 
  
  
  
-Du må endelig skrive, hvis der er dukket nogle spørgsmål op vedrørende kurserne. Skriv til **hello@femmefood.com***.
+Du må endelig skrive, hvis der er dukket nogle spørgsmål op vedrørende kurserne. Skriv til **hello@femmefood.com**.
  
 Winnie håber og glæder sig til at se jer! ☺ 
 
