@@ -31,6 +31,7 @@ Kurset afholdes i samarbejde med FOF og du kan læse mere om de enkelte kurser o
 Prisen for kurset er 995,-  inkl. materialeudgifter.
  
  
+
 ##Bagekursus (Horsens, Hedensted og Vejle)
 Gennem kurset får du fif til, hvordan du får et godt resultat med en glutenfri og mælkefri dej.  På kurset lærer du at lave lige fra risrugbrød og boller til pølsebrød og hindbærsnitter.
  
@@ -38,12 +39,15 @@ Kurset afholdes i samarbejde med FOF og du kan læse mere om de enkelte kurser o
  
 Prisen for kurset er 1362,-  inkl. materialeudgifter.
 
+
+
 ##Sundt og sødt
 På kurset laver I sunde snacks, kager, lækre desserter og hjemmelavede ispinde - alt uden hvidt sukker! Læs mere om kurset og tilmeld dig [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/sundt-og-soedt-uden-maelk-gluten-og-hvidt-sukker).
 
 Prisen for kurset er 399,- inkl. materialeudgifter.
  
  
+
 ##Det veganske mejeri (Aarhus)
 Her lærer du at lave forskellige typer mælkefrie oste, forskellige slags mælkefri drikke og yoghurt. Læs mere om kurset [her](http://www.fof.dk/aarhus/Kursusoversigt/kunst-og-fritid/mad-og-vin/madlavning/det-veganske-mejeri?id=202831).
 Kurset er det eneste på nuværende tidspunkt, som bliver afholdt i Aarhus, men vi arbejder på at få sat flere kurser op i Aarhus. Så følg med ☺  
