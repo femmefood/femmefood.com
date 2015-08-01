@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Winnie afholder glutenfri og mælkefri bage- og madlavningskurser til efteråret og i det nye år 2016. Bage- og madlavningskurserne bliver afholdt i Horsens, Hedensted og Vejle. Desuden afholder hun et kursus kaldet *Sundt og Sødt*, som også afholdes i Horsens, Hedensted og Vejle! Derudover afholder hun et kursus i Aarhus kaldet det *Det veganske mejeri*, hvor du lærer at lave hjemmetlavet mælkefri ost, yoghurt og mælk.
+Winnie afholder glutenfri og mælkefri bage- og madlavningskurser til efteråret og i det nye år 2016. Bage- og madlavningskurserne bliver afholdt i Horsens, Hedensted og Vejle. Desuden afholder hun et kursus kaldet *Sundt og Sødt*, som også afholdes i Horsens, Hedensted og Vejle! Derudover afholder hun et kursus i Aarhus kaldet *Det veganske mejeri*, hvor du lærer at lave hjemmetlavet mælkefri ost, yoghurt og mælk.
 Kom og vær med til nogle spændende og lærerige dage. Alle kurserne fokuserer på lækker og velsmagende mad uden mælk, gluten og hvidt sukker. 
  
 
@@ -24,7 +24,7 @@ Vi har også beskrevet kurserne nedenfor.
 
 ##Madlavningskursus (Horsens, Hedensted og Vejle)
 Gennem kurset får du kendskab til nye såvel som velkendte retter alle uden mælk, gluten og hvidt sukker.
-Der er 4 kursusgange á 3 timers varighed. Hver kursusgang er inddelt i et tema. Første kursusgang er **morgenmad/brunch**, anden kursusgang **frokost og madpakke**, tredje kursusgang er **aftensmad** og fjerde kursusgang er **desserter og snacks**.
+Der er 4 kursusgange á 3 timers varighed. Hver kursusgang er inddelt i et tema. Første kursusgang er *morgenmad/brunch*, anden kursusgang *frokost og madpakke*, tredje kursusgang er *aftensmad* og fjerde kursusgang er *desserter og snacks*.
  
 Kurset afholdes i samarbejde med FOF og du kan læse mere om de enkelte kurser og tilmelde dig [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/det-gluten-og-maelkefri-koekken).
  
