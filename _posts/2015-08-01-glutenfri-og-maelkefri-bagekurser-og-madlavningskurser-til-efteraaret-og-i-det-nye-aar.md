@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Winnie afholder glutenfri og mælkefri bage- og madlavningskurser til efteråret og i det nye år 2016. Bage- og madlavningskurserne bliver afholdt i Horsens, Hedensted og Vejle. Desuden afholder hun et kursus kaldet *Sundt og sødt*, som også afholdes i Horsens, Hedensted og Vejle! Derudover afholder hun et kursus i Aarhus kaldet det *Det veganske mejeri*, hvor du lærer at lave hjemmetlavet mælkefri ost, yoghurt og mælk.
+Winnie afholder glutenfri og mælkefri bage- og madlavningskurser til efteråret og i det nye år 2016. Bage- og madlavningskurserne bliver afholdt i Horsens, Hedensted og Vejle. Desuden afholder hun et kursus kaldet *Sundt og Sødt*, som også afholdes i Horsens, Hedensted og Vejle! Derudover afholder hun et kursus i Aarhus kaldet det *Det veganske mejeri*, hvor du lærer at lave hjemmetlavet mælkefri ost, yoghurt og mælk.
 Kom og vær med til nogle spændende og lærerige dage. Alle kurserne fokuserer på lækker og velsmagende mad uden mælk, gluten og hvidt sukker. 
  
 
@@ -41,7 +41,7 @@ Prisen for kurset er 1362,-  inkl. materialeudgifter.
 
 
 
-##Sundt og sødt
+##Sundt og Sødt (Horsens, Hedensted og Vejle)
 På kurset laver I sunde snacks, kager, lækre desserter og hjemmelavede ispinde - alt uden hvidt sukker! Læs mere om kurset og tilmeld dig [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/sundt-og-soedt-uden-maelk-gluten-og-hvidt-sukker).
 
 Prisen for kurset er 399,- inkl. materialeudgifter.
