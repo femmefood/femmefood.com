@@ -8,14 +8,16 @@ categories:
 
 
 ---
-Menuen har i aften stået på lasagne! Det er ikke en helt traditionel lasagne. Lasagnepladerne er blevet skiftet ud med søde kartofler. Mmmh, det må siges at være en ret lækker udskiftning! Jeg glæder mig allerede til at få den til frokost i morgen ;)
+Menuen skal i aften stå på lasagne! Det er ikke en helt traditionel lasagne. Lasagnepladerne er blevet skiftet ud med søde kartofler. Mmmh, det må siges at være en ret lækker udskiftning! 
+
+Hvis du hellere vil have en helt traditionel lasagne kan du finde opskriften på glutenfri lasagneplader [her](http://www.femmefood.com/2015/04/hjemmelavede-glutenfrie-lasagneplader/).
 
 ![Lasagne med søde kartofler](https://farm8.staticflickr.com/7664/17146573182_cf27095713_z.jpg)
 
 
 ## Lasagne med søde kartofler 
 - 3 store søde kartofler
-- 600 g hakket oksekød
+- 600 g hakket oksekød (eller sojakød)
 - 1 stort eller 2 små alm. løg
 - 2 mellemstore gulerødder
 - 1/4 knoldselleri
