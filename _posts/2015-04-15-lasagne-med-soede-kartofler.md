@@ -10,7 +10,9 @@ categories:
 ---
 Menuen skal i aften stå på lasagne! Det er ikke en helt traditionel lasagne. Lasagnepladerne er blevet skiftet ud med søde kartofler. Mmmh, det må siges at være en ret lækker udskiftning! 
 
-Hvis du hellere vil have en helt traditionel lasagne kan du finde opskriften på glutenfri lasagneplader [her](http://www.femmefood.com/2015/04/hjemmelavede-glutenfrie-lasagneplader/)
+Hvis du hellere vil have en helt traditionel lasagne kan du finde opskriften på vores glutenfri lasagneplader
+
+ [her](http://www.femmefood.com/2015/07/milkshake-is/)
 
 ![Lasagne med søde kartofler](https://farm8.staticflickr.com/7664/17146573182_cf27095713_z.jpg)
 
