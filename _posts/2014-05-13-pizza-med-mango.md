@@ -8,7 +8,7 @@ tags:
 - Chorizo
 - Rød peber
 - FiberHUSK
-- Gedeost
+- Ost
 - Rødløg
 - Oliven
 - Emmermel
@@ -23,8 +23,8 @@ categories:
 - Aftensmad
 ---
 
-Vi har her til aften fået mangopizza eller rettere restepizza! Vi havde 1 mango, 1 rødløg, ½ chorizopølse, lidt rød peber, oliven og gedeost liggende i køleskabet. Det kom der noget vældigt godt fyld ud af til en ellers sprød pizzabund. Vi er blevet inspireret til at bruge hver en krumme, dråbe eller stykke, som vi har i køleskabet. Der er lige nu meget stor fokus på madspild og bæredygtighed. Vi synes også det er synd, så meget mad, der bliver smidt ud. Så det vil vi herhjemme selv prøve at sætte en stopper for. 
-Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festival på Godsbanen i Aarhus. Vi synes, at det er et genialt arrangement! Her rør, ser og hører man om bæredygtighed.
+Vi har her til aften fået mangopizza eller rettere restepizza! Vi havde 1 mango, 1 rødløg, ½ chorizopølse, lidt rød peber, oliven og vegansk ost liggende i køleskabet. Det kom der noget vældigt godt fyld ud af til en ellers sprød pizzabund. Vi er blevet inspireret til at bruge hver en krumme, dråbe eller stykke, som vi har i køleskabet. Der er lige nu meget stor fokus på madspild og bæredygtighed. Vi synes også det er synd, så meget mad, der bliver smidt ud. Så det vil vi herhjemme selv prøve at sætte en stopper for. 
+
 
 ![Pizza med mango](https://farm8.staticflickr.com/7452/14155698506_fee94dcf00_z.jpg)
 
@@ -35,7 +35,7 @@ Hvad skal I i jeres forlængede weekend? Vi smutter en tur forbi Sustain Festiva
 - 1 dl olivenolie
 - 3 tsk. [FiberHUSK](http://husk.dk/)
 - 3 tsk. salt
-- 1 spsk. [hampeproteinpulver](http://nyborggaard.dk/)
+- 1 spsk. [hampeproteinpulver](http://nyborggaard.dk/) (kan undlades)
 - 10 dl emmermel
 - 2 dl fuldkornshvedemel
 - 2 dl hvedemel
@@ -74,7 +74,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 - 1/2 chorizopølse
 - 10 oliven
 - Lidt rød peber
-- Lidt gedeost
+- Lidt vegansk ost
 - Eller hvad der lige er i køleskabet
 
 
@@ -83,7 +83,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 ### Tilberedning
 1. Indstil ovnen på 250 C. 
 
-2. Skær mango, rødløg, chorizo'en, rød peber og gedeosten ud i mindre stykker.
+2. Skær mango, rødløg, chorizo'en, rød peber og osten ud i mindre stykker.
 
 3. Kom tomatsaucen og fyldet på de små pizzaer.
 
@@ -94,9 +94,7 @@ For at få super sprøde bunde anbefaler vi en pizzasten. Så bliver pizza'en n�
 
 
 
-### Tip 
 
-Pizza'en smager også vældig godt uden gedeost :)
 
 
 
