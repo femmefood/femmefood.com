@@ -24,7 +24,7 @@ Vi har også beskrevet kurserne nedenfor.
 
 ##Madlavningskursus (Horsens, Hedensted og Vejle)
 Gennem kurset får du kendskab til nye såvel som velkendte retter alle uden mælk, gluten og hvidt sukker.
-Der er 4 kursusgange á 3 timers varighed. Hver kursusgang er inddelt i et tema. Første kursusgang er *morgenmad/brunch*, anden kursusgang *frokost og madpakke*, tredje kursusgang er *aftensmad* og fjerde kursusgang er *desserter og snacks*.
+Hver kursusgang er inddelt i et tema. Første kursusgang er *morgenmad/brunch*, anden kursusgang *frokost og madpakke*, tredje kursusgang er *aftensmad* og fjerde kursusgang er *desserter og snacks*.
  
 Kurset afholdes i samarbejde med FOF og du kan læse mere om de enkelte kurser og tilmelde dig [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/det-gluten-og-maelkefri-koekken).
  
