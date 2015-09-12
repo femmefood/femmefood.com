@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Lune glutenfri boghvedeboller til morgenmad
-image: https://farm4.staticflickr.com/3679/13473955563_aae816e86f_n.jpg
+image: https://farm4.staticflickr.com/3726/13474247744_ef4b9f13e0_n.jpg
 date: 2015-09-12 09:35
 tags:
 - Majsmel
