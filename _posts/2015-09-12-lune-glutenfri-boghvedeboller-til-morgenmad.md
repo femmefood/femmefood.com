@@ -18,7 +18,7 @@ categories:
 - Brød
 ---
 
-At starte lørdag morgen med nybagte boller er lige sagen! Vi har bagt dem på en bagesten, som gør bollerne ekstra sprøde og får mere smag. Vi har lavet dobbeltportion, så fryser vi dem ned og har boller til det næste stykke tid :)
+At starte lørdagmorgen med nybagte boller er lige sagen! Vi har bagt dem på en bagesten, som gør bollerne ekstra sprøde og får mere smag. Vi har lavet dobbeltportion, så fryser vi dem ned og har boller til det næste stykke tid :)
 
 
 ![Boghvedeboller](https://farm4.staticflickr.com/3726/13474247744_8bd654b4a0_o.png)
