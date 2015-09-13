@@ -54,7 +54,7 @@ At starte lørdagmorgen med nybagte boller er lige sagen! Vi har bagt dem på en
 
 ##Tip
 
-Hvis du ikke er ejer af en bagesten/pizzasten, skal ovnen sættes på 180 C alm. ovn og bollerne skal bages i 30-40
+Hvis du ikke er ejer af en bagesten/pizzasten, skal ovnen sættes på 180 C alm. ovn og bollerne skal bages i 30-40 min.
 
 
 
