@@ -10,8 +10,8 @@ tags:
 - Chokolade
 categories:
 - Opskrift
+- Glutenfri
 - Mælkefri
-- Hvidt, raffineret sukkerfri
 - Sødt
 - Dessert
 ---
