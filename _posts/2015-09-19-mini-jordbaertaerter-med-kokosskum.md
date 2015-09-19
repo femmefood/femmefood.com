@@ -16,7 +16,7 @@ categories:
 - Dessert
 ---
 
-Disse søde små mini-jordbærtærter er både gode for øjenene og maven :D Vi kan rigtig godt lige kombinationen af de søde jordbær og marcipan blandet med den bitre chokolade blandet med smagen af kokos. Vi har serveret dem for vores familie og de blev rigtig pænt modtaget ;)
+Disse søde små mini-jordbærtærter er både gode for øjenene og maven :D Vi kan rigtig godt lide kombinationen af de søde jordbær og marcipan blandet med den bitre chokolade og smagen af kokos. Vi har serveret dem for vores familie og de blev rigtig pænt modtaget ;)
 
 
 ![Mini-jordbærtærter med kokosskum](https://c1.staticflickr.com/1/733/21351204110_7f55887f53_b.jpg)
