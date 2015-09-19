@@ -2,7 +2,7 @@
 layout: recipe
 title: Mini-jordbærtærter med kokosskum
 image: https://c1.staticflickr.com/1/699/21513004086_cd5bec7a96_n.jpg
-date: 2015-09-19 15:05
+date: 2015-09-19 15:20
 tags:
 - Jordbær
 - Jorbærtærte
