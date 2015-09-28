@@ -34,6 +34,7 @@ Lørdag d. 8. november kl. 10.00 til kl. 16.00
 
 
 
+
 Adressen er :
 
 Tretommervej 33
@@ -42,11 +43,13 @@ Tretommervej 33
 
 
 
+
 Pris 900 kr inkl. råvarer 
 
 
 
-Du tilmelder dig workshoppen ved at sende en mail til **hallo@femmefood.com**
+
+Du tilmelder dig workshoppen ved at sende en mail til **hello@femmefood.com**
 
 Tilmeldningsfristen er 25. oktober 
  
