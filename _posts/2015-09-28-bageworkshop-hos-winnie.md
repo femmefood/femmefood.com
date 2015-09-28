@@ -49,6 +49,7 @@ Pris 900 kr inkl. råvarer
 
 
 
+
 Du tilmelder dig workshoppen ved at sende en mail til **hello@femmefood.com**
 
 Tilmeldningsfristen er 25. oktober 
