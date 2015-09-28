@@ -26,8 +26,6 @@ Husk at gør plads i fryseren til dit friskbagte hjemmebag ;)
 
 
 
-
-
 Datoen for arrangementet:
 Lørdag d. 8. november kl. 10.00 til kl. 16.00
 
