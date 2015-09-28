@@ -12,7 +12,6 @@ categories:
 Kom og vær med til store bagedag med Winnie.  
 
  
-
 ![Bageworkshop](https://c1.staticflickr.com/1/639/21144456424_e84be72f9d_z.jpg) 
 
 
@@ -35,9 +34,6 @@ Lørdag d. 8. november kl. 10.00 til kl. 16.00
 Adressen er :
 Tretommervej 33
 8240 Risskov
-
-
-
 
 
 
