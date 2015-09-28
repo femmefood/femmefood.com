@@ -9,12 +9,12 @@ categories:
 
 ---
 
+Kom og vær med til store bagedag med Winnie.  
 
  
 
 ![Bageworkshop](https://c1.staticflickr.com/1/639/21144456424_e84be72f9d_z.jpg) 
 
-Kom og vær med til store bagedag med Winnie.  
 
 Vi kaster os ud i bagning helt uden mælk, gluten og hvidt sukker. Vi bager skønne velduftende kager, brød og boller. Derudover har du mulighed for bage dit eget ris”rug”brød eller lave dine egne tortillas. På workshoppen afprøver du forskellige teknikker indenfor glutenfri bagning.
 
