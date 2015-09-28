@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glutenfri og mælkefri bagekurser og madlavningskurser til efteråret og i det nye år!
+title: Glutenfri og mælkefri bagekurser og madlavningskurser!
 image: https://farm1.staticflickr.com/544/20009238290_36a93b7b8f_n.jpg
 date: 2015-08-01 15:10
 categories:
@@ -9,8 +9,7 @@ categories:
 
 ---
 
-Winnie afholder glutenfri og mælkefri bage- og madlavningskurser til efteråret og i det nye år 2016. Bage- og madlavningskurserne bliver afholdt i Horsens, Hedensted og Vejle. Desuden afholder hun et kursus kaldet *Sundt og Sødt*, som også afholdes i Horsens, Hedensted og Vejle! Derudover afholder hun et kursus i Aarhus kaldet *Det veganske mejeri*, hvor du lærer at lave hjemmetlavet mælkefri ost, yoghurt og mælk.
-Kom og vær med til nogle spændende og lærerige dage. Alle kurserne fokuserer på lækker og velsmagende mad uden mælk, gluten og hvidt sukker. 
+
  
 
 ![Kurser](https://farm1.staticflickr.com/544/20009238290_36a93b7b8f_z.jpg) 

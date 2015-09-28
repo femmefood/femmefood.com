@@ -28,8 +28,8 @@ proteinet kasein i mælkeprodukter. Lige siden har hun ændret sine kostvaner, o
 det har givet gevinst! For det første er eksemen forsvundet, men samtidig har
 hun fået øjnene op for en helt ny verden af mad og sammensætningerne af dette.
 
-## Fotografen, idémageren og layouteren, Winnie:
-Storesøster Winnie er i gang med fotografuddannelsen. Hun arbejder til dagligt
+## Opskriftsudvikleren, fotografen og layouteren, Winnie:
+Storesøster Winnie er færdiguddannet mad-fotograf. Hendes læreplads var hos
 hos [Moment Fotografi](http://momentfotografi.dk/), som hovedsagligt beskæftiger
 sig med mad-fotografering. I fritiden driver hun [Winnie
 Methmann](http://www.winniemethmann.com/), hvor hun primært skyder modebilleder.
