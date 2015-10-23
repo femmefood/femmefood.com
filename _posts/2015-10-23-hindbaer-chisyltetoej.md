@@ -33,12 +33,12 @@ Patentglas – desinficer det med kogende vand, inden du hælder syltetøjet i.
 
 ###Tilberedning:
 
-Kom hindbær og vaniljepulver i en gryde, og varm det stille og roligt op til kogepunktet.
-Skru ned for varmen, og lad det simre, indtil bærrene er bløde.
-Mos hindbærrene let med en gaffel, til de har den ønskede konsistens.
-Kom ahornsirup og chiafrø i gryden. Lad syltetøjet simre, indtil den tykner.
-Tag gryden af varmen, og lad syltetøjet køle af til stuetemperatur.
-Tilsæt citronsaft, og hæld syltetøjet i et patentglas eller en anden lufttæt beholder. Det kan holde sig i køleskabet i op til to uger.
+- Kom hindbær og vaniljepulver i en gryde, og varm det stille og roligt op til kogepunktet.
+- Skru ned for varmen, og lad det simre, indtil bærrene er bløde.
+- Mos hindbærrene let med en gaffel, til de har den ønskede konsistens.
+- Kom ahornsirup og chiafrø i gryden. Lad syltetøjet simre, indtil den tykner.
+- Tag gryden af varmen, og lad syltetøjet køle af til stuetemperatur.
+- Tilsæt citronsaft, og hæld syltetøjet i et patentglas eller en anden lufttæt beholder. Det kan holde sig i køleskabet i op til to uger.
  
 ####TIP!
 Hindbærrene kan skiftes ud med jordbær, eller hvad der lige er dit favoritbær.
