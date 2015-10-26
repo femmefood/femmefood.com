@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop: Sundt og sødt
+title: Workshop - sundt og sødt
 image: https://c2.staticflickr.com/6/5642/22502872761_31eb06b514_n.jpg
 date: 2015-10-26 14:35
 categories:
