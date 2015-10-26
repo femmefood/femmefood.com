@@ -32,7 +32,7 @@ Workshops'ne er ikke ens, så du er velkommen til at melde dig på begge :)
 ##Datoerne for de to workshops:
 Lørdag d. 14. november kl. 09.00 til kl. 12.30 i Vejle. Se nærmere info [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/sundt-og-soedt-uden-maelk-gluten-og-hvidt-sukker?id=159253).
 
-Lørdag d. 25. november kl. 09.00 til kl. 12.30 i Hedensted. Se nærmere info [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/sundt-og-soedt-uden-maelk-gluten-og-hvidt-sukker?id=157253).
+Lørdag d. 28. november kl. 09.00 til kl. 12.30 i Hedensted. Se nærmere info [her](http://www.fof.dk/horsens-hedensted-vejle/Kursusoversigt/mad-og-broed/Gluten-%20og%20maelkefri%20kokken/sundt-og-soedt-uden-maelk-gluten-og-hvidt-sukker?id=157253).
 
 
 
