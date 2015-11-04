@@ -14,15 +14,16 @@ categories:
 
 ---
 
-En virkelig nem og lækker snack er disse choko-riskager! De består kun af to ingredienser - poppede ris og smeltet chokolade og mums hvor er det en lækker sammensætning! Vi har spist dem som aftensnack til en varm kop kakao :)
+En virkelig nem og lækker snack er disse choko-riskager! De består kun af tre ingredienser - poppede ris, smeltet chokolade og lidt salt. Mums hvor er det en lækker sammensætning! Vi har spist dem som aftensnack til en varm kop kakao :)
 
 ![Choko-riskager](https://c2.staticflickr.com/6/5687/22161155823_97fa4d9ce2_z.jpg)
 
 
 
-## Choko-riskager (8 stk.)
+## Choko-riskager (8-10 stk.)
 - 1 plade mørkchokolade sødet med stevia eller agavesirup
 -  6 dl. poppede ris
+-  1/4 tsk. salt
 
 ### Tilberedning
 
