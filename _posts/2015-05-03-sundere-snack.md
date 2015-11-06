@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Her er et bud på en sundere søndagssnack! Vi har lavet dem før, men det er de ikke blevet ringere af tværtimod. Vi elsker den 3 i 1 smag, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)   
+Her er et bud på en sundere snack! Vi har lavet dem før, men det er de ikke blevet ringere af tværtimod. Vi elsker den 3 i 1 smag, som de giver. De smager både surt, sødt og bittert på én og samme tid. Det sure fra hindbærerne, det søde fra dadlerne og det bitre fra kakao. Mm, mm, mmmh! :)   
 
 
 
