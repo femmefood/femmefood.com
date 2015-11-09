@@ -2,7 +2,7 @@
 layout: recipe
 title: Glutenfrie og mælkefrie pandekager med dadel-chokoladesauce
 image: https://farm8.staticflickr.com/7460/15918783394_b792247026_n.jpg
-date: 2015-02-17 16:08
+date: 2015-09-14 16:08
 tags:
 - Pandekager 
 - Sukrin 

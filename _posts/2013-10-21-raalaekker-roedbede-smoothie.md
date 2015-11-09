@@ -30,11 +30,6 @@ Vi har fundet vores favorit våben - en rålækker rødbede-smoothie.
 
 ![Rålækker rødbede-smoothie](https://farm3.staticflickr.com/2813/12658965174_77a8ca0c19_z.jpg)
 
-Et af vores absolut ynglingssteder er Råbar, som er en lille hyggelig café gemt
-bag Aros i Aarhus. Her har vi tilbragt meget søster-kvali-tid. En af de faste
-bestillinger er "Beat it" - en RÅLÆKKER RØDBEDE-SMOOTHIE! Vi har pillet lidt ved
-ingredienslisten og lavet en redigeret udgave, som vi bringer her, men gå
-endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
 
 ## Rålækker rødbede-smoothie (2 glas):
 - 2 store rødbeder
@@ -44,8 +39,8 @@ endelig ikke glip af originalen på [Råbar](http://www.raabar.dk/).
 - 3 dl. vand
 - 1 banan
 - 1 håndfuld jordbær (evt. frosne)
-- 2 spsk. [hørfrøolie eller hampefrøolie](http://nyborggaard.dk/)
-- 1 tsk. [HUSK](http://www.husk.dk/) [®](http://www.husk.dk/) eller 1/2 tsk. [FiberHUSK](http://www.husk.dk/) [®](http://www.husk.dk/) 
+- 2 spsk. hampefrøolie
+- 1 tsk. loppefrøskaller
 - 4 dadler
 - Isterninger
 
