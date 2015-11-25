@@ -29,13 +29,13 @@ Man bliver aldrig træt af pandekager! Vi har været i gang med at lave en glute
 - 1 tsk. salt
 - 1,5 dl. sukrinmelis
 - 2 tsk. vaniljepulver
-- 1 dl. rapsolie
+- 1 dl. olie
 - 4 dl. rismælk
 
 ### Tilberedning
 1. Kom rismel og æg i en skål eller rørmaskine og rør rundt.
-2. Tilsæt salt, sukrin, vaniljepulver, rapsolie og rismælk til blanding og rør rundt indtil det er en ensartet masse. 
-3. Kom rapsolie på en pande, hæld noget af pandekagedejen over på panden, og steg pandekagen til den er gyldenbrun på begge sider.
+2. Tilsæt salt, sukrin, vaniljepulver, olie og rismælk til blanding og rør rundt indtil det er en ensartet masse. 
+3. Kom olie på en pande, hæld noget af pandekagedejen over på panden, og steg pandekagen til den er gyldenbrun på begge sider.
 
 ### Dadel-chokoladesauce
 - 8 medjool dadler 
