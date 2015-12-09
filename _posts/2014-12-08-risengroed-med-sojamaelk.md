@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Risengrød med sojamælk
-image: https://farm8.staticflickr.com/7553/15967287101_4d3e2f1a25_n.jpg
+image: https://c2.staticflickr.com/6/5686/23262042669_77e70873b0_n.jpg
 date: 2014-12-08 22:32
 tags:
 - Ris
@@ -16,7 +16,7 @@ categories:
 ---
 Den søde tid er over os!  Vi fylder os med lækkerier. Herhjemme er vi vilde med risengrød. Det synes vi, hører julen til! Vi har lavet en lille smule om på klassikeren.Vi har nemlig skiftet komælken ud med sojamælk og smørklatten er byttet ud med ghee ellers er den lige som den plejer - sukker, kanel og ris. :) 
 
-![Risengrød med sojamælk](https://farm8.staticflickr.com/7553/15967287101_4d3e2f1a25_z.jpg)
+![Risengrød med sojamælk](https://c2.staticflickr.com/6/5686/23262042669_b0713635c3_o.jpg)
 
 
 
