@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Rispapirsruller med sprøde grøntsager og peanutbutter
+title: Rispapirsruller med sprøde grøntsager og peanutbuttersauce
 image: https://c2.staticflickr.com/2/1493/24009223724_f7dd66f3f7_n.jpg
 date: 2016-01-27 16:29
 
