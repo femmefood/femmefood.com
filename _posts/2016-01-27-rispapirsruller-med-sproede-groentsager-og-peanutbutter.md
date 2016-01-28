@@ -33,7 +33,7 @@ I dag skal vi have en nem men tilmed rigtig lækker ret! Vi skal have rispapirsr
 - 1 agurk
 - 1 rød peber
 - Spinatblade 
-- Frisk korinander 
+- Frisk koriander 
 - Mynte
 
 
