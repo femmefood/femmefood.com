@@ -8,10 +8,9 @@ tags:
 - Sød kartoffel
 - Gulerod
 - Ingefær
-- Rød peber
-- Koriander 
-- Mynte
-- Spinat
+- Løg
+- Koriander
+- Hvidløg
 
 categories:
 - Opskrift
