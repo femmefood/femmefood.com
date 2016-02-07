@@ -1,6 +1,5 @@
 permalink: /:year/:month/:title/
 name: Femme Food
-markdown: redcarpet
 exclude: [tools, README.md, vendor]
 timezone: Europe/Copenhagen
 
