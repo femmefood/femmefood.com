@@ -21,6 +21,9 @@ categories:
 
 ---
 
+Søde kartofler er ved at vinde indpas i de danske hjem. Her har vi brugt dem som ingrediens i suppe. Det må siges at være en rigtig lækker smagsoplevelse. Udover søde kartofler indeholder suppen også gulerødder og ingefær. Gulerødderne medvirker til en cremet konsistens, mens ingefæren bidrager med en skarp afrunding af smagen. Ingefær har desuden gavnlige effekter mod snot og snue!
+
+
 
 ![Sød kartoffelsuppe med gulerod og ingefær](https://c2.staticflickr.com/2/1623/24216894089_b5b51f1d3a_o.jpg) 
 
@@ -28,7 +31,7 @@ categories:
 
 ## Sød kartoffelsuppe med gulerod og ingefær
 - 1 dl røde linser
-- 300 g sødekartofler
+- 300 g søde kartofler
 - 300 g gulerødder
 - 1 løg
 - Lidt olie
