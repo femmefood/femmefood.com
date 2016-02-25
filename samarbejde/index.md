@@ -13,15 +13,9 @@ date: 2014-02-25
 - [HUSK Products](http://husk.dk/)
 
 
-## Er du interesseret i et samarbejde?
+## Sponserede indlæg og reklamer
 
-Vi er altid på jagt efter nye, spændende samarbejdspartnere.
-Så du er meget velkommen til at skrive til <hello@femmefood.com>.
-
-## Skal vi teste dit produkt?
-
-Hvis du har et produkt, som du ønsker blive testet eller anvendt, så er du
-velkommen til at skrive til <hello@femmefood.com>.
+Vi begynder at åbne op for muligheden for reklamer samt sponserede indlæg. Kontakt os venligt på hello@femmefood.com. Vi laver ikke reklame eller sponserede indlæg gratis eller mod betaling i produkter.
 
 
 
