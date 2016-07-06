@@ -48,8 +48,8 @@ Advarelse! Stærk vanedannede! Brownie med søde kartofler... lige umiddelbart l
 ### Tilberedning
 1. Kog de søde kartofler i en gryde med vand. 
 2. Kom mandlerne i en foodprocessor og hak dem i mindre stykker. 
-3. Tilsæt medjooldadler, kakaopulver, ahorn- eller agavesirup og salt i foodprocessoren. Hak indtil det er en ensartet masse.
-4. Kom browniemassen og i en form beklædt med bagepapir.
+3. Tilsæt søde kartofler, medjooldadler, kakaopulver, ahorn- eller agavesirup og salt i foodprocessoren. Hak indtil det er en ensartet masse.
+4. Kom browniemassen og over i en form beklædt med bagepapir.
 5. Bag brownien ved 180C i 20-25 min. 
 
 
