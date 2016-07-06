@@ -29,11 +29,11 @@ Advarelse! Stærk vanedannede! Brownie med søde kartofler... lige umiddelbart l
 
 
 
-![Sød kartoffelbrownie](https://c2.staticflickr.com/2/1466/25208231664_c0267ded29_z.jpg) 
+![Brownie med søde kartofler](https://c2.staticflickr.com/2/1466/25208231664_c0267ded29_z.jpg) 
 
 
 
-## Sød kartoffelbrownie
+## Brownie med søde kartofler
 - 2 søde kartofler
 - 2,5 dl mandler
 - 10 medjooldadler
