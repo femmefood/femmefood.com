@@ -34,7 +34,7 @@ Advarelse! Stærk vanedannede! Brownie med søde kartofler... lige umiddelbart l
 
 
 ## Brownie med søde kartofler
-- 2 søde kartofler
+- 2 mellemstore søde kartofler
 - 2,5 dl mandler
 - 10 medjooldadler
 - 4 spsk. kakaopulver
