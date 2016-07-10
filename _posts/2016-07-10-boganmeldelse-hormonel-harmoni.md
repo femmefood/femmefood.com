@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boganmeldelse: Hormonel Harmoni
+title: Boganmeldelse - Hormonel Harmoni
 image: https://c2.staticflickr.com/8/7571/28213892335_ffd5794781_n.jpg
 date: 2016-07-10 14:30
 categories:
