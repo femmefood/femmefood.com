@@ -8,8 +8,7 @@ tags:
 - Spinat
 - Lasagne
 - Spinatlasagne
-- Kakao
-- Dadler
+
 
 
 categories:
@@ -25,7 +24,7 @@ categories:
 
 Lasagne bliver man bare aldrig træt af! Denne lasagne er ikke helt som den traditionelle, vi kender med kødsovs, bechamelsauce og ost. Faktisk er den vegansk og hovedingrediensen er spinat. Spinatlasagnen har vundet vores hjerter og smagsløg, så den er blevet blandt vores favoritter! Vi vil næsten vove og påstå, at den er blevet vores yndlingslasagne :) 
 
-Hvis du ønsker en lidt mere traditionel lasagne kan du prøve vores [Lasagne med søde kartofler](http://www.femmefood.com/2014/07/lagsagne-med-soede-kartofler/).
+Hvis du ønsker en lidt mere traditionel lasagne, kan du prøve vores [Lasagne med søde kartofler](http://www.femmefood.com/2014/07/lagsagne-med-soede-kartofler/).
 
 
 ![Spinatlasagne](https://c1.staticflickr.com/9/8463/27923939384_417f383308_o.jpg) 
