@@ -41,6 +41,11 @@ Vi elsker sushi! Vi elsker quinoasushi endnu mere :) Quinoasushi er ikke så kli
 - Avokado
 - 5 tangplader
 
+### Udstyr
+- Bambusrulle
+
+
+
 ## Vegansk hvidløgsmayonnaise
 - 1/2 dl usødet sojamælk
 - 1/2 tsk. sennep
@@ -53,7 +58,6 @@ Vi elsker sushi! Vi elsker quinoasushi endnu mere :) Quinoasushi er ikke så kli
 
 
 1. Pisksojamælk,sennep,citron og salt sammen i en skål.
-
 2. Pisk olien i lidt efter lidt (husk at alle ingredienser skal have samme temperatur ellers skiller mayonnaisen).
 3. Pres hvidløgene med en hvidløgspresser og kom dem i og rør rundt.
 
@@ -63,16 +67,14 @@ Vi elsker sushi! Vi elsker quinoasushi endnu mere :) Quinoasushi er ikke så kli
 
 ### Tilberedning
 1. Start med at lave hvidløgsmayonnaisen, som beskrevet ovenover.
-2.  Kom quinoa i en gryde og tilsæt vand.
-2. Kom sojakødet i en skål og overhæld det med kogende vand.
-3. Hak løget og svits det i en gryde.
-4. Tilsæt sojakødet, hakkede tomater, hvidløg og oregano og skur op for blusset og rør rundt i sojakødsovsen. Smag evt. til med salt og peper.
-5. Skrue ned for blusset og lad sojakødsovsen stå og simre.
-6. Skyl champignonerne og hak dem i skiver.
-7. Svits dem i en ny gryde med lidt olie.
-8. Tilsæt kokosmælk, spinat og gærflager og rør rundt. Smag til med salt og peber. 
-9. Kom bagepapir i et fad og kom først et lag sojakødsovs i bunden, læg dernæst et lag lasagneplader eller skruer og til sidste med spinatsovsen. Drys til sidst et lag gærflager øverst på lasagnen.
-10. Stil lasagnen i ovnen og bag den i 35-40 min.
+2.  Kom quinoa i en gryde og tilsæt vand. Kog quinoa som anvist på pakken.
+3.  Skyl agurken og forårsløgene og skær dem til i længden, så de passer til længden af tangpladen. Skær agurken på langs i mindre stykker.
+4. Skræl avokadoen og skær den på langs i mindre stykker.
+5. Kom en tangplade på bambusrullen og kom 2/3 quinoa (quinoa'en skal være lun) med en ske på pladen og "stamp" det godt med skeen.
+6. Smør mayonnaise med en ske midt på stykket med quinoa. Læg en forårsløg, avokado og agurk.
+7. Rul pladen sammen med bambusrullen og dup det frie stykke tang med vand og luk rullen.
+8. Gentag fremgangsmåden for alle tangplader.
+9. Kom rullerne på køl og skær dem ud i mindre stykker.
 
 
  
