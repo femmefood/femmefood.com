@@ -32,43 +32,38 @@ Vi elsker sushi! Vi elsker quinoasushi endnu mere :) Quinoasushi er ikke så kli
 
 
 
-## Quinoasushi
-- 3 dl hvid quinoa
+## Quinoasushi (2 personer - ca. 40 stykker)
+- 2 dl hvid quinoa
 - 1 dl rød quinoa
+- 6 dl vand
 - 5 forårsløg
 - 1 agurk
 - Avokado
 - 5 tangplader
 
 ## Vegansk hvidløgsmayonnaise
-- 1/2dl usødet sojamælk
-
-- 1/2tsk. sennep
-
-- 1tsk. citron
-
+- 1/2 dl usødet sojamælk
+- 1/2 tsk. sennep
+- 1 tsk. citron
 - 1/2 tsk. hvidvineddike
-
-- 1/4tsk.salt
-
-- 1/4tsk. (hvid)peber
-
+- 1/4 tsk. salt
+- 1/4 tsk. (hvid)peber
 - 1dl rapsolie eller olivenolie
+- 2 fed hvidløg 
 
 
-1.Pisksojamælk,sennep,citronogsaltsammenienskål.
+1. Pisksojamælk,sennep,citron og salt sammen i en skål.
 
-2.Pisknuolienilidtefterlidt(huskatalleingredienserskalhavesamme
-
-temperatur,ellersskillermajoen)
+2. Pisk olien i lidt efter lidt (husk at alle ingredienser skal have samme temperatur ellers skiller mayonnaisen).
+3. Pres hvidløgene med en hvidløgspresser og kom dem i og rør rundt.
 
 
 
 
 
 ### Tilberedning
-1. Start med at indstille ovnen på 200 C alm. ovn.
-2.  Riv dernæst gulerødderne.
+1. Start med at lave hvidløgsmayonnaisen, som beskrevet ovenover.
+2.  Kom quinoa i en gryde og tilsæt vand.
 2. Kom sojakødet i en skål og overhæld det med kogende vand.
 3. Hak løget og svits det i en gryde.
 4. Tilsæt sojakødet, hakkede tomater, hvidløg og oregano og skur op for blusset og rør rundt i sojakødsovsen. Smag evt. til med salt og peper.
