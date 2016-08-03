@@ -40,6 +40,8 @@ Vi elsker sushi! Vi elsker quinoasushi endnu mere :) Quinoasushi er ikke så kli
 - 1 agurk
 - Avokado
 - 5 tangplader
+- Sojasauce (tilbehør)
+- Wasabi (tilbehør)
 
 ### Udstyr
 - Bambusrulle
