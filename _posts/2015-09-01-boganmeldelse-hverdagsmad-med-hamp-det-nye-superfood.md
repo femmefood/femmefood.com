@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Findes der noget bedre end uventede gaver? Svaret er nej! Og så endda på en helt almindelig hver dag. I vores postkasse lå denne skønne bog: **Hverdagsmad med hamp – det nye superfood**.Bag bogen står Pernille Buhl, Helle Vinther og Henriette Christensen. Idéen til bogen udspringer af Pernille, som i 2013 lavede en radikal livsstilsændring efter hun fik konstateret modermærkekræft. Deriblandt introducerede hun hamp i forskellige former i maden.
+Findes der noget bedre end uventede gaver? Svaret er nej! Og så endda på en helt almindelig hver dag. I vores postkasse lå denne skønne bog: *Hverdagsmad med hamp – det nye superfood*.Bag bogen står Pernille Buhl, Helle Vinther og Henriette Christensen. Idéen til bogen udspringer af Pernille, som i 2013 lavede en radikal livsstilsændring efter hun fik konstateret modermærkekræft. Deriblandt introducerede hun hamp i forskellige former i maden.
 
 
 ![Hverdagsmad med hamp – det nye superfood](https://c1.staticflickr.com/9/8078/29381520995_78285281e4_z.jpg) 
