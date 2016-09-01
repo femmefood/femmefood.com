@@ -2,7 +2,7 @@
 layout: post
 title: Boganmeldelse – Hverdagsmad med hamp – det nye superfood
 image: https://c1.staticflickr.com/9/8078/29381520995_78285281e4_n.jpg
-date: 2016-07-10 14:30
+date: 2016-09-01 14:15
 categories:
 - Blogpost
 
