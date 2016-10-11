@@ -8,7 +8,7 @@ categories:
 
 
 ---
-Det er for alvor blevet koldt, mørkt og regnfuldt udenfor. Det betyder, at der er blevet tid til råhygge indenfor med stearinlys, varme tæpper og lun suppe! Vi har samlet tre af vores favoritsupper, som vi synes I skal give jer i kast med lave i løbet af efteråret.
+Det er for alvor blevet koldt, mørkt og regnfuldt udenfor. Det betyder, at der er blevet tid til råhygge indenfor med stearinlys, varme tæpper og lun suppe! Vi har samlet tre af vores favoritsupper, som vi synes, ai I skal give jer i kast med at lave i løbet af efteråret.
 
 
 ![3 favoritsupper](https://c1.staticflickr.com/9/8589/30155035821_b75d7596af_z.jpg) 
