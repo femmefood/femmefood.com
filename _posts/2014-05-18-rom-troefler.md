@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Romtrøfler
+title: Raw romtrøfler
 image: https://farm8.staticflickr.com/7385/14191101111_7061107a00_n.jpg
 date: 2014-05-18 13:35
 tags:
@@ -8,6 +8,8 @@ tags:
 - Kakao
 - Romessens
 - Mandelmel
+- Romkugler
+
 categories:
 - Opskrift
 - Mælkefri
@@ -18,12 +20,12 @@ categories:
 
 ---
 
-Jeg er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på billedet eller måske meget. Nøj hvor smager de bare godt! Vi har lavet dem nogle gange efterhånden. Det geniale ved dem er, at de er super nemme og hurtige at lave, og så minder de om dem, som vi køber nede ved bageren, meeen disse her har aldrig set skyggen af sukker + så indeholder de en masse gode fedtstoffer i form af mandler! :)
+VI er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på billedet eller måske meget. Nøj hvor smager de bare godt! Vi har lavet dem nogle gange efterhånden. Det geniale ved dem er, at de er super nemme og hurtige at lave, og så minder de om dem, som vi køber nede ved bageren, meeen disse her har aldrig set skyggen af sukker + så indeholder de en masse gode fedtstoffer i form af mandler! :)
 
 ![Romtrøfler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
 
 
-## Romtrøfler (20 små trøfler)
+## Raw romkugler (20 små trøfler)
 - 2 dl mandler (med skal)
 - 10 dadler (uden sten)
 - 4 tsk. romessens
