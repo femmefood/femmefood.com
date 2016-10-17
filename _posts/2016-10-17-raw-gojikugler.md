@@ -25,7 +25,7 @@ categories:
 #glutenfri #mælkefri #vegansk 
 
 Av, av, av... Disse små, himmelske mundgodter er i stærk konkurrence med vores anerkendte [raw romkugler](http://www.femmefood.com/2014/05/rom-troefler/)!  Vi kan faktisk ikke vælge, hvad der er vores yndlingsrawkugle længere! De er smadderhurtige at smække sammen, så du kan sagtens nå at lave dem inden aftenkaffen (hvis du dog har alle ingredienserne stående) ;)
-Raw kuglerne er rullet i krymmel af knuste gojibær og kokoschips. Gojibær er små, røde superfoods, som betyder at de har et højt indhold af antioxidanter, der beskytter mod aldring og styrker vores immunforsvar. Derudover har gojibær et højt indhold af c-vitamin faktisk 50 gange så meget som der er i en appelsin. 
+Raw kuglerne er rullet i krymmel af knuste gojibær og kokoschips. Gojibær er små, røde superfoods som betyder, at de har et højt indhold af antioxidanter, der beskytter mod aldring og styrker vores immunforsvar. Derudover har gojibær et højt indhold af c-vitamin faktisk indeholder de 50 gange så meget c-vitamin, som der er i en hel appelsin. 
 
 
 ![Raw gojibærkugler](https://c1.staticflickr.com/9/8271/30352665866_a1a56a5527_z.jpg) 
