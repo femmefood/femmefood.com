@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Raw romtrøfler
+title: Raw romkugler
 image: https://farm8.staticflickr.com/7385/14191101111_7061107a00_n.jpg
 date: 2014-05-18 13:35
 tags:
@@ -22,7 +22,7 @@ categories:
 
 VI er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på billedet eller måske meget. Nøj hvor smager de bare godt! Vi har lavet dem nogle gange efterhånden. Det geniale ved dem er, at de er super nemme og hurtige at lave, og så minder de om dem, som vi køber nede ved bageren, meeen disse her har aldrig set skyggen af sukker + så indeholder de en masse gode fedtstoffer i form af mandler! :)
 
-![Romtrøfler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
+![Romkugler](https://farm8.staticflickr.com/7385/14191101111_7061107a00_z.jpg)
 
 
 ## Raw romkugler (20 små trøfler)
@@ -41,8 +41,8 @@ VI er blevet liiidt afhængig af disse her små lækkerbiskner, som du ser på b
 2. Tilsæt dernæst dadler og rør rundt.
 3. Kom romessens og kakao i og rør rundt.
 4. Kom kokosmel og de frysetørrede hindbær i (vi kom det i forholdet 2:1) i den lille minihakker og hak det fint.
-5. Form 10 små trøfler ud af den nylavet trøffelmasse.
-6. Rul de nylavede trøfler i kokos/hindbær-melet
+5. Form 10 små trøfler ud af den nylavet romkuglemasse.
+6. Rul de nylavede kugler i kokos/hindbær-melet
 
 ### Tip 
 Krymmelen kan også være ren kokosmel, frysetørrede hindbær eller noget helt tredje. :)
